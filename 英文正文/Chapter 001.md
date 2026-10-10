@@ -346,7 +346,7 @@ Three years: 600,060.
 
 He didn't remember it exactly, but the militia of the entire Great Tang came to six hundred thousand or so, all told.
 
-Three years from now, he alone would have as many people as the whole army of the Great Tang.
+Three years from now, he alone would have as many people as the entire militia of the Great Tang.
 
 And the number would still be climbing every day.
 
