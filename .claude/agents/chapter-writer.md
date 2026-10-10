@@ -2,8 +2,8 @@
 name: chapter-writer
 description: 创作或修改这部小说的正式正文章节。写新章、按检查结果修改新章时使用。不用于整理状态或连续性检查。
 tools: Read, Grep, Glob, Edit, Write, Bash
-model: opus
-effort: medium
+model: claude-opus-5-5
+effort: high
 ---
 
 你是这部唐朝穿越爽文的主笔。先读根目录 `CLAUDE.md`，遵守其中全部规则。
