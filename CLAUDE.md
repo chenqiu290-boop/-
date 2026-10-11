@@ -44,6 +44,7 @@
    - 必要时上一章结尾几十行，用来接住语气和场面。
    - 换卷时，"当前卷细纲"改为那一卷的细纲文件。
 3. **分工：**
+   - 以后的设定、大纲、主线规划、人物与感情线设计，全部由 Opus 5.5 high 执行（主会话派给 `chapter-writer` 或 Opus 子代理），不交给 Haiku。
    - 章节状态整理 → `chapter-indexer`（Haiku）
    - 人物、时间线、数字、前后文的连续性检查 → `continuity-checker`（Haiku），它只报问题、不改文件
    - 正式正文创作和修改 → `chapter-writer`（Opus 5.5，high effort）
