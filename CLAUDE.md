@@ -46,7 +46,7 @@
 3. **分工：**
    - 章节状态整理 → `chapter-indexer`（Haiku）
    - 人物、时间线、数字、前后文的连续性检查 → `continuity-checker`（Haiku），它只报问题、不改文件
-   - 正式正文创作和修改 → `chapter-writer`（Opus，medium effort）
+   - 正式正文创作和修改 → `chapter-writer`（Opus 5.5，high effort）
    - 快捷命令：`/write-chapter <章号>`、`/check-chapter <章号>`
 4. 子代理的结论要回到原文核实后再采用，尤其是 Haiku 报的问题。
 5. 主会话不要重复子代理已经做过的读取和检查。
