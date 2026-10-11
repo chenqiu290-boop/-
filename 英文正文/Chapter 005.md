@@ -216,7 +216,7 @@ He looked up at the beam, then down at the pried-up bricks in the corner, and al
 
 The thing had been hidden up in the beam, and those men had been searching under the floor the whole time. Not one of them had thought to look up.
 
-A minor Eastern Palace official, on the night of Xuanwu Gate, before he hanged himself, had hidden a box inside the very beam he hanged himself from. For two months, someone had been using talk of ghosts as cover to ransack this house night after night. The county's chief constable had personally walked circles around the gate.
+A minor Eastern Palace official, on the night the news of Xuanwu Gate reached him, before he hanged himself, had hidden a box inside the very beam he hanged himself from. For two months, someone had been using talk of ghosts as cover to ransack this house night after night. The county's chief constable had personally walked circles around the gate.
 
 Whatever was in this box, it had to be deadly.
 
