@@ -30,9 +30,9 @@ The young man fed the strip of meat to the falcon. Only then did he turn around.
 
 "Fan Da. These the ones?"
 
-"Yes." Manager Fan stepped forward. "That young fellow there. In a little over a double-hour, he won three times his stake. Wins three, loses one, and only ever loses on small bets. Never once bet against Wang the Eldest."
+"Yes." Manager Fan stepped forward. "That young fellow there. In a little over a double-hour, he won three times his stake. Wins three, loses one, and only ever loses on small bets. Never once bet against Wang Da."
 
-The young man raised an eyebrow. "Who's Wang the Eldest?"
+The young man raised an eyebrow. "Who's Wang Da?"
 
 "A farmer from south of the city. Sold his donkey to come gamble."
 
@@ -62,7 +62,7 @@ A maid brought out a wooden tray and five wooden pieces.
 
 Zhou Two picked up the pieces and weighed them in his hand, then turned them over one by one to look.
 
-"Young master's pieces are better than the ones in the other houses."
+"These pieces are better than the ones in the other houses, young master."
 
 "Fan Da, did you hear that?" Dou the Eleventh was delighted. "Even he says the pieces in your house are no good."
 

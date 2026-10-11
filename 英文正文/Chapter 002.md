@@ -1,6 +1,6 @@
 # Chapter 2: One Lighter
 
-The moment the Hour of the Rat arrived, the line of gold text lit up in front of his eyes, right on schedule.
+The moment the Hour of the Rat arrived—the double-hour that straddles midnight—the line of gold text lit up in front of his eyes, right on schedule.
 
 [Deathsworn Summoning]
 
@@ -88,7 +88,7 @@ In his other hand, the pebble lay quietly.
 
 "All right."
 
-Zhou One, Zhou Two, Zhou Three. To anyone else, that was just the eldest, second, and third of the Zhou family. Once they were out in the world, Zhou Three would be Zhou Sanniang, and nobody could find a thing wrong with it.
+Zhou One, Zhou Two, Zhou Three. To anyone else, that was just the eldest, second, and third of the Zhou family. Once they were out in the world, Zhou Three would be Zhou Sanniang—Third Daughter Zhou—and nobody could find a thing wrong with it.
 
 Only Shen You knew the lineup was really a week in disguise: Monday, Tuesday, Wednesday.
 
@@ -208,7 +208,7 @@ He pushed the lighter back to the middle of the counter.
 
 "Then we'll talk about the first." The merchant didn't press. "Sell this to a West Market trader and it won't fetch much. Traders only care what a thing is good for, and for making fire there's the fire steel, one coin a set. But send it through the right door, and it stops being a thing for making fire."
 
-He held up five fingers. "Five strings."
+He held up five fingers. "Five strings—five thousand coins."
 
 "The proprietor just said that sent through the right door, it stops being a thing for making fire," Zhou One said. "Then what it's worth depends on how big that door is."
 

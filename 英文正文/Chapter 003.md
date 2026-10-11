@@ -236,9 +236,9 @@ They came to rest. Three black, two white.
 
 The stubbled man slapped his thigh, swore, and shoved the string of coins in front of him across the table.
 
-"Wang Eldest!" someone jeered. "Your mother told you to sell the donkey and buy wheat seed. How much of the donkey money's left?"
+"Wang Da!" someone jeered. "Your mother told you to sell the donkey and buy wheat seed. How much of the donkey money's left?"
 
-"Get lost!" Wang the Eldest's eyes were bloodshot. He fished out another small string of coins and slapped it on the table. "One more round! Once the *lu* comes up, I'm buying two donkeys!"
+"Get lost!" Wang Da's eyes were bloodshot. He fished out another small string of coins and slapped it on the table. "One more round! Once the *lu* comes up, I'm buying two donkeys!"
 
 Now Shen You understood. This was *chupu*. Five wooden pieces, black on one side and white on the other. All five black was called *lu*, the best throw there was, so everyone shouted for *lu*. An old idiom came to Shen You's mind: *hulu hezhi*, shouting for *lu* and hollering for *zhi*. That was exactly the scene in front of him.
 
@@ -266,7 +266,7 @@ He never rushed to throw. He always waited until the others had thrown before he
 
 It took Shen You a while to see the trick. Zhou Two only picked the ones who'd gotten desperate. The more they lost, the more desperate they got; the more desperate they got, the bigger they bet; and the bigger they bet, the more easily they lost to him.
 
-And yet Wang the Eldest, the most desperate man in the room, Zhou Two hadn't bet against even once.
+And yet Wang Da, the most desperate man in the room, Zhou Two hadn't bet against even once.
 
 The rule here was that the house didn't gamble against its customers. It only took a cut. What Zhou Two was winning was the money of every gambler in the room.
 
@@ -350,7 +350,7 @@ Manager Fan rose and cupped his hands. "Take care on your way, young master."
 
 Out the black-lacquered door, the three of them turned into the winding lane they'd come in by.
 
-"That Wang the Eldest," Shen You said suddenly. "You didn't touch him once."
+"That Wang Da," Shen You said suddenly. "You didn't touch him once."
 
 Zhou Two's eyelids drooped. "That was donkey money. Win it, and it wouldn't spend right."
 
@@ -434,7 +434,7 @@ All he had to do today was stay steady.
 
 Zhou Two and Zhou Four exchanged a look. Neither said a word. Zhou Four moved half a step closer to Shen You.
 
-Manager Fan smiled too, and stepped aside to clear the way. "Young master, please."
+Manager Fan smiled too, and stepped aside to clear the way. "Please, young master."
 
 ***
 

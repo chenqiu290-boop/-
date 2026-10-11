@@ -108,7 +108,7 @@ Chang'an, fourteen hundred years ago.
 
 The ninth year of Wude, the ninth day of the eighth month.
 
-Shen You was a regular in the history corner of the video sites, and he'd binged at least twenty different takes on the Xuanwu Gate Incident. On the fourth day of the sixth month of the ninth year of Wude, Li Shimin, the Prince of Qin, had ambushed and killed the Crown Prince and the Prince of Qi at the Xuanwu Gate, then forced his father to give up the throne. In the eighth month came the enthronement.
+Shen You was a regular in the history corner of the video sites, and he'd binged at least twenty different takes on the Xuanwu Gate Incident. On the fourth day of the sixth month of the ninth year of Wude, Li Shimin, the Prince of Qin, had ambushed and killed his own brothers, the Crown Prince and the Prince of Qi, at the Xuanwu Gate, then forced his father to give up the throne. In the eighth month came the enthronement.
 
 Which was today.
 
@@ -378,7 +378,7 @@ So what was next?
 
 The stars twinkled in the hole in the roof. The night sky fourteen hundred years ago had no light pollution; even with half a moon still hanging in the west, the stars were packed in ridiculously thick.
 
-Li Shimin, Fang Xuanling, Du Ruhui, Yuchi Gong, Cheng Yaojin, Wei Zheng...
+Li Shimin, Fang Xuanling, Du Ruhui, Yuchi Jingde, Cheng Yaojin, Wei Zheng...
 
 Names he'd seen countless times in textbooks and videos, every one of them alive right now, just to the north, behind those dark, looming palace walls.
 
