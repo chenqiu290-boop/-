@@ -6,7 +6,7 @@ Three people stepped out of the darkness and dropped to one knee.
 
 "Greetings, Master."
 
-This time Shen You didn't need the lighter. Zhou One had already banked a small fire in the middle of the ruined temple, and its light picked out three faces.
+This time Shen You didn't need the lighter. Zhou One had already gotten a small fire going in the middle of the ruined temple, and its light picked out three faces.
 
 [Deathsworn · Four]
 
@@ -28,7 +28,7 @@ With that, he went to the doorway and said to Zhou One, "Your eyes are red from 
 
 Zhou One looked at him, didn't argue, and got up to give him the spot.
 
-The carpenter was a gray-bearded old man in his forties. The first thing he did when he came in was look up at the roof beam. He studied it for a long while, then reached out and rapped on a pillar, listened to the sound, and shook his head.
+The carpenter was a salt-and-pepper-bearded old man in his forties. The first thing he did when he came in was look up at the roof beam. He studied it for a long while, then reached out and rapped on a pillar, listened to the sound, and shook his head.
 
 "The worms have eaten this beam half hollow. It won't make it through the winter," he told Shen You. "Not worth fixing. If the Master means to stay long, better find somewhere else."
 
@@ -86,7 +86,7 @@ Zhou Four spoke up as well. "Fewer people, easier to get out."
 
 Zhou Two didn't make a sound. He just looked at him.
 
-Shen You laughed and tried a more serious answer. "Think about it. You go in alone and win money, and you're a strange face come to break the house. You bring Zhou Four, and it's a gambler and his muscle. Even worse."
+Shen You laughed and tried a more serious answer. "Think about it. You go in alone and win money, and you're a strange face come to break the house. You bring Zhou Four, and it's a gambler and his muscle. That looks even more like trouble."
 
 "With me there, it's different. A young gentleman out for a bit of fun with two servants, and one of his men has a lucky hand and wins some money. The den's seen plenty of those. Nobody will think twice."
 
@@ -416,7 +416,7 @@ The lane went quiet for a while.
 
 Shen You looked at the scar-browed man and suddenly found this very interesting.
 
-The rules had to be kept. Face had to be saved. The guest had to be held. And no blood could be spilled. Six men, not too many and not too few, exactly enough to get the words out without pushing things past the point of no return.
+The rules had to be kept. Face had to be saved. The guest had to be kept. And no blood could be spilled. Six men, not too many and not too few, exactly enough to get the words out without pushing things past the point of no return.
 
 This was a man who knew how things worked.
 

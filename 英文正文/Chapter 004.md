@@ -148,7 +148,7 @@ Dou the Eleventh set the pear down.
 
 "Go on."
 
-"Have him be your resident player," Shen You said. "Once every five days, he comes and sits a session at your house. You put the word out among your regulars: there's a young fellow from the West Market who's never lost at *chupu*. Anyone who can beat him in half of ten throws, the house pays out ten times over."
+"Have him be your resident player," Shen You said. "Once every five days, he comes and sits a session at your house. You put the word out among your regulars: there's a young fellow from the West Market who's never lost at *chupu*. Anyone who can beat him in five throws out of ten, the house pays out ten times over."
 
 "Chang'an gamblers can't stand a thing like that. The rich ones won't swallow it, the proud ones won't swallow it, and the ones who've lost will swallow it least of all. They'll come back again and again, and every time they'll bet bigger. The bigger they bet, the bigger your cut."
 
@@ -212,7 +212,7 @@ It struck him, suddenly, that the pear tree in this courtyard, the falcon, the g
 
 Manager Fan saw them out.
 
-Walking down that narrow passage, Shen You glanced at the scar on his brow. "That scar's got some years on it, Manager."
+Walking down that narrow passage, Shen You glanced at the scar on Manager Fan's brow. "That scar's got some years on it, Manager."
 
 "Under the walls of Huoyi. One of Song Laosheng's men." Manager Fan said it flatly. "That was the year I followed the Eleventh's father out of Taiyuan."
 
