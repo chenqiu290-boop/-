@@ -78,3 +78,4 @@
 - 2026-10-12：Share 页设置好了：分类 **Education > Test Prep**（之前错选成 Films 那个分类，已改正），**8 个标签**齐全。已提醒用户点 Save changes。**上架这一步完成。** 下一阶段：找第一个买家。建议的渠道：Reddit r/LearnJapanese（发免费练习，不硬推广告）、Pinterest（把商品图发成图钉）、上架 $0 免费样稿收集邮箱。英文帖子由 Claude 来写。已问用户能不能打开 Reddit 和 Pinterest、有没有账号，等用户回复。
 - 2026-10-12：用户问"我没有上架免费样稿吗"，确认还**没有上架**。在样稿最后一页加了完整版的购买链接（chenqiu290.gumroad.com/l/particle-power，PDF 里可以点击），并补充写了附加小助词和"共 36 页"。已把样稿 PDF 和 thumbnail.png 发给用户，开始教上架免费样稿（文案在 `listing/listing.md` 第十节，价格 0，只用 thumbnail.png 当图，不用完整版的 5 张大图）。
 - 2026-10-12：用户说免费样稿**已发布**。在 `listing/listing.md` 第十节的样稿描述末尾加了一行完整版链接，让用户复制到样稿描述最后。已问用户要样稿的网址，以及能不能打开 Reddit / Pinterest、有没有账号（国内要翻墙）。下一步：根据回答写第一批推广内容——建议先做 **Pinterest**（图钉直接链到商品，适合推广，新号也能发），Reddit r/LearnJapanese 规定严、新号容易被删，只发有用的免费内容、不硬推。
+- 2026-10-12：用户说**不想在 Reddit 上发**，以后不再建议 Reddit。推广主要做 **Pinterest**。还在等用户回答：能不能打开 Pinterest、有没有账号，以及免费样稿的网址。
