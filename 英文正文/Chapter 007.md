@@ -1,4 +1,4 @@
-# Chapter 7: The Slave-and-Horse Market
+# Chapter 7: The Human and Horse Market
 
 The Hour of the Rat. The sixth day.
 
@@ -62,7 +62,7 @@ Shen You picked a few people to come along: Zheng Three to handle the money, Zho
 
 ***
 
-The slave-and-horse market lay in the northwest corner of the West Market, hard by the horse traders' row.
+The Human and Horse Market lay in the northwest corner of the West Market, hard by the horse traders' row.
 
 They smelled it before they reached it: horse dung, hay, the rank musk of livestock, all mixed with the dusty smell of earth baking in the sun. A row of wooden rails had dozens of horses tied along it—tall Hexi horses, short, stocky Turkic horses—and a few Hu merchants were walking mounts back and forth across the yard, hooves churning the yellow dirt to mush. Buyers pried open the horses' mouths to check their teeth, slapped their rumps, and haggled with the brokers.
 
@@ -166,7 +166,7 @@ He turned to Shen You.
 
 ***
 
-A ring of onlookers had gradually gathered. Hu merchants from the horse traders' row, brokers from the slave market, a few men who'd come to buy horses—all of them were looking this way.
+A ring of onlookers had gradually gathered. Hu merchants from the horse traders' row, brokers from the Human and Horse Market, a few men who'd come to buy horses—all of them were looking this way.
 
 "The Pei family's people..."
 

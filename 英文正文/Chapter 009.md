@@ -216,7 +216,7 @@ Feng Five was called in. His long, narrow face had the gray cast of a night with
 
 "Whose?"
 
-"Cui Shouli. General of the Left Guard."
+"Cui Shouli. Colonel of the Left Guard."
 
 Behind Shen You, Qingluo's hands paused on his shoulders.
 
@@ -270,11 +270,11 @@ He wet a fingertip with spit and poked a tiny hole in the paper.
 
 The room was empty. A tall table, tall chairs, an empty bookshelf. On the table lay a sheet of paper written halfway down, the brush resting beside the inkstone, the ink still wet. Weighing down the paper beside it was a black lacquer box. It looked as though the owner had been halfway through writing when someone called him to the back courtyard to drink.
 
-The clay seal on the lid of the box—he had seen a rubbing of it at General Cui's. It was exactly the same.
+The clay seal on the lid of the box—he had seen a rubbing of it at Colonel Cui's. It was exactly the same.
 
 Wei San's heart skipped a beat.
 
-The General had told him to come tonight only to look. But the box was right in front of him, three paces away, with no one in the room, and everyone in the back courtyard listening to songs and drinking.
+The Colonel had told him to come tonight only to look. But the box was right in front of him, three paces away, with no one in the room, and everyone in the back courtyard listening to songs and drinking.
 
 Get it, and there'd be no more waiting four days. No more staking the lives of thirty-odd brothers.
 
@@ -310,7 +310,7 @@ He'd changed into a clean robe and was leaning back in a tall chair. At his elbo
 
 Wei San knelt on the Persian rug, his face covered in bloody welts from the net cords, but he held his neck stiff and didn't say a word.
 
-"General Cui's men," Shen You said, eating a grape, "certainly have stiff spines."
+"Colonel Cui's men," Shen You said, eating a grape, "certainly have stiff spines."
 
 Wei San didn't so much as look at him.
 
@@ -326,7 +326,7 @@ Wei San's whole body jolted, and his head snapped up.
 
 "You did not get the thing, and you have been taken," the voice said slowly. "You may as well tell him the truth."
 
-"G... General?"
+"C... Colonel?"
 
 The color drained from Wei San's face all at once. He stared hard at the screen, his lips trembling, until there was not a drop of blood left in his cheeks.
 
@@ -338,15 +338,15 @@ Wei San was stunned.
 
 He stayed stunned for a long time, and then, slowly, he lowered his head.
 
-He understood now. This household could imitate even the General's voice down to the last inflection. Whatever the General had said to Qian Biao at night, whatever he'd ordered Wei San to do, these people very likely knew all of it already.
+He understood now. This household could imitate even the Colonel's voice down to the last inflection. Whatever the Colonel had said to Qian Biao at night, whatever he'd ordered Wei San to do, these people very likely knew all of it already.
 
 He was guarding his tongue to protect something that had been taken from him long ago.
 
-"...Cui Shouli," he said hoarsely. "General of the Left Guard. He used to be deputy commander of the Eastern Palace Guard's Left Command."
+"...Cui Shouli," he said hoarsely. "Colonel of the Left Guard. He used to be deputy commander of the Eastern Palace Guard's Left Command."
 
 "What's in the box?"
 
-"I don't know," Wei San said. "The General only said it was a roster His Highness the Crown Prince left behind."
+"I don't know," Wei San said. "The Colonel only said it was a roster His Highness the Crown Prince left behind."
 
 "What roster?"
 
@@ -378,7 +378,7 @@ He set the box back on the table and suddenly smiled.
 
 Zhou Four's brows drew together. "Let him go, and Cui Shouli knows what we've got."
 
-"That's the point," Shen You said. "He'll go back and say the Shen household has dozens of people, every one of them a real hand, that they took him in three breaths, and that they could imitate the General's voice down to the last inflection."
+"That's the point," Shen You said. "He'll go back and say the Shen household has dozens of people, every one of them a real hand, that they took him in three breaths, and that they could imitate the Colonel's voice down to the last inflection."
 
 "Once Cui Shouli hears that, either he backs down, and that's the end of it. Or he calls up every man he can get and comes himself on the day the deadline runs out."
 
@@ -394,7 +394,7 @@ Wei San was let go.
 
 When he left, there was a clay jar in his hands, its mouth sealed with red paper, heavy.
 
-"White sugar, for General Cui to taste," Shen You said. "And while you're at it, take him a message: four days left. If the General wants the box, he can come get it himself. Dinner's on me."
+"White sugar, for Colonel Cui to taste," Shen You said. "And while you're at it, take him a message: four days left. If the Colonel wants the box, he can come get it himself. Dinner's on me."
 
 ***
 
@@ -418,7 +418,7 @@ Clean, pure sweetness, sweeter than the tribute from the Western Regions he had 
 
 Cui Shouli slowly swallowed that bit of sweetness. His face showed no expression at all.
 
-"General..." Wei San was kneeling on the floor. "That man has at least forty or fifty people in his house, and every one of them is a hard hand."
+"Colonel..." Wei San was kneeling on the floor. "That man has at least forty or fifty people in his house, and every one of them is a hard hand."
 
 "I know."
 

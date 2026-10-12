@@ -19,6 +19,15 @@
 - **Wude** (618–626): the reign era of the Tang's first emperor. The ninth year of Wude is 626 CE. By the Western calendar, the ninth day of the eighth month falls in early September. The next era, **Zhenguan**, begins in 627.
 - **Double-hour**: a two-hour unit. **The Hour of the Rat** is 11 p.m. to 1 a.m., and in the old reckoning it is where the new day begins. It is also the **third watch**. **The Hour of the Horse** is 11 a.m. to 1 p.m.
 - **Watches**: the night is divided into five. The **fifth watch** is roughly 3 to 5 a.m., when court convenes.
+- **The twelve double-hours**: each is named for an animal of the zodiac.
+
+| Rat | Ox | Tiger | Rabbit | Dragon | Snake |
+|---|---|---|---|---|---|
+| 11 p.m.–1 a.m. | 1–3 a.m. | 3–5 a.m. | 5–7 a.m. | 7–9 a.m. | 9–11 a.m. |
+
+| Horse | Goat | Monkey | Rooster | Dog | Pig |
+|---|---|---|---|---|---|
+| 11 a.m.–1 p.m. | 1–3 p.m. | 3–5 p.m. | 5–7 p.m. | 7–9 p.m. | 9–11 p.m. |
 
 ## Money
 
@@ -33,6 +42,7 @@
 - **Imperial City and Palace City**: the government offices, and the palace itself, in the north of the city.
 - **Eastern Palace**: the crown prince's residence. After the Incident, Li Shimin was named crown prince and took the throne there. His father, now the **Retired Emperor** (Li Yuan, Emperor Gaozu), stayed in **Taiji Palace**.
 - **County**: Chang'an was split into two counties along Vermilion Bird Avenue. Kaiming Ward belongs to Wannian County. **Constables** are the county's detectives and enforcers. **Patrolmen** guard the streets and gates.
+- **Human and Horse Market** (*kouma hang*): the row in the West Market where people and horses were sold. *Kou*, "mouths," was the official word for heads of people. Under Tang law, slaves were a base class and counted as their master's property. They could be bought, sold, given away or inherited. Every sale had to be recorded in a deed drawn up at the Market Office, and a master could free a slave with a written release.
 
 ## History
 
@@ -45,6 +55,11 @@
 - **Dou family**: Li Shimin's mother's clan.
 - **Early Tang wars**: Taiyuan (617), where the Li family rose against the Sui; Huoyi (617), where Song Laosheng, a Sui general, was beaten; Qianshuiyuan (618), Li Shimin's one great defeat.
 - **Yuchi Jingde** (also called Yuchi Gong) and **Cheng Yaojin** (also called Cheng Zhijie) are each one person.
+
+## Offices and ranks
+
+- **Colonel** (*langjiang*) and **Senior Colonel** (*zhonglangjiang*): officers in one of the guard armies stationed in the capital. A colonel (upper fifth rank) serves under a senior colonel (lower fourth rank). Above both sit the guard's generals and its grand general.
+- **Crown Prince's Librarian** (*taizi xima*): an official of the Eastern Palace in charge of the crown prince's books and records, lower fifth rank. The title reads literally as "horse washer," but it comes from an older word for the outriders who went ahead of the prince's horse.
 
 ## People and peoples
 
