@@ -1,0 +1,372 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<title>Particle Power — 中文对照版（仅供核对）</title>
+<style>
+@font-face { font-family: "Fraunces"; font-weight: 600; src: url(fonts/Fraunces-600.ttf); }
+@font-face { font-family: "Noto Sans JP"; font-weight: 400; src: url(fonts/NotoSansJP-400.ttf); }
+@font-face { font-family: "Noto Sans JP"; font-weight: 700; src: url(fonts/NotoSansJP-700.ttf); }
+@font-face { font-family: "Noto Sans SC"; font-weight: 400; src: url(fonts/NotoSansSC-400.ttf); }
+@font-face { font-family: "Noto Sans SC"; font-weight: 700; src: url(fonts/NotoSansSC-700.ttf); }
+@font-face { font-family: "Noto Serif JP"; font-weight: 700; src: url(fonts/NotoSerifJP-700.ttf); }
+
+:root {
+  --ink: #1f1d1a;
+  --muted: #6b665e;
+  --line: #d9d3c7;
+  --soft: #f6f2ea;
+  --accent: #c0412b;      /* seal red: particles only */
+  --accent-soft: #fbe9e4;
+}
+@page { size: 8.5in 11in; margin: 0; }
+* { box-sizing: border-box; }
+html, body { margin: 0; background: #fff; color: var(--ink); }
+body { font-family: "Noto Sans JP", "Noto Sans SC", sans-serif; font-size: 11.5pt; line-height: 1.55; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+.page { width: 8.5in; height: 11in; padding: 0.7in 0.75in 0.6in; position: relative; overflow: hidden; page-break-after: always; break-after: page; }
+.page:last-child { page-break-after: auto; break-after: auto; }
+.folio { position: absolute; left: 0.75in; right: 0.75in; bottom: 0.38in; display: flex; justify-content: space-between; font-size: 8.5pt; color: var(--muted); border-top: 1px solid var(--line); padding-top: 6px; }
+
+h1, h2, h3 { font-family: "Fraunces", "Noto Sans SC", serif; font-weight: 700; font-weight: 600; margin: 0; letter-spacing: -0.01em; }
+h2 { font-size: 24pt; line-height: 1.15; }
+h3 { font-size: 13.5pt; margin: 18px 0 8px; }
+.kicker { font-size: 9pt; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); font-weight: 700; margin-bottom: 6px; }
+p { margin: 0 0 10px; }
+.muted { color: var(--muted); }
+.jp { font-size: 13pt; }
+rt { font-size: 0.5em; color: var(--muted); }
+.p { color: var(--accent); font-weight: 700; }
+.big-particle { font-family: "Noto Serif JP", serif; font-weight: 700; color: var(--accent); }
+
+/* Lesson header */
+.lesson-head { display: flex; align-items: center; gap: 22px; padding-bottom: 14px; border-bottom: 2px solid var(--ink); margin-bottom: 16px; }
+.lesson-head .big-particle { font-size: 64pt; line-height: 1; width: 1.15em; text-align: center; }
+.lesson-head .sub { font-size: 11pt; color: var(--muted); margin-top: 4px; }
+
+.keyidea { background: var(--soft); border-left: 4px solid var(--accent); padding: 12px 16px; margin: 0 0 14px; }
+.keyidea strong { display: block; margin-bottom: 2px; }
+.pattern { font-size: 13pt; text-align: center; padding: 10px; border: 1px dashed var(--line); border-radius: 6px; margin: 10px 0 14px; }
+.pattern .slot { display: inline-block; padding: 1px 10px; border-radius: 4px; background: #efebe3; font-size: 10.5pt; }
+
+.ex { width: 100%; border-collapse: collapse; margin-bottom: 6px; }
+.ex td { padding: 7px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.ex td:first-child { width: 58%; font-size: 13pt; }
+.ex td:last-child { color: var(--muted); font-size: 10.5pt; padding-top: 11px; }
+
+.tip { border: 1px solid var(--line); border-radius: 8px; padding: 10px 14px; margin-top: 12px; font-size: 10.5pt; }
+.tip b.t { color: var(--accent); text-transform: uppercase; font-size: 8.5pt; letter-spacing: 0.12em; display: block; margin-bottom: 2px; }
+
+/* Exercises */
+.task { font-weight: 700; margin: 4px 0 8px; }
+.task .n { display: inline-block; background: var(--ink); color: #fff; border-radius: 3px; padding: 0 7px; margin-right: 8px; font-size: 9.5pt; }
+ol.q { margin: 0 0 14px; padding-left: 26px; }
+ol.q li { padding: 6px 0; font-size: 13pt; }
+ol.q li .en { display: block; font-size: 10pt; color: var(--muted); }
+.blank { display: inline-block; width: 2.3em; border-bottom: 1.5px solid var(--ink); margin: 0 3px; height: 1em; vertical-align: -2px; }
+.writeline { display: block; border-bottom: 1px solid var(--line); height: 30px; margin-top: 2px; }
+.choices { display: inline-block; margin-left: 10px; font-size: 10pt; color: var(--muted); }
+.cols { display: grid; grid-template-columns: 1fr 1fr; gap: 0 28px; }
+.hawa { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 18px; }
+.hawa div { border: 1px solid var(--line); border-radius: 6px; padding: 8px 10px; font-size: 13pt; }
+.hawa .opt { display: block; font-size: 9.5pt; color: var(--muted); margin-top: 2px; }
+.scramble { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 2px; }
+.scramble span { border: 1px solid var(--ink); border-radius: 14px; padding: 1px 10px; font-size: 12pt; }
+
+/* Cover */
+.cover { padding: 0; background: var(--soft); }
+.cover .band { position: absolute; top: 0; right: 0; width: 2.6in; height: 100%; background: var(--accent); display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 4px; }
+.cover .band span { font-family: "Noto Serif JP", serif; font-weight: 700; color: #fff; font-size: 54pt; line-height: 1.12; }
+.cover .band span.dim { opacity: 0.55; }
+.cover .inner { position: absolute; left: 0.8in; top: 1.2in; width: 4.6in; }
+.cover h1 { font-size: 46pt; line-height: 1.02; margin: 10px 0 18px; }
+.cover .tag { font-size: 13pt; color: var(--muted); margin-bottom: 30px; }
+.cover .level { display: inline-block; border: 1.5px solid var(--ink); padding: 3px 12px; font-weight: 700; font-size: 10pt; letter-spacing: 0.1em; }
+.cover ul { list-style: none; padding: 0; margin: 30px 0 0; font-size: 11pt; }
+.cover ul li { padding: 6px 0; border-top: 1px solid var(--line); }
+.cover ul li:last-child { border-bottom: 1px solid var(--line); }
+.cover .foot { position: absolute; left: 0.8in; bottom: 0.7in; font-size: 9pt; color: var(--muted); }
+
+/* Map */
+.map { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 12px 0 18px; }
+.map div { border: 1px solid var(--line); border-radius: 8px; padding: 10px 10px 12px; text-align: center; }
+.map .big-particle { font-size: 30pt; line-height: 1.2; display: block; }
+.map .r { font-size: 9pt; color: var(--muted); }
+.map .m { font-size: 10pt; font-weight: 700; display: block; margin-top: 2px; }
+.map div.on { background: var(--accent-soft); border-color: var(--accent); }
+.steps { counter-reset: s; list-style: none; padding: 0; margin: 0; }
+.steps li { counter-increment: s; padding: 6px 0 6px 34px; position: relative; }
+.steps li::before { content: counter(s); position: absolute; left: 0; top: 6px; width: 22px; height: 22px; border-radius: 50%; background: var(--ink); color: #fff; font-size: 10pt; text-align: center; line-height: 22px; }
+
+/* 答案 */
+.key h3 { font-size: 12pt; margin: 14px 0 6px; }
+.key ol { margin: 0; padding-left: 22px; font-size: 11pt; columns: 2; column-gap: 28px; }
+.key ol li { padding: 2px 0; break-inside: avoid; }
+.next { background: var(--soft); border-radius: 10px; padding: 14px 18px; margin-top: 18px; }
+.next .row { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px; }
+.next .row span { font-family: "Noto Serif JP", serif; font-weight: 700; color: var(--accent); background: #fff; border: 1px solid var(--line); border-radius: 6px; padding: 2px 12px; font-size: 15pt; }
+</style>
+</head>
+<body>
+
+<!-- ============ 1. COVER ============ -->
+<section class="page cover">
+  <div class="band"><span>は</span><span>が</span><span>を</span><span class="dim">に</span><span class="dim">で</span></div>
+  <div class="inner">
+    <div class="level">JLPT N5 · 初级</div>
+    <h1>Particle<br>Power</h1>
+    <div class="tag">一本练习册，专攻把日语句子连在一起的那些"小词"。</div>
+    <ul>
+      <li>用简单英语讲清楚（此版为中文对照）</li>
+      <li>所有汉字都标假名</li>
+      <li>完整版 60+ 道练习题，附答案</li>
+      <li>打印出来，直接在上面写</li>
+    </ul>
+  </div>
+  <div class="foot">中文对照版（仅供核对，不出售）· 免费样稿 · は、が、を</div>
+</section>
+
+<!-- ============ 2. HOW TO USE + MAP ============ -->
+<section class="page">
+  <div class="kicker">从这里开始</div>
+  <h2>认识助词</h2>
+  <p class="muted" style="margin-top:8px">助词是放在词<em>后面</em>的小词，告诉你这个词在句子里的作用。英语靠语序表达这一点，日语靠助词。</p>
+
+  <div class="pattern">
+    <span class="jp">わたし<span class="p">は</span>　パン<span class="p">を</span>　たべます。</span><br>
+    <span class="muted" style="font-size:10pt">我吃面包。　·　は 把"我"标为主题，を 把"面包"标为被吃的东西。</span>
+  </div>
+
+  <h3>N5 的 8 个核心助词</h3>
+  <div class="map">
+    <div class="on"><span class="big-particle">は</span><span class="r">wa</span><span class="m">主题</span></div>
+    <div class="on"><span class="big-particle">が</span><span class="r">ga</span><span class="m">主语</span></div>
+    <div class="on"><span class="big-particle">を</span><span class="r">o</span><span class="m">宾语</span></div>
+    <div><span class="big-particle">に</span><span class="r">ni</span><span class="m">时间 · 去向 · 所在</span></div>
+    <div><span class="big-particle">で</span><span class="r">de</span><span class="m">动作场所 · 手段</span></div>
+    <div><span class="big-particle">へ</span><span class="r">e</span><span class="m">方向</span></div>
+    <div><span class="big-particle">と</span><span class="r">to</span><span class="m">和 · 跟</span></div>
+    <div><span class="big-particle">も</span><span class="r">mo</span><span class="m">也</span></div>
+  </div>
+  <p class="muted" style="font-size:10pt; margin-top:-8px">红色高亮的助词包含在本样稿中。</p>
+
+  <h3>怎么用这本练习册</h3>
+  <ol class="steps">
+    <li><b>先读"核心概念"。</b>每课开头有一条简短规则，先记住它，再看细节。</li>
+    <li><b>把例句读出声。</b>耳朵比眼睛更快记住句型。</li>
+    <li><b>用铅笔做练习。</b>然后对照最后的答案。</li>
+    <li><b>标出做错的题。</b>2～3 天后再做一遍。</li>
+  </ol>
+  <div class="folio"><span>Particle Power · N5 · 中文对照版</span><span>2</span></div>
+</section>
+
+<!-- ============ 3. LESSON は ============ -->
+<section class="page">
+  <div class="lesson-head">
+    <div class="big-particle">は</div>
+    <div><div class="kicker">第 1 课 · 读作 "wa"</div><h2>主题标记</h2><div class="sub">"说到 X……"——这句话在讲什么</div></div>
+  </div>
+
+  <div class="keyidea"><strong>核心概念</strong>は 标记<b>主题</b>：你正在谈论的东西。は 后面的内容都是对这个主题的说明。</div>
+
+  <div class="pattern"><span class="slot">主题</span> <span class="p jp">は</span> <span class="slot">说明</span> <span class="jp">です。</span></div>
+
+  <table class="ex">
+    <tr><td>わたし<span class="p">は</span> <ruby>学生<rt>がくせい</rt></ruby>です。</td><td>我是学生。</td></tr>
+    <tr><td>これ<span class="p">は</span> <ruby>本<rt>ほん</rt></ruby>です。</td><td>这是一本书。</td></tr>
+    <tr><td><ruby>田中<rt>たなか</rt></ruby>さん<span class="p">は</span> <ruby>先生<rt>せんせい</rt></ruby>です。</td><td>田中先生／女士是老师。</td></tr>
+    <tr><td><ruby>今日<rt>きょう</rt></ruby><span class="p">は</span> さむいです。</td><td>今天很冷。<br><span style="font-size:9.5pt">（直译："说到今天，很冷。"）</span></td></tr>
+  </table>
+
+  <div class="tip"><b class="t">发音</b>助词 は 写作假名 <b>ha</b>，但永远读 <b>wa</b>。在普通单词里，は 仍然读 <b>ha</b>：はな（hana，花）、はい（hai，是）。</div>
+
+  <div class="tip"><b class="t">补充 · 对比</b>は 也可以用来对比两样东西：<br>
+    <span class="jp">コーヒー<span class="p">は</span> <ruby>飲<rt>の</rt></ruby>みますが、お<ruby>茶<rt>ちゃ</rt></ruby><span class="p">は</span> <ruby>飲<rt>の</rt></ruby>みません。</span><br>
+    <span class="muted">我喝咖啡，但不喝茶。</span></div>
+  <div class="folio"><span>Particle Power · N5 · 中文对照版</span><span>3</span></div>
+</section>
+
+<!-- ============ 4. PRACTICE は ============ -->
+<section class="page">
+  <div class="kicker">第 1 课 · 练习</div>
+  <h2>练习：は</h2>
+
+  <p class="task" style="margin-top:16px"><span class="n">A</span>读 ha 还是 wa？圈出每个带下划线的 は 的读法。</p>
+  <div class="hawa">
+    <div>1. <u>は</u>な<span class="opt">ha / wa</span></div>
+    <div>2. わたし<u>は</u><span class="opt">ha / wa</span></div>
+    <div>3. こんにち<u>は</u><span class="opt">ha / wa</span></div>
+    <div>4. <u>は</u>し<span class="opt">ha / wa</span></div>
+    <div>5. こんばん<u>は</u><span class="opt">ha / wa</span></div>
+    <div>6. <u>は</u>い<span class="opt">ha / wa</span></div>
+  </div>
+
+  <p class="task"><span class="n">B</span>用 は 写成日语。</p>
+  <ol class="q" start="7">
+    <li><span style="font-size:11.5pt">我是安娜。</span><span class="writeline"></span></li>
+    <li><span style="font-size:11.5pt">这是一支笔。</span><span class="writeline"></span></li>
+    <li><span style="font-size:11.5pt">佐藤先生／女士是日本人。</span> <span class="muted" style="font-size:9.5pt">(さとう · にほんじん)</span><span class="writeline"></span></li>
+    <li><span style="font-size:11.5pt">明天是星期日。</span> <span class="muted" style="font-size:9.5pt">(あした · にちようび)</span><span class="writeline"></span></li>
+  </ol>
+
+  <p class="task"><span class="n">C</span>填空，表示对比。</p>
+  <ol class="q" start="11">
+    <li>にく<span class="blank"></span> たべますが、さかな<span class="blank"></span> たべません。<span class="en">我吃肉，但不吃鱼。</span></li>
+    <li><ruby>今日<rt>きょう</rt></ruby><span class="blank"></span> ひまですが、あした<span class="blank"></span> いそがしいです。<span class="en">我今天有空，但明天很忙。</span></li>
+  </ol>
+  <div class="folio"><span>Particle Power · N5 · 中文对照版</span><span>4</span></div>
+</section>
+
+<!-- ============ 5. LESSON が ============ -->
+<section class="page">
+  <div class="lesson-head">
+    <div class="big-particle">が</div>
+    <div><div class="kicker">第 2 课 · 读作 "ga"</div><h2>主语标记</h2><div class="sub">谁做了、有什么、喜欢什么</div></div>
+  </div>
+
+  <div class="keyidea"><strong>核心概念</strong>が 指出<b>主语</b>，通常是<b>新信息</b>。如果 は 是"说到 X……"，那 が 就是"就是 <em>X</em>"。</div>
+
+  <h3 style="margin-top:6px">这 3 种情况用 が</h3>
+  <table class="ex">
+    <tr><td colspan="2" style="font-size:10.5pt; font-weight:700; color:var(--accent); border-bottom:none; padding-bottom:0">① 疑问词（だれ、なに、どれ）及其回答</td></tr>
+    <tr><td>だれ<span class="p">が</span> <ruby>来<rt>き</rt></ruby>ましたか。</td><td>谁来了？</td></tr>
+    <tr><td><ruby>田中<rt>たなか</rt></ruby>さん<span class="p">が</span> <ruby>来<rt>き</rt></ruby>ました。</td><td>田中来了。（来的就是田中。）</td></tr>
+    <tr><td colspan="2" style="font-size:10.5pt; font-weight:700; color:var(--accent); border-bottom:none; padding-bottom:0">② "喜欢／擅长／懂"类的词：すき、きらい、じょうず、わかる</td></tr>
+    <tr><td>わたしは ねこ<span class="p">が</span> すきです。</td><td>我喜欢猫。</td></tr>
+    <tr><td><ruby>母<rt>はは</rt></ruby>は りょうり<span class="p">が</span> じょうずです。</td><td>我妈妈很会做饭。</td></tr>
+    <tr><td colspan="2" style="font-size:10.5pt; font-weight:700; color:var(--accent); border-bottom:none; padding-bottom:0">③ 表示"有"：あります（物）／います（人、动物）</td></tr>
+    <tr><td>つくえの うえに <ruby>本<rt>ほん</rt></ruby><span class="p">が</span> あります。</td><td>桌子上有一本书。</td></tr>
+    <tr><td>こうえんに <ruby>犬<rt>いぬ</rt></ruby><span class="p">が</span> います。</td><td>公园里有一只狗。</td></tr>
+  </table>
+
+  <div class="tip"><b class="t">常见错误</b>疑问词后面<b>绝不</b>接 は。　✗ だれは…　✓ だれが…</div>
+  <div class="folio"><span>Particle Power · N5 · 中文对照版</span><span>5</span></div>
+</section>
+
+<!-- ============ 6. PRACTICE は vs が ============ -->
+<section class="page">
+  <div class="kicker">第 2 课 · 练习</div>
+  <h2>は 还是 が？</h2>
+  <p class="muted" style="margin-top:6px">每个学习者都会问的问题。在空格里填 は 或 が。</p>
+
+  <div class="cols">
+    <ol class="q">
+      <li>だれ<span class="blank"></span> <ruby>来<rt>き</rt></ruby>ましたか。</li>
+      <li>わたし<span class="blank"></span> <ruby>学生<rt>がくせい</rt></ruby>です。</li>
+      <li>わたしは すし<span class="blank"></span> すきです。</li>
+      <li>へやに ねこ<span class="blank"></span> います。</li>
+      <li>これ<span class="blank"></span> わたしの かさです。</li>
+      <li>きのう<span class="blank"></span> あめでした。</li>
+    </ol>
+    <ol class="q" start="7">
+      <li>どれ<span class="blank"></span> あなたの かばんですか。</li>
+      <li>わたしは <ruby>日本語<rt>にほんご</rt></ruby><span class="blank"></span> すこし わかります。</li>
+      <li>なに<span class="blank"></span> ありますか。</li>
+      <li>ペン<span class="blank"></span> あります。<span class="en">（回答第 9 题）</span></li>
+      <li><ruby>兄<rt>あに</rt></ruby><span class="blank"></span> テニス<span class="blank"></span> じょうずです。</li>
+      <li>ビール<span class="blank"></span> <ruby>飲<rt>の</rt></ruby>みますが、ワイン<span class="blank"></span> <ruby>飲<rt>の</rt></ruby>みません。</li>
+    </ol>
+  </div>
+
+  <p class="task" style="margin-top:6px"><span class="n">挑战</span>回答问题，用 が。</p>
+  <ol class="q" start="13">
+    <li>A: どれが あなたの かばんですか。<br>B：（这个）<span class="writeline"></span></li>
+    <li>A: だれが <ruby>先生<rt>せんせい</rt></ruby>ですか。<br>B：（山田女士）<span class="muted" style="font-size:9.5pt">やまださん</span><span class="writeline"></span></li>
+  </ol>
+  <div class="folio"><span>Particle Power · N5 · 中文对照版</span><span>6</span></div>
+</section>
+
+<!-- ============ 7. LESSON + PRACTICE を ============ -->
+<section class="page">
+  <div class="lesson-head">
+    <div class="big-particle">を</div>
+    <div><div class="kicker">第 3 课 · 读作 "o"</div><h2>宾语标记</h2><div class="sub">动作的对象</div></div>
+  </div>
+
+  <div class="keyidea"><strong>核心概念</strong>を 标记你吃、喝、读、买、学的<b>是什么</b>。它回答"<em>做什么？</em>"</div>
+  <div class="pattern"><span class="slot">东西</span> <span class="p jp">を</span> <span class="slot">动作动词</span></div>
+  <table class="ex">
+    <tr><td><ruby>水<rt>みず</rt></ruby><span class="p">を</span> <ruby>飲<rt>の</rt></ruby>みます。</td><td>我喝水。</td></tr>
+    <tr><td><ruby>日本語<rt>にほんご</rt></ruby><span class="p">を</span> べんきょうします。</td><td>我学日语。</td></tr>
+    <tr><td>なに<span class="p">を</span> <ruby>買<rt>か</rt></ruby>いましたか。</td><td>你买了什么？</td></tr>
+  </table>
+  <div class="tip" style="margin-top:6px"><b class="t">注意</b>すき 和 じょうず 用 <b>が</b>，不用 を——它们不是动作动词。　<span style="white-space:nowrap">✗ ねこを すきです</span>　<span style="white-space:nowrap">✓ ねこが すきです</span></div>
+
+  <p class="task" style="margin-top:16px"><span class="n">A</span>选择 は、が 或 を。</p>
+  <div class="cols">
+    <ol class="q">
+      <li>まいあさ コーヒー<span class="blank"></span> <ruby>飲<rt>の</rt></ruby>みます。</li>
+      <li>わたし<span class="blank"></span> テレビ<span class="blank"></span> <ruby>見<rt>み</rt></ruby>ます。</li>
+      <li>わたしは <ruby>犬<rt>いぬ</rt></ruby><span class="blank"></span> すきです。</li>
+    </ol>
+    <ol class="q" start="4">
+      <li>なに<span class="blank"></span> たべますか。</li>
+      <li>ともだち<span class="blank"></span> <ruby>来<rt>き</rt></ruby>ました。</li>
+      <li>てがみ<span class="blank"></span> かきました。</li>
+    </ol>
+  </div>
+
+  <p class="task"><span class="n">B</span>把词语排成正确的句子。</p>
+  <ol class="q" start="7" style="margin-bottom:0">
+    <li><div class="scramble"><span>よみます</span><span>ほんを</span><span>わたしは</span></div><span class="writeline" style="height:24px"></span></li>
+    <li><div class="scramble"><span>かぎが</span><span>あります</span><span>つくえの うえに</span></div><span class="writeline" style="height:24px"></span></li>
+  </ol>
+  <div class="folio"><span>Particle Power · N5 · 中文对照版</span><span>7</span></div>
+</section>
+
+<!-- ============ 8. ANSWER KEY ============ -->
+<section class="page key">
+  <div class="kicker">对答案</div>
+  <h2>答案</h2>
+
+  <h3>第 1 课 · は</h3>
+  <ol>
+    <li>ha</li><li>wa</li><li>wa</li><li>ha</li><li>wa</li><li>ha</li>
+    <li>わたしは アンナです。</li>
+    <li>これは ペンです。</li>
+    <li>さとうさんは にほんじんです。</li>
+    <li>あしたは にちようびです。</li>
+    <li>は ／ は</li>
+    <li>は ／ は</li>
+  </ol>
+
+  <h3>第 2 课 · は 还是 が</h3>
+  <ol>
+    <li>が <span class="muted">（疑问词）</span></li>
+    <li>は</li>
+    <li>が <span class="muted">(すき)</span></li>
+    <li>が <span class="muted">(います)</span></li>
+    <li>は</li>
+    <li>は</li>
+    <li>が <span class="muted">（疑问词）</span></li>
+    <li>が <span class="muted">(わかる)</span></li>
+    <li>が</li>
+    <li>が <span class="muted">（回答 なにが）</span></li>
+    <li>は ／ が</li>
+    <li>は ／ は <span class="muted">（对比）</span></li>
+    <li>これが わたしの かばんです。</li>
+    <li>やまださんが 先生です。</li>
+  </ol>
+
+  <h3>第 3 课 · を</h3>
+  <ol>
+    <li>を</li>
+    <li>は ／ を</li>
+    <li>が <span class="muted">（すき，不是 を！）</span></li>
+    <li>を <span class="muted">（宾语，即使是 なに）</span></li>
+    <li>が</li>
+    <li>を</li>
+    <li>わたしは ほんを よみます。</li>
+    <li>つくえの うえに かぎが あります。</li>
+  </ol>
+
+  <div class="next">
+    <b>喜欢这份样稿吗？</b><span class="muted">完整版还会加入：</span>
+    <div class="row"><span>に</span><span>で</span><span>へ</span><span>と</span><span>も</span><span>の</span><span>か</span><span>から・まで</span></div>
+    <div class="muted" style="font-size:10pt; margin-top:8px">以及综合复习测试和一页助词速查表。</div>
+  </div>
+  <div class="folio"><span>Particle Power · N5 · 仅限个人使用</span><span>8</span></div>
+</section>
+
+</body>
+</html>
