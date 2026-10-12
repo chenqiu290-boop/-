@@ -122,3 +122,17 @@ ol.q li .choices { font-size: 10pt; }
 .vs td { padding: 7px 10px; border-bottom: 1px solid var(--line); vertical-align: top; font-size: 12.5pt; }
 .vs td .tr { display: block; font-size: 9.5pt; color: var(--muted); }
 .vs td.no { color: var(--muted); }
+
+/* Bonus lesson: several small particles per page */
+.mini { display: grid; grid-template-columns: 1.05in 1fr; gap: 0 14px; padding: 12px 0 10px; border-bottom: 1px solid var(--line); }
+.mini:last-of-type { border-bottom: none; }
+.mini > .big-particle { font-size: 34pt; line-height: 1.1; text-align: center; white-space: nowrap; }
+.mini > .big-particle .r { display: block; font-family: "Noto Sans JP", sans-serif; font-weight: 400; font-size: 9pt; color: var(--muted); }
+.mini h3 { margin: 2px 0 4px; font-size: 13pt; }
+.mini p { font-size: 10.5pt; margin: 0 0 4px; }
+.mini .ex { margin-bottom: 4px; }
+.mini .ex td { padding: 5px 6px; }
+.mini .ex td:first-child { width: 66%; font-size: 12pt; }
+.mini .ex td:last-child { padding-top: 8px; }
+.mini .note { font-size: 10pt; color: var(--muted); }
+.mini .note b { color: var(--ink); }
