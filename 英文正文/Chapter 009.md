@@ -20,7 +20,7 @@ The courtyard went quiet for a moment.
 
 Shen You took a sip of tea and went down the line, one by one, not fast, one job per sentence.
 
-"Chen One, go rent a big compound in Baoning Ward and open a sugar works. Starting today, Dou the Eleventh and Kang Satuo get their sugar on a monthly supply. However much they want, we turn out. If you're short of hands, pick from the roster."
+"Chen One, go rent a big compound in Baoning Ward and open a sugar works. Starting today, Dou the Eleventh and Kang Satuo get their sugar supplied monthly. However much they want, we turn out. If you're short of hands, pick from the roster."
 
 "Feng Two, go with him. Put the winery right next door to the sugar works. First brew some good wine, then distill me something strong. The kind that drops a man with one swallow. Feng One will forge your pot, and Chen Three will pick out your steamers."
 
@@ -56,7 +56,7 @@ The whole ward was talking.
 
 "A monk who's gone back to lay life—where does he get that kind of money?"
 
-"Haven't you heard? There's a new pastry shop in the East Market called Shen's, selling sugar cakes as white as snow. The Dou family's carriage goes to haul goods from it every day. The line runs from the shop door all the way to the end of the street, and carriages from the households of quite a few great families go to haul from it every day..."
+"Haven't you heard? There's a new pastry shop in the East Market called Shen's, selling sugar cakes as white as snow. The Dou family's carriage goes to haul goods from it every day. The line runs from the shop door all the way to the end of the street, and carriages from quite a few great households pull up for it every day..."
 
 "Over in the West Market there's a storyteller too, and he's something else. The moment he opens his mouth, the whole tavern forgets to drink..."
 
@@ -76,7 +76,7 @@ On the morning of the eleventh day, Shen You was woken by a ray of light.
 
 It came in through the window and passed first through a layer of moon-white gauze bed curtains. The gauze was so thin it seemed to weigh nothing at all. Zheng Four said it was called *qingrong*, and that a single bolt cost several strings. The sunlight that came through it broke into a soft, gentle white that fell across his face without the least glare.
 
-Beneath him was a broad elm bed, enclosed on three sides by low screens carved with scrolling vines, every stroke of them cut by Zhou Five's knife. The mattress was padded with silk floss, thick and fluffy; when he lay down, his whole body sank half an inch, like lying on a cloud. The coverlet was figured silk that Zheng Four had traded for with that batch of silk Dou the Eleventh had sent over. Smooth and cool, it lay against his skin like water.
+Beneath him was a broad elm bed, enclosed on three sides by low screens carved with scrolling vines, every stroke of them cut by Zhou Five's knife. The mattress was padded with silk floss, thick and fluffy; when he lay down, his whole body sank half an inch, like lying on a cloud. The coverlet was figured silk Zheng Four had got by trading away the plain silk Dou the Eleventh had sent over. Smooth and cool, it lay against his skin like water.
 
 There had originally been a porcelain pillow beside the bed, one Chen Three had picked out at the potters' row. It was celadon-glazed, cool and slick to the touch, and the most fashionable style in the homes of Chang'an's great families. Shen You had slept on it for one night and nearly cricked his neck. The next day he'd had Zheng Four sew him a soft pillow stuffed with buckwheat hulls and silk floss.
 
@@ -124,7 +124,7 @@ The old tub hooped together from door planks was gone. Built into the floor was 
 
 Behind the wall stood a stove, and on the stove sat a copper cauldron Feng One had forged. When the water in it boiled, it ran down a length of clay pipe into the pool. In the bottom of the pool was a separate outlet; water that had gone cool drained out through it and along a covered channel Zheng Two had dug, all the way to the vegetable plots in the back courtyard.
 
-Even better was the floor. Beneath the gray bricks of the bath room, Zheng Two had laid several flues. The smoke and heat from the stove passed under the floor, so the whole floor was warm. Barefoot, it felt toasty, the warmth spreading from the soles of the feet all the way up to the calves.
+Even better was the floor. Beneath the gray bricks of the bath room, Zheng Two had laid several flues. The smoke and heat from the stove passed under the floor, so the whole floor was warm. Bare feet on it felt toasty, the warmth spreading from the soles all the way up to the calves.
 
 "Master, try the water." A'xing came running in with a wooden bucket and set it down by the edge of the pool. In it were the bath beans Zheng Seven had just made and a stack of folded white cloths. Today she wore a goose-yellow short jacket with a long pomegranate-red skirt, and her two little topknots had new red cords. Her round face was rosy, like a sugar cake fresh from the oven. "Sanniang says it's been heating for a whole double-hour. Not too hot, not too cold, just right!"
 
@@ -142,13 +142,13 @@ In his past life, he'd worked overtime until three in the morning on the thirtie
 
 Now he was soaking in a hot pool in the Great Tang, warm underfoot, fragrance in his nose, and outside there were people brewing his tea, cooking his meals, and playing the pipa for him.
 
-He soaked for a full half double-hour, until the tips of his fingers wrinkled.
+He soaked for a good half double-hour, until the tips of his fingers wrinkled.
 
 ***
 
 Breakfast was laid out under the pomegranate tree in the back courtyard.
 
-The old pomegranate had been moved here from an abandoned temple in the south of the city by the landscape gardener among the deathsworn. Its trunk was as thick as the mouth of a bowl, and its branches hung heavy with fruit, red to the point of shining; a few had already split open, showing the jewel-like seeds packed inside. A bamboo mat had been spread beneath the tree with a low table on it, and on the table: a bowl of Zhou Three's mutton soup noodles, the broth milky white and sprinkled with scallions and Sichuan pepper; a dish of Chen Two's steamed sugared milk curd, snow-white and silky, trembling; two sesame flatbreads fresh from the oven, glazed with syrup and baked a glossy gold; and a pot of Feng Two's sweet rice wine, faintly sweet and giving off a chill.
+The old pomegranate had been moved here from an abandoned temple in the south of the city by the landscape gardener among the deathsworn. Its trunk was as thick as the mouth of a bowl, and its branches hung heavy with fruit, red to the point of shining; a few had already split open, showing the jewel-like seeds packed inside. A bamboo mat had been spread beneath the tree with a low table on it, and on the table: a bowl of Zhou Three's mutton soup noodles, the broth milky white and sprinkled with scallions and Sichuan pepper; a dish of Chen Two's steamed sugared milk curd, snow-white and silky, trembling; two sesame flatbreads fresh from the oven, glazed with syrup and baked a glossy gold; and a pot of Feng Two's sweet rice wine, sending up a cool breath.
 
 Under the eaves, a rocking chair Zhou Five had just made was already in place. It had curved elm runners and a seat and back of woven rattan; once you sat down and leaned back a little, the chair began rocking slowly back and forth on its own. It was the first time Zhou Five had ever made such a thing. When he'd finished, he'd sat in it himself first and rocked for ages, his old face cracking into a grin.
 
@@ -182,7 +182,7 @@ Shen You didn't get up. The rocking chair kept rocking. Qingluo stood behind him
 
 "And the wine?"
 
-"Feng Two's strong spirit produced its first jar yesterday." The corner of Zhou One's mouth moved, which was rare. "Feng One refused to believe it. He took a big swig and slept the afternoon away beside the stable."
+"Feng Two's strong spirit produced its first jar yesterday." The corner of Zhou One's mouth moved, which was rare. "Feng One refused to believe it was that strong. He took a big swig and slept the afternoon away beside the stable."
 
 Shen You laughed out loud.
 
@@ -228,7 +228,7 @@ Behind Shen You, Qingluo's hands paused on his shoulders.
 
 "Cui Shouli said he's already made contact with thirty-odd of the old Eastern Palace men who scattered, and there are more in the Zhongnan Mountains who'll take a few days yet to get here. When the ten-day deadline comes, he moves," Feng Five said. "He told the man who left the knife to pay our house another visit tonight. Get a good look at what the house has been turned into, how many people there are, and where the box is kept."
 
-Shen You rocked, gazing up at the pomegranate tree overhead. One overripe pomegranate had split open, and a few seeds dropped out and landed on the bamboo mat.
+Shen You rocked, gazing up at the pomegranate tree overhead. One fully ripe pomegranate had split open, and a few seeds dropped out and landed on the bamboo mat.
 
 "Tonight?"
 
@@ -298,7 +298,7 @@ Wei San's face was pressed against the cold gray bricks, and he couldn't move ag
 
 Start to finish: three breaths.
 
-In the back courtyard, the song had just reached its most lilting line, the pipa notes, *ting-ting, dong-dong*, falling bright and clear like pearls dropping onto a jade plate.
+In the back courtyard, the song had just reached its most lilting line, and the pipa went *ting-ting, dong-dong*, like pearls dropping onto a jade plate.
 
 Not once, from beginning to end, had it missed a note.
 
@@ -340,7 +340,7 @@ He stayed stunned for a long time, and then, slowly, he lowered his head.
 
 He understood now. This household could imitate even the Colonel's voice down to the last inflection. Whatever the Colonel had said to Qian Biao at night, whatever he'd ordered Wei San to do, these people very likely knew all of it already.
 
-He was guarding his tongue to protect something that had been taken from him long ago.
+He was guarding his tongue to protect something that had long since been taken out of his hands.
 
 "...Cui Shouli," he said hoarsely. "Colonel of the Left Encampment Guard. He used to be deputy commander of the Eastern Palace Guard's Left Command."
 
@@ -350,23 +350,23 @@ He was guarding his tongue to protect something that had been taken from him lon
 
 "What roster?"
 
-"Before Xuanwu Gate... the men who were secretly in touch with the Eastern Palace. Who passed it messages. Who made it promises." Wei San closed his eyes. "A good many of them are at the new emperor's court now, holding office."
+"Before the Xuanwu Gate Incident... the men who were secretly in touch with the Eastern Palace. Who passed it messages. Who made it promises." Wei San closed his eyes. "A good many of them are at the new emperor's court now, holding office."
 
 The room went still.
 
-Qingluo's hands stopped on the grape she was peeling. She looked at Shen You and said softly, "Cui Shouli... When this maid was in the Prince of Qi's household, I sealed letters to him twice on the Prince of Qi's behalf."
+Qingluo's hands stopped on the grape she was peeling. She looked at Shen You and said softly, "Cui Shouli... Back in the Prince of Qi's household, this maid sealed letters to him twice on the Prince of Qi's behalf."
 
 Shen You said nothing. Zhou One took a black lacquer box from his sleeve and set it at Shen You's elbow.
 
 Wei San stared at the box, stunned. The same box. The same clay seal.
 
-"The one in the study — he made it this afternoon." Shen You tilted his head toward Zhou One. "What you risked your neck to grab was an empty box."
+"The one in the study—Zhou One made it this afternoon." Shen You tilted his head toward Zhou One. "What you risked your neck to grab was an empty box."
 
 Every last trace of color was gone from Wei San's face.
 
 Shen You picked up the real lacquer box and weighed it in his hand.
 
-A roster. Some of the people on it had already died along with the Crown Prince. Others had gone over to the new emperor, traded for a new set of official robes, and now stood at court in Xiande Hall of the Eastern Palace.
+A roster. Some of the people on it had already died along with the Crown Prince. Others had gone over to the new emperor, swapped into a new set of official robes, and now stood at court in Xiande Hall of the Eastern Palace.
 
 No wonder Cui Shouli was this desperate. If this box were ever delivered to Xiande Hall of the Eastern Palace, who knew how many of the court's civil and military officials would lie awake tonight.
 

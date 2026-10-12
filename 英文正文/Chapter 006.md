@@ -258,13 +258,13 @@ The moment they were gone, the crowd outside the gate burst into a buzz.
 
 "Did you see that? One arrow! Just one!"
 
-"That was Qian Biao! You know what kind of man he is? He's broken three legs catching thieves! And today he didn't dare so much as fart!"
+"That's Qian Biao we're talking about! You know what kind of man he is? He's broken three legs catching thieves! And today he didn't dare so much as fart!"
 
 "Those dozen-odd people in Young Master Shen's house—did you get a look? Every last one of them like they were made of iron..."
 
 "I always said that house was ill-omened," Sister Liu told the people around her, winnowing basket in her arms, glowing with the telling. "A haunted house wants a fierce man! One like that can keep it down!"
 
-Warden Zhao squeezed in through the gate and made Shen You a long, deep bow with his hands clasped. He was halfway through it before he remembered what he meant to say, and it came out in a stammer. "Young master... young master, you've had a fright. From now on, anything you need in the ward, you have only to say the word."
+Warden Zhao squeezed in through the gate and made Shen You a long, deep bow with his hands clasped. He was halfway through it before he remembered what he meant to say, and it came out in a stammer. "You... you've had a fright, young master. From now on, anything you need in the ward, you have only to say the word."
 
 Shen You smiled and waved it off. "You're too kind, Warden Zhao."
 
@@ -278,7 +278,7 @@ Zhou Four came over and stood beside him. "Qian Biao won't leave it there," he s
 
 "That box is my talisman," Shen You said. "The noble patron behind him is afraid of one thing above all, and that's the box going into the Eastern Palace. As long as it stays in my hands, unopened and undelivered, he won't dare come after me in the open."
 
-"And not in the open?"
+"And in secret?"
 
 Shen You didn't answer. He just looked at the fresh arrow hole in the gatepost and smiled.
 

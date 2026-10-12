@@ -70,7 +70,7 @@ Zheng Three's counting rods hung in midair. For the first time, her round face, 
 
 Zhou Two was squatting on the threshold. The pebble between his fingers had stopped too.
 
-"I've made the rounds of two houses in the East Market as well," he said. "Fan Da sent word yesterday. All the houses around the West Market are talking about some young fellow with droopy eyelids who wins every time he plays. Two houses already won't let new faces through the door."
+"I've hit two houses in the East Market as well," he said. "Fan Da sent word yesterday. All the houses around the West Market are talking about some young fellow with droopy eyelids who wins every time he plays. Two houses already won't let new faces through the door."
 
 "Keep it up, and every house in Chang'an will know your face," Shen You said. "And even if every last one let you in, could you win a hundred strings a day on your own?"
 
@@ -286,7 +286,7 @@ The two men fell silent at once.
 
 He held up two fingers.
 
-"The West Market, the Hu merchants, the caravans heading west—those go to the Kang house."
+"The West Market, the Hu merchants, the caravans heading west—those go to the Kang family."
 
 "The great households of Chang'an and the palace purveyors go to you, Brother Dou."
 
@@ -344,7 +344,7 @@ That night, Zhou One came into the main hall looking somewhat grim.
 
 "Told you what?"
 
-"After the market opened at midday today, two men were in the West Market asking about the Master," Zhou One said. "Which temple the Master took his vows at, what his master's Dharma name was, when he came to the capital."
+"After the market opened at midday today, two men were in the West Market asking about the Master," Zhou One said. "Which temple the Master took his vows at, what his teacher's Dharma name was, when he came to the capital."
 
 Shen You put down the mooncake in his hand.
 

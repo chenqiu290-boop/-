@@ -30,7 +30,7 @@ Six people.
 
 When that last skill popped up, Shen You stared at it for a good long while.
 
-She was a round-faced woman in her early forties with a bright, carrying voice. The first thing she did on getting to her feet was clap her hands and sweep a look over the dark crowd filling the courtyard. "All these people—first thing in the morning, everybody's getting up and loosening those joints together. Every last one of you standing there like a fence post. What good is that?"
+The woman who rose to her feet was round-faced, in her early forties, with a bright, carrying voice. The first thing she did once up was clap her hands and sweep a look over the dark crowd filling the courtyard. "All these people—first thing in the morning, everybody's getting up and loosening those joints together. Every last one of you standing there like a fence post. What good is that?"
 
 Shen You pictured it: twenty-one people in a courtyard in the Tang dynasty, wiggling along to her count.
 
@@ -100,7 +100,7 @@ Of everyone in that shed, she was the only one who looked like she was standing 
 
 "My former household called this maid Qingluo."
 
-Sun the broker held his fan up in front of his mouth and leaned in. "Young master, I won't lie to you. This one came out of the Prince of Qi's household. After what happened in the sixth month, she was confiscated by the state, and a few days ago the Court of the National Granaries let a batch of them go for sale. Her manners are the very best. It's just her background... buyers all say it's bad luck."
+Sun the broker held his fan up in front of his mouth and leaned in. "I won't lie to you, young master. This one came out of the Prince of Qi's household. After what happened in the sixth month, she was confiscated by the state, and a few days ago the Court of the National Granaries let a batch of them go for sale. Her manners are the very best. It's just her background... buyers all say it's bad luck."
 
 Qingluo raised her eyes and looked at Shen You.
 
@@ -326,7 +326,7 @@ The other two were bought quickly.
 
 One was a Hu girl from Mi, named A'na.
 
-She was even taller than Qingluo. Her chestnut curls were plaited into dozens of thin little braids, gathered at the back of her head with a faded red cord. She had a high-bridged nose and slightly deep-set eyes, amber eyes that showed a hint of gold in the sunlight, with long, thick lashes. Her skin was a light honey brown, with a few faint freckles across her cheeks. She wore an old Hu robe with turned-down lapels, a cloth sash at her waist, and a string of faded five-colored silk threads wound around her wrist.
+She was even taller than Qingluo. Her chestnut curls were plaited into many thin little braids, gathered at the back of her head with a faded red cord. She had a high-bridged nose and slightly deep-set eyes, amber eyes that showed a hint of gold in the sunlight, with long, thick lashes. Her skin was a light honey brown, with a few faint freckles across her cheeks. She wore an old Hu robe with turned-down lapels, a cloth sash at her waist, and a string of faded five-colored silk threads wound around her wrist.
 
 Zheng One said a single sentence to her in Sogdian. She froze for a moment, and then her eyes went red all at once, and words came tumbling out of her like beans from a split sack, crying and laughing at the same time. Her father had been a merchant and died on the road to Chang'an. The Hu merchants traveling with them had sold her, and for the better part of a year she hadn't heard a word of her own language.
 
@@ -438,7 +438,7 @@ It was Qingluo. She stood beside a pillar holding a lamp. There was no telling h
 
 "Today the Master told this maid the truth," she said quietly. "So this maid will tell the Master the truth too. What Young Master Pei said is true."
 
-"What passed in and out of the Prince of Qi's study were letters between the Eastern Palace, the Prince of Qi's household, and the outside world. Who sent gifts to the Prince of Qi, who passed word to the Crown Prince's household, who placed bets on both sides before the Xuanwu Gate..." She paused. "I ground the ink, received the letters, sealed them, for more than a year. I saw a great deal."
+"What passed in and out of the Prince of Qi's study were letters between the Eastern Palace, the Prince of Qi's household, and the outside world. Who sent gifts to the Prince of Qi, who passed word to the Crown Prince's household, who placed bets on both sides before the Xuanwu Gate Incident..." She paused. "I ground the ink, received the letters, sealed them, for more than a year. I saw a great deal."
 
 "So that's why the Pei family wants to buy you."
 
