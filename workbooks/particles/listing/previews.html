@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Particle Power — store previews</title>
+<style>
+/* Store images for Gumroad. previews.html#N shows slide N; build-previews.sh screenshots each one. */
+@font-face { font-family: "Fraunces"; font-weight: 600; src: url(../fonts/Fraunces-600.ttf); }
+@font-face { font-family: "Noto Sans JP"; font-weight: 400; src: url(../fonts/NotoSansJP-400.ttf); }
+@font-face { font-family: "Noto Sans JP"; font-weight: 700; src: url(../fonts/NotoSansJP-700.ttf); }
+@font-face { font-family: "Noto Serif JP"; font-weight: 700; src: url(../fonts/NotoSerifJP-700.ttf); }
+:root { --ink: #1f1d1a; --muted: #6b665e; --line: #d9d3c7; --soft: #f6f2ea; --accent: #c0412b; }
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--soft); color: var(--ink); font-family: "Noto Sans JP", sans-serif; }
+.slide { display: none; position: relative; width: 1280px; height: 720px; overflow: hidden; background: var(--soft); }
+.slide.on { display: block; }
+.slide.sq { width: 600px; height: 600px; }
+h1, h2 { font-family: "Fraunces", serif; font-weight: 600; margin: 0; letter-spacing: -0.01em; }
+.badge { display: inline-block; border: 2px solid var(--ink); padding: 4px 14px; font-weight: 700; font-size: 15px; letter-spacing: 0.12em; }
+.kicker { font-size: 15px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent); font-weight: 700; }
+.pg { position: absolute; background: #fff; box-shadow: 0 2px 4px rgba(0,0,0,.08), 0 18px 40px rgba(60,40,20,.18); }
+.pg img { display: block; width: 100%; }
+.label { position: absolute; font-size: 17px; font-weight: 700; text-align: center; }
+.label span { display: block; font-weight: 400; color: var(--muted); font-size: 14px; }
+.p { color: var(--accent); font-family: "Noto Serif JP", serif; font-weight: 700; }
+
+/* 1 · hero */
+#s1 .text { position: absolute; left: 80px; top: 92px; width: 560px; }
+#s1 h1 { font-size: 92px; line-height: 0.98; margin: 22px 0 18px; }
+#s1 .sub { font-size: 24px; color: var(--muted); line-height: 1.4; }
+#s1 .stats { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 40px; }
+#s1 .stats div { border-top: 2px solid var(--ink); padding-top: 8px; font-size: 16px; color: var(--muted); }
+#s1 .stats b { display: block; font-family: "Fraunces", serif; font-size: 34px; color: var(--ink); line-height: 1.1; }
+
+/* 3-page rows */
+.head { position: absolute; left: 0; right: 0; top: 46px; text-align: center; }
+.head h2 { font-size: 46px; margin-top: 8px; }
+</style>
+<script>
+addEventListener('DOMContentLoaded', () => {
+  const n = location.hash.slice(1) || '1';
+  document.getElementById('s' + n).classList.add('on');
+});
+</script>
+</head>
+<body>
+
+<!-- 1 · Hero -->
+<section class="slide" id="s1">
+  <div class="text">
+    <span class="badge">JLPT N5 · BEGINNER</span>
+    <h1>Particle<br>Power</h1>
+    <div class="sub">The printable workbook for Japanese particles — は, が, を, に, で and every other one you need at N5.</div>
+    <div class="stats">
+      <div><b>36</b>printable pages</div>
+      <div><b>12 + 6</b>particles + bonus particles</div>
+      <div><b>2</b>review tests</div>
+      <div><b>100%</b>answers included</div>
+    </div>
+  </div>
+  <div class="pg" style="left:900px; top:118px; width:330px; transform:rotate(5deg)"><img src="pages/p2.png"></div>
+  <div class="pg" style="left:690px; top:70px; width:430px; transform:rotate(-3deg)"><img src="pages/p1.png"></div>
+</section>
+
+<!-- 2 · Lessons -->
+<section class="slide" id="s2">
+  <div class="head"><div class="kicker">Inside every lesson</div><h2>One clear rule. Real examples. Then practice.</h2></div>
+  <div class="pg" style="left:90px; top:190px; width:340px"><img src="pages/p9.png"></div>
+  <div class="pg" style="left:470px; top:190px; width:340px"><img src="pages/p10.png"></div>
+  <div class="pg" style="left:850px; top:190px; width:340px"><img src="pages/p14.png"></div>
+</section>
+
+<!-- 3 · Tests -->
+<section class="slide" id="s3">
+  <div class="head"><div class="kicker">Check yourself</div><h2>Review tests, a cheat sheet, and every answer</h2></div>
+  <div class="pg" style="left:90px; top:190px; width:340px"><img src="pages/p16.png"></div>
+  <div class="pg" style="left:470px; top:190px; width:340px"><img src="pages/p31.png"></div>
+  <div class="pg" style="left:850px; top:190px; width:340px"><img src="pages/p32.png"></div>
+</section>
+
+<!-- 4 · Contents + particle list -->
+<section class="slide" id="s4">
+  <div class="pg" style="left:90px; top:60px; width:470px"><img src="pages/p2.png"></div>
+  <div style="position:absolute; left:640px; top:96px; width:560px">
+    <div class="kicker">What's inside</div>
+    <h2 style="font-size:46px; margin:10px 0 24px">Every N5 particle, one at a time</h2>
+    <div style="display:grid; grid-template-columns:repeat(6,1fr); gap:10px">
+      <div class="cell"><span class="p">は</span></div><div class="cell"><span class="p">が</span></div><div class="cell"><span class="p">を</span></div><div class="cell"><span class="p">に</span></div><div class="cell"><span class="p">で</span></div><div class="cell"><span class="p">へ</span></div>
+      <div class="cell"><span class="p">と</span></div><div class="cell"><span class="p">も</span></div><div class="cell"><span class="p">の</span></div><div class="cell"><span class="p">か</span></div><div class="cell"><span class="p sm">から</span></div><div class="cell"><span class="p sm">まで</span></div>
+    </div>
+    <div style="margin:14px 0 0; font-size:17px; color:var(--muted)">Bonus lesson: <span class="p" style="font-size:20px">や · より · だけ · ぐらい · ね · よ</span></div>
+    <ul class="ticks">
+      <li>Plain-English explanations</li>
+      <li>Furigana on every kanji</li>
+      <li>Side-by-side pages for に / で and へ / に</li>
+      <li>Original examples — print and write on it</li>
+    </ul>
+  </div>
+  <style>
+    #s4 .cell { background: #fff; border: 1px solid var(--line); border-radius: 10px; height: 76px; display: flex; align-items: center; justify-content: center; }
+    #s4 .cell .p { font-size: 40px; } #s4 .cell .p.sm { font-size: 24px; }
+    #s4 .ticks { list-style: none; padding: 0; margin: 28px 0 0; font-size: 19px; }
+    #s4 .ticks li { padding: 9px 0 9px 34px; border-top: 1px solid var(--line); position: relative; }
+    #s4 .ticks li::before { content: "✓"; position: absolute; left: 4px; color: var(--accent); font-weight: 700; }
+  </style>
+</section>
+
+<!-- 5 · Close-up -->
+<section class="slide" id="s5">
+  <div style="position:absolute; left:80px; top:150px; width:360px">
+    <div class="kicker">Built for beginners</div>
+    <h2 style="font-size:50px; line-height:1.08; margin:12px 0 22px">Furigana on every kanji</h2>
+    <div style="font-size:20px; color:var(--muted); line-height:1.55">Each lesson starts with one short rule, then shows it in natural sentences with English translations. Tip boxes point out the mistakes learners make most.</div>
+  </div>
+  <div class="pg" style="left:480px; top:60px; width:720px; height:600px; overflow:hidden"><img src="pages/p9-big.png" style="width:800px; margin:-46px 0 0 -40px"></div>
+</section>
+
+<!-- 6 · Square thumbnail (600×600): the top of the cover, large enough to read in a store grid -->
+<section class="slide sq" id="s6">
+  <img src="pages/p1.png" style="position:absolute; left:0; top:-16px; width:600px">
+</section>
+
+</body>
+</html>
