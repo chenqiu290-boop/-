@@ -290,7 +290,7 @@ He held up two fingers.
 
 "The great households of Chang'an and the palace purveyors go to you, Brother Dou."
 
-"Each of you pays a hundred strings as a deposit. From then on, I supply the sugar monthly. Of what it sells for, seven parts to me, three to each of you."
+"Each of you pays a hundred strings as a deposit. From then on, I supply the sugar monthly. Of what it sells for, seven parts to me, and the two of you split the other three."
 
 Kang Satuo didn't rush to agree. First he asked, "How much can you turn out in a month?"
 

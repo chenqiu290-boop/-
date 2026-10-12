@@ -2,7 +2,7 @@
 
 Early on the morning of the ninth day, Shen You called everyone out to the front courtyard.
 
-Thirty-six people filled the courtyard, with more crowded under the eaves of the veranda. The nine who had arrived at the Hour of the Rat had already been questioned one by one by Zhou One about their skills and entered in the roster. Right now they were eating breakfast in the back courtyard.
+Thirty-six people filled the courtyard, with more crowded under the eaves of the veranda. Another nine, who had arrived at the Hour of the Rat, had already been questioned one by one by Zhou One about their skills and entered in the roster. Right now they were eating breakfast in the back courtyard.
 
 Shen You didn't stand. He sat in the chair with the backrest that Zhou Five had made, holding a bowl of plain tea Qingluo had just brewed.
 

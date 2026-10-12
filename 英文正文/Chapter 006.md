@@ -262,7 +262,7 @@ The moment they were gone, the crowd outside the gate burst into a buzz.
 
 "Those dozen-odd people in Young Master Shen's house—did you get a look? Every last one of them like they were made of iron..."
 
-"I always said that house was a terror," Sister Liu told the people around her, winnowing basket in her arms, glowing with the telling. "Takes a terror to tame one! He's the man to keep it down!"
+"I always said that house was ill-omened," Sister Liu told the people around her, winnowing basket in her arms, glowing with the telling. "A haunted house wants a fierce man! One like that can keep it down!"
 
 Warden Zhao squeezed in through the gate and made Shen You a long, deep bow with his hands clasped. He was halfway through it before he remembered what he meant to say, and it came out in a stammer. "Young master... young master, you've had a fright. From now on, anything you need in the ward, you have only to say the word."
 

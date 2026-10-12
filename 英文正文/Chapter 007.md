@@ -250,7 +250,7 @@ Pei Shisan's brow twitched.
 
 "If you're willing to pay forty strings for her, Young Master Pei," Shen You said with a smile, "then she's worth more than forty. When I do business, I never sell cheap."
 
-He paused, then added, "Besides, she agreed to brew my tea."
+He paused, then added, "Besides, she'll be brewing my tea."
 
 Someone in the crowd let out a snort of laughter, then hurriedly clapped a hand over his mouth.
 
