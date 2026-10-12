@@ -74,3 +74,4 @@
 - 2026-10-12：用户在 Payouts 页把国家设成 China，收款方式选了 Bank Account，问"国内普通储蓄卡可以吗"。已回答：可以，要用**一类卡**（二类、三类卡收款有限额），信用卡不行；收款人姓名要和银行户名完全一致，不能输汉字就填拼音；卡号让用户自己填，不要发给 Claude。下一步：用户保存后截图确认黄条消失 → 检查价格 → 填 Share 页 → 发布。
 - 2026-10-12：更正：China 的收款方式实际**只有 PayPal**（之前截图看到的银行卡表单是选美国时的，不对）。已逐项教用户填 Payouts 表单（PayPal 邮箱、Individual、名/姓用拼音、地址用拼音、+86 手机号、出生日期），提醒姓名要和 PayPal 账户、身份证一致，PayPal 要先完成验证。等用户保存后截图确认黄条消失。
 - 2026-10-12：用户截图（Content 页）显示**黄条已消失**，收款方式设置完成（China + PayPal）。用户觉得提现手续费 35 美元太贵，已说明国家必须如实填 China；PayPal 也许能用人民币快捷提现（约 1.2%，以后提现时再确认）。已把 `thumbnail.png` 重新发给用户。下一步：Product 页确认价格 8 美元、换缩略图 → Publish and continue → Share 页选分类 Education、填 8 个标签 → 截图确认。
+- 2026-10-12：🎉 **商品已发布**（chenqiu290.gumroad.com/l/particle-power），价格 $8，缩略图已换好。重复的 "Pages 36" 那一行让用户删掉了（保留 Length 36 pages）。Share 页的分类现在是 Other，已让用户改成 Education（有语言类子分类就选它），并填 8 个标签。注意：要上 Gumroad Discover，得先成功卖出 1 单并通过平台审核，所以第一批买家要靠用户自己找。下一步：确认分类和标签保存好 → 讲怎么找第一个买家（Reddit r/LearnJapanese、Pinterest 等），可以考虑把免费样稿也上架。
