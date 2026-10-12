@@ -148,7 +148,7 @@ Dou the Eleventh set the pear down.
 
 "Go on."
 
-"Have him sit in as your house player," Shen You said. "Once every five days, he comes and sits a session at your house. You put the word out among your regulars: there's a young fellow from the West Market who's never lost at *chupu*. Anyone who can beat him in half of ten throws, the house pays out ten times over."
+"Have him be your resident player," Shen You said. "Once every five days, he comes and sits a session at your house. You put the word out among your regulars: there's a young fellow from the West Market who's never lost at *chupu*. Anyone who can beat him in half of ten throws, the house pays out ten times over."
 
 "Chang'an gamblers can't stand a thing like that. The rich ones won't swallow it, the proud ones won't swallow it, and the ones who've lost will swallow it least of all. They'll come back again and again, and every time they'll bet bigger. The bigger they bet, the bigger your cut."
 
@@ -166,7 +166,7 @@ He looked at Shen You for a while, then glanced at Zhou Two.
 
 "And if somebody really does beat him in half?"
 
-Zhou Two didn't so much as lift his eyelids. "Then I pay it back tenfold."
+Zhou Two didn't so much as lift his eyelids. "Then I'll cover the tenfold payout."
 
 Dou the Eleventh was silent for a moment. Then he slapped his knee.
 
