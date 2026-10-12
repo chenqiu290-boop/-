@@ -106,7 +106,7 @@ At a well by the road, a woman was cranking up water on the windlass. When she s
 
 "Sort of. I'm in that ruined temple to the east."
 
-"That temple leaks," the woman said flatly. Then she jerked her chin at the well. "The water in this one's bitter. Rice comes out tasting rough. Go north past two houses, and the one at the foot of the wall's sweeter. Its rope's too short, though. Bring your own."
+"That temple leaks," the woman said flatly. Then she jerked her chin at the well. "The water in this one's bitter. Anything you cook in it comes out tasting rough. Go north past two houses, and the one at the foot of the wall's sweeter. Its rope's too short, though. Bring your own."
 
 That said, she hooked her buckets onto her shoulder pole and carried them off. A few steps on, she turned and added, "That graveyard behind the temple. Stay out of it at night. There's foxes."
 
