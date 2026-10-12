@@ -148,8 +148,10 @@ Try Particle Power for free.
 This 8-page sample covers the three particles every beginner meets first, は, が and を, with clear explanations, examples with furigana, practice exercises, and an answer key.
 
 Like it? The full 36-page workbook covers every JLPT N5 particle, with comparison pages, 2 review tests, and a one-page cheat sheet.
+
+Get the full workbook here: https://chenqiu290.gumroad.com/l/particle-power
 ```
-中文：免费试用 Particle Power。这份 8 页的样稿讲初学者最先遇到的三个助词 は、が、を，有清楚的讲解、标假名的例句、练习和答案。喜欢的话，36 页的完整版讲了 JLPT N5 所有助词，还有对比页、2 次综合测试和 1 页速查表。
+中文：免费试用 Particle Power。这份 8 页的样稿讲初学者最先遇到的三个助词 は、が、を，有清楚的讲解、标假名的例句、练习和答案。喜欢的话，36 页的完整版讲了 JLPT N5 所有助词，还有对比页、2 次综合测试和 1 页速查表。完整版在这里购买：（链接）
 
 缩略图和大图都用 `thumbnail.png` 就行。正式版的 5 张大图展示的是完整版的页面，放在样稿上会让人误会，不要用。
 
