@@ -56,7 +56,7 @@ Zhou One stood to one side, frowning. "Master, the man last night left word: wit
 
 He thought for a moment and added, "The Eastern Palace fell two months ago. Its old people are scattered to the four winds. Ten days is probably how long he needs to round enough of them up."
 
-Zhou Two had gone out first thing, saying he wanted to look over some new houses by the East Market.
+Zhou Two had gone out first thing, saying he wanted to look over some new gambling houses by the East Market.
 
 Shen You picked a few people to come along: Zheng Three to handle the money, Zhou Four for protection, Zheng One because he spoke the foreign tongues, and Zhou Six to check whether the people for sale had anything wrong with them.
 
@@ -192,7 +192,7 @@ Just then, someone gave his sleeve a light tug from behind.
 
 He turned his head slightly. It was a round-faced girl at the edge of the shed, in a patched skirt and jacket of coarse hemp, mixed in among a few maids meant for rough work. She didn't look at him. Her eyes were on the ground, and her lips barely moved. Her voice was so soft only he could hear it:
 
-"Young master, don't sell. That's the young master who runs the Pei family's business. Their people have come three times this month, and they only buy the ones who came out of studies and counting rooms. Of all the people they've bought, I've never seen a single one in the West Market again."
+"Don't sell, young master. That's the man who runs the Pei family's business. Their people have come three times this month, and they only buy the ones who came out of studies and counting rooms. Of all the people they've bought, I've never seen a single one in the West Market again."
 
 Then she shrank back into the crowd as if she'd never said a word.
 
@@ -396,7 +396,7 @@ The tea was a little astringent, but the aftertaste was sweet, carrying the toas
 
 "That's good."
 
-Over by the well in the back courtyard, A'na sat with her pipa, playing a very slow tune, one note falling after another, like someone thinking about a person far away. A'xing came over with a plate of sesame flatbreads fresh out of the oven, juggling it from her left hand to her right because it was so hot. "Master, Sanniang says we eat three meals a day here! Three! In ten-odd years at the Li house, we only ever got two..."
+Over by the well in the back courtyard, A'na sat with her pipa, playing a very slow tune, one note falling after another, like someone thinking about a person far away. A'xing came over with a plate of sesame flatbreads fresh out of the oven, juggling it from her left hand to her right because it was so hot. "Master, Sanniang says we eat three meals a day here! Three! In ten-odd years at the Li house, I only ever got two..."
 
 Qingluo stood behind him, looking at the boxwood comb in her hand, then at his crew cut.
 

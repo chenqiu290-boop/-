@@ -118,7 +118,7 @@ Qian Biao gave a cold laugh and thrust it forward.
 
 Shen You took it and read it word by word.
 
-The writ was genuine, and so was the Wannian County seal. It read: *Per an informant's report: stolen goods are concealed in the woodshed of the residence of Shen You, Kaiming Ward. Chief Constable Qian Biao is directed to proceed thither and search.*
+The writ was genuine, and so was the Wannian County seal. It read: *Per an informant's report: stolen goods are concealed in the woodshed of the residence of Shen You, Kaiming Ward. Chief Constable Qian Biao is directed to go there and search.*
 
 He folded it up and handed it back.
 
@@ -154,7 +154,7 @@ Qian Biao didn't answer. His eyes swept the courtyard: over the main hall, over 
 
 "I say we search, we search!"
 
-*Shing.* All eight constables drew their *hengdao*.
+*Shing.* The constables drew their *hengdao*.
 
 The crowd outside the gate lurched back a step as one. Warden Zhao stamped his feet in a panic. Sister Liu clapped a hand over her mouth.
 
@@ -258,7 +258,7 @@ The moment they were gone, the crowd outside the gate burst into a buzz.
 
 "Did you see that? One arrow! Just one!"
 
-"That was Qian Biao! The man's broken three legs catching thieves! And today he didn't dare so much as fart!"
+"That was Qian Biao! You know what kind of man he is? He's broken three legs catching thieves! And today he didn't dare so much as fart!"
 
 "Those dozen-odd people in Young Master Shen's house—did you get a look? Every last one of them like they were made of iron..."
 

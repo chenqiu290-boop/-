@@ -70,7 +70,7 @@ Zheng Three's counting rods hung in midair. For the first time, her round face, 
 
 Zhou Two was squatting on the threshold. The pebble between his fingers had stopped too.
 
-"I've worked two houses over in the East Market as well," he said. "Fan Da sent word yesterday. All the houses around the West Market are talking about some young fellow with droopy eyelids who wins every time he plays. Two houses already won't let new faces through the door."
+"I've made the rounds of two houses in the East Market as well," he said. "Fan Da sent word yesterday. All the houses around the West Market are talking about some young fellow with droopy eyelids who wins every time he plays. Two houses already won't let new faces through the door."
 
 "Keep it up, and every house in Chang'an will know your face," Shen You said. "And even if every last one let you in, could you win a hundred strings a day on your own?"
 
@@ -78,7 +78,7 @@ Zhou Two didn't say a word.
 
 "Gambling can get you out of a pinch. It can't feed a household," Shen You said. "We need something we can keep selling. The more we sell, the better. And it has to be legal to sell to anyone."
 
-He turned to Chen One. "What will it take to start on white sugar?"
+He turned to Chen One. "How much capital for white sugar?"
 
 "Black sugar," Chen One said. "The fruit sellers' row in the West Market has sand sugar shipped in from Shu. Dark brown, comes in lumps. Around a hundred and twenty coins a jin. Three jin of black makes a little over one jin of white."
 
@@ -118,7 +118,7 @@ When they went again, the formation had changed. Three ranks in front, three ran
 
 Shen You sat in a chair on the veranda with a bowl of sweet rice wine in his hands, watched those neat, orderly shadows under the moonlight, and said nothing.
 
-Of the ten days, eight were left.
+Of the ten-day deadline, eight days were left.
 
 A'na sat on the rim of the well with her pipa and played a very slow Hu melody. The moonlight fell on her curls and left a faint layer of silver.
 
@@ -298,7 +298,7 @@ Kang Satuo didn't rush to agree. First he asked, "How much can you turn out in a
 
 The main hall was silent for a moment.
 
-Kang Satuo laughed first. He shook his head, laughing so hard his curly beard bobbed. "Twenty years I've been in the West Market, and this is the first time anyone's worked me over like this. And once he's done working me over, I still have to thank him for it."
+Kang Satuo laughed first. He shook his head, laughing so hard his curly beard bobbed. "Twenty years I've been in the West Market, and this is the first time anyone's played me like this. And once he's finished playing me, I still have to thank him for it."
 
 The Eleventh laughed too. He laughed so hard he rocked backward and nearly toppled off his folding stool. "Brother Shen, you called the two of us here together just for this?"
 
@@ -312,7 +312,7 @@ For hundreds of years, men from the Western Regions had been selling stone honey
 
 ***
 
-Kang Satuo pulled two gold cakes from the front of his robe on the spot and pressed them down on the table, saying the rest could be collected at Kang's shop tomorrow. The Eleventh didn't have that much cash on hand, so he sent Fan Da back for sixty strings' worth of silk and said he'd make up the remainder within three days.
+Kang Satuo pulled two gold cakes from the front of his robe on the spot and pressed them down on the table, saying the balance would be waiting at Kang's shop tomorrow. The Eleventh didn't have that much cash on hand, so he sent Fan Da back for sixty strings' worth of silk and said he'd make up the remainder within three days.
 
 By the time Shen You had seen the two of them off, the sun was already sinking westward.
 

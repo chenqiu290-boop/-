@@ -142,7 +142,7 @@ In his past life, he'd worked overtime until three in the morning on the thirtie
 
 Now he was soaking in a hot pool in the Great Tang, warm underfoot, fragrance in his nose, and outside there were people brewing his tea, cooking his meals, and playing the pipa for him.
 
-He soaked for a full half a double-hour, until the tips of his fingers wrinkled.
+He soaked for a full half double-hour, until the tips of his fingers wrinkled.
 
 ***
 
@@ -238,9 +238,7 @@ Shen You thought it over, then smiled.
 
 "Then let's invite him in."
 
-He turned his head toward Zhou Four, standing under the eaves.
-
-"Zhou One, make another box just like that lacquer box. Same clay seal, exactly."
+He looked toward the veranda, where Zhou Four stood. Then, to Zhou One: "Make another box just like that lacquer box. Same clay seal, exactly."
 
 Zhou One nodded. "One double-hour."
 
@@ -300,7 +298,7 @@ Wei San's face was pressed against the cold gray bricks, and he couldn't move ag
 
 Start to finish: three breaths.
 
-In the back courtyard, the song had just reached its most lilting line, the pipa notes falling bright and clear like pearls dropping onto a jade plate.
+In the back courtyard, the song had just reached its most lilting line, the pipa notes, *ting-ting, dong-dong*, falling bright and clear like pearls dropping onto a jade plate.
 
 Not once, from beginning to end, had it missed a note.
 
@@ -362,7 +360,7 @@ Shen You said nothing. Zhou One took a black lacquer box from his sleeve and set
 
 Wei San stared at the box, stunned. The same box. The same clay seal.
 
-"The one in the study, he made this afternoon." Shen You tilted his head toward Zhou One. "What you risked your neck to grab was an empty box."
+"The one in the study — he made it this afternoon." Shen You tilted his head toward Zhou One. "What you risked your neck to grab was an empty box."
 
 Every last trace of color was gone from Wei San's face.
 
