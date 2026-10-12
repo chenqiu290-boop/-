@@ -126,9 +126,9 @@ Sun the broker hugged the two strings to his chest and gave a wry smile. "...Fin
 
 The deposit had barely landed in Sun the broker's arms when someone came over from the horse traders' side.
 
-The first in were two household servants in clothes of fine hemp, belted with leather to match. One look, and anyone could tell they came from a great house. They stepped apart to either side, and only then did a young man walk in between them.
+The first in were two household slaves in clothes of fine hemp, belted with leather to match. One look, and anyone could tell they came from a great house. They stepped apart to either side, and only then did a young man walk in between them.
 
-He was twenty-five or twenty-six, pale and beardless, in a round-collared robe of sky blue. The fabric was nothing showy, but the cuffs were embroidered with a subtle pattern. A small jade fish hung at his waist. He didn't walk quickly, but his stride was steady, every step as if measured out in advance. Behind him came a tall Hu servant with curly hair and deep-set eyes, a black-lacquered horn bow slung across his back. He didn't say a word.
+He was twenty-five or twenty-six, pale and beardless, in a round-collared robe of sky blue. The fabric was nothing showy, but the cuffs were embroidered with a subtle pattern. A small jade fish hung at his waist. He didn't walk quickly, but his stride was steady, every step as if measured out in advance. Behind him came a tall Hu slave with curly hair and deep-set eyes, a black-lacquered horn bow slung across his back. He didn't say a word.
 
 Sun the broker's face changed. He snapped his fan shut and hurried forward, bent at the waist. "Young Master Pei! What brings you here in person..."
 
@@ -144,7 +144,7 @@ Only then did the young man look at Shen You. He cupped his hands in salute, his
 
 "Young Master Shen." Pei Shisan nodded, his tone perfectly courteous. "The Pei family had meant to buy this maid. Some family business held us up these past few days. I did not expect to arrive a step too late today."
 
-He gestured to the servant beside him. The servant stepped forward and presented a purse to Sun the broker with both hands.
+He gestured to the slave beside him. The slave stepped forward and presented a purse to Sun the broker with both hands.
 
 "Twenty strings," Pei Shisan said. "Sun the broker will return Young Master Shen's deposit in full, and the Pei family will add two strings for Young Master Shen by way of apology."
 
@@ -190,7 +190,7 @@ Somewhere in Shen You's mind, a string gave a faint twang.
 
 Just then, someone gave his sleeve a light tug from behind.
 
-He turned his head slightly. It was a round-faced girl at the edge of the shed, in a patched skirt and jacket of coarse hemp, mixed in among a few maids meant for rough work. She didn't look at him. Her eyes were on the ground, and her lips barely moved. Her voice was so soft only he could hear it:
+He turned his head slightly. It was a round-faced girl at the edge of the shed, in a patched jacket and skirt of coarse hemp, mixed in among a few maids meant for rough work. She didn't look at him. Her eyes were on the ground, and her lips barely moved. Her voice was so soft only he could hear it:
 
 "Don't sell, young master. That's the man who runs the Pei family's business. Their people have come three times this month, and they only buy the ones who came out of studies and counting rooms. Of all the people they've bought, I've never seen a single one in the West Market again."
 
@@ -268,7 +268,7 @@ He cupped his hands in salute, his manners as complete as before. He turned to g
 
 ***
 
-Pei Shisan left. The Hu servant with the bow brought up the rear. As he passed Zhou Four, his step hitched, and he looked at Zhou Four.
+Pei Shisan left. The Hu slave with the bow brought up the rear. As he passed Zhou Four, his step hitched, and he looked at Zhou Four.
 
 It was a very brief look, like two wolves brushing past each other in the forest, taking each other's scent.
 

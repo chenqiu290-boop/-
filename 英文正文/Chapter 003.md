@@ -244,7 +244,7 @@ Now Shen You understood. This was *chupu*. Five wooden pieces, black on one side
 
 At several smaller tables along the sides, people were playing *shuanglu*, and another group was gathered around a coarse earthenware bowl, throwing dice. Strings of Kaiyuan Tongbao coins were heaped on the tables, though some people had bet bolts of silk instead, folded into neat squares and set at the corner of the table.
 
-There were gamblers of every kind: a peddler in a short tunic of coarse cloth; a militiaman in a half-worn army robe, likely home on leave; household servants in bright, fine clothes; and a curly-haired Hu merchant sitting in a corner. He didn't smile when he won and didn't scowl when he lost. Before every throw, he blew into his palm and touched a small bronze tag that hung from his neck.
+There were gamblers of every kind: a peddler in a short tunic of coarse cloth; a militiaman in a half-worn army robe, likely home on leave; household slaves in bright, fine clothes; and a curly-haired Hu merchant sitting in a corner. He didn't smile when he won and didn't scowl when he lost. Before every throw, he blew into his palm and touched a small bronze tag that hung from his neck.
 
 Shen You found a folding stool by the wall, sat down, and ordered a bowl of cloudy wine.
 

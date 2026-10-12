@@ -42,7 +42,7 @@
 - **Imperial City and Palace City**: the government offices, and the palace itself, in the north of the city.
 - **Eastern Palace**: the crown prince's residence. After the Incident, Li Shimin was named crown prince and took the throne there. His father, now the **Retired Emperor** (Li Yuan, Emperor Gaozu), stayed in **Taiji Palace**.
 - **County**: Chang'an was split into two counties along Vermilion Bird Avenue. Kaiming Ward belongs to Wannian County. **Constables** are the county's detectives and enforcers. **Patrolmen** guard the streets and gates.
-- **Human and Horse Market** (*kouma hang*): the row in the West Market where people and horses were sold. *Kou*, "mouths," was the official word for heads of people. Under Tang law, slaves were a base class and counted as their master's property. They could be bought, sold, given away or inherited. Every sale had to be recorded in a deed drawn up at the Market Office, and a master could free a slave with a written release.
+- **Human and Horse Market** (*kouma hang*): the row in the West Market where people and horses were sold. *Kou*, "mouths," was the official word for heads of people. Under Tang law, slaves were a base class and counted as their master's property. They could be bought, sold, given away or inherited. Every sale had to be recorded in a deed drawn up at the Market Office, and a master could free a slave with a letter of manumission. The maids bought there, like the household slaves of great families, held this legal status.
 
 ## History
 
@@ -68,7 +68,7 @@
 
 ## Forms of address
 
-- **Master / the Master**: how deathsworn and servants address Shen You. Said in the third person, it is respect rather than distance.
+- **Master / the Master**: how deathsworn and maids address Shen You. Said in the third person, it is respect rather than distance.
 - **young master**: lowercase, a stranger's polite term for a well-dressed young man.
 - **Young Master Shen**: used once the speaker knows his surname.
 - **Little Master**: a polite address to a young monk.
