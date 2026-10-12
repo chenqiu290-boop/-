@@ -86,3 +86,4 @@
 - 2026-10-12：用户截图：Pinterest 已登录（个人账号，用户名 chenqiu290，显示名"qiu 陈"，还没有图钉和图板）。已教用户点左下角齿轮 → Edit profile，把名字改成 Particle Power / Japanese Study、填 About 和 Website。等用户截图。
 - 2026-10-12：Pinterest 个人资料已保存（Name: Particle Power、About、Website 都对）。建议头像换成 `thumbnail.png`（可选）。下一步：建图板 Japanese Particles for Beginners → 发图钉 1。
 - 2026-10-12：图板 **Japanese Particles for Beginners** 建好了（公开，pinterest.com/chenqiu290/japanese-particles-for-beginners），头像也换了。下一步：补图板描述（可选）→ 发图钉 1，发布前截图检查。
+- 2026-10-12：🎉 **图钉 1 已发布**（竖版 pin-1.png，链接完整版）。下一步：用"定时发布"排图钉 2（10/14）、3（10/16）、4（10/18）。先教图钉 2，等用户截图确认定时选项在哪里。
