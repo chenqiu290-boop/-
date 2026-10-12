@@ -378,7 +378,7 @@ Manager Fan stepped out from behind the men blocking the way, still wearing that
 
 He sighed, as if this were a matter that couldn't be helped.
 
-"Otherwise, by tomorrow every gambling den in Chang'an will be saying somebody broke my house, and I didn't so much as fart about it. After that, this is a living I couldn't make anymore."
+"Otherwise, by tomorrow every gambling den in Chang'an will be saying somebody broke my house, and I didn't so much as fart about it. After that, this rice bowl gets a lot harder to fill."
 
 Shen You didn't answer. First he looked at Zhou Four.
 

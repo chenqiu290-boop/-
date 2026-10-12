@@ -8,7 +8,7 @@ A long covered walkway wrapped around a courtyard. Its pillars were lacquered ve
 
 The air smelled of incense, and of cooking smoke drifting over from the kitchen, with a whiff of horse dung mixed in. On the open ground beyond the walkway, a Hu groom was brushing down a chestnut horse. Every stroke of the brush got a snort out of the horse.
 
-Walking under the eaves, Shen You did a quiet estimate.
+Walking under the eaves, Shen You quietly sized the place up.
 
 This corridor alone was longer than the apartment he'd rented back in the modern world.
 
@@ -56,7 +56,7 @@ Shen You took one and bit into it.
 
 It really was sour.
 
-Dou the Eleventh watched him wince and gave a laugh. Then he turned to Zhou Two. "Fan Da says you throw a good game of *chupu*. Throw a couple for me?"
+Dou the Eleventh watched him wince and gave a laugh. Then he turned to Zhou Two. "Fan Da says you throw a good game of *chupu*. Throw a couple so I can see?"
 
 A maid brought out a wooden tray and five wooden pieces.
 
@@ -166,7 +166,7 @@ He looked at Shen You for a while, then glanced at Zhou Two.
 
 "And if somebody really does beat him in half?"
 
-Zhou Two didn't so much as lift his eyelids. "Then I pay the tenfold."
+Zhou Two didn't so much as lift his eyelids. "Then I pay it back tenfold."
 
 Dou the Eleventh was silent for a moment. Then he slapped his knee.
 
@@ -218,7 +218,7 @@ Walking down that narrow passage, Shen You glanced at the scar on his brow. "Tha
 
 "And after that?"
 
-"After that, his father died at Qianshuiyuan."
+"After that, the Eleventh's father died at Qianshuiyuan."
 
 Shen You's step slowed by half a beat.
 
@@ -228,7 +228,7 @@ Qianshuiyuan. The one great defeat of Li Shimin's whole life. Five or six out of
 
 He pushed open the side door, stopped, and looked at Shen You.
 
-"The Eleventh may look careless, but there's no one clearer-headed. If he'd caught you lying to his face twice today, young master, you wouldn't be walking out this door."
+"The Eleventh may look careless, but there's no one clearer-headed. If he'd caught you lying twice today, young master, you wouldn't be walking out this door."
 
 "He caught me once."
 
@@ -280,7 +280,7 @@ Shen You took it, sniffed it, screwed up his face, and downed it in one go.
 
 It was so bitter it took him a long while to recover.
 
-"One more bowl tomorrow and you'll be fine." Zhou Six took the bowl back. Her face showed nothing much, but there seemed to be the faintest trace of a smile in her eyes.
+"One more bowl tomorrow and you'll be fine." Zhou Six took the bowl back. Her face gave nothing away, but there seemed to be the faintest trace of a smile in her eyes.
 
 Zhou One came over last, holding a few sheets of paper in both hands.
 

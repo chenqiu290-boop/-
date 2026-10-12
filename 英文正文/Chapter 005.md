@@ -36,7 +36,7 @@ To Tang ears, a Zhou family with children numbered all the way to seven, and now
 
 ***
 
-At daybreak, Zheng Three crouched on the ground and laid out her counting rods. "The gold ingot comes to twelve strings. Copper coins, one string and three hundred. Two bolts of silk. All told, under fifteen strings. Ten people—food alone runs two hundred coins a day."
+At daybreak, Zheng Three crouched on the ground and laid out her counting rods. "The gold ingot comes to twelve strings. Copper coins, one string and three hundred coins. Two bolts of silk. All told, under fifteen strings. Ten people—food alone runs two hundred coins a day."
 
 "Zhou Two goes back out to win today," Shen You said. "I'm going to buy a house."
 
@@ -78,7 +78,7 @@ Warden Zhao stopped as well, hands clasped behind his back, studying the sky.
 
 Shen You went in with Zhou Four, Zhou Five, and Zheng Two.
 
-The house sat on the north side facing south, two courtyards deep, front and back, on a plot of nearly three mu.
+The house faced south, its back to the north, two courtyards deep, front and back, on a plot of nearly three mu.
 
 Inside the entrance was a three-bay gatehouse. Through it lay the front courtyard, perfectly square, with three wing rooms on the east side and three on the west. Due north stood the main hall, three bays wide and five purlins deep, its platform raised two chi above the courtyard, a covered veranda running along its front. By regulation, an official of the seventh rank or below could build his main hall no bigger than three bays and five purlins—He the broker had made a point of mentioning it at the gate. Behind the main hall was the rear courtyard, even bigger than the front: a three-bay sleeping hall along the north side, the kitchen and woodshed on the east, and on the west a stable with room to tie up four or five horses. All the rest was overgrown garden, wild mugwort grown waist-high, and in the middle of it a well covered with a slab of bluestone.
 
