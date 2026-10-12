@@ -216,7 +216,7 @@ Feng Five was called in. His long, narrow face had the gray cast of a night with
 
 "Whose?"
 
-"Cui Shouli. Colonel of the Left Guard."
+"Cui Shouli. Colonel of the Left Encampment Guard."
 
 Behind Shen You, Qingluo's hands paused on his shoulders.
 
@@ -342,7 +342,7 @@ He understood now. This household could imitate even the Colonel's voice down to
 
 He was guarding his tongue to protect something that had been taken from him long ago.
 
-"...Cui Shouli," he said hoarsely. "Colonel of the Left Guard. He used to be deputy commander of the Eastern Palace Guard's Left Command."
+"...Cui Shouli," he said hoarsely. "Colonel of the Left Encampment Guard. He used to be deputy commander of the Eastern Palace Guard's Left Command."
 
 "What's in the box?"
 
@@ -428,7 +428,7 @@ Cui Shouli rose and walked to the window. Outside, the edge of the sky was turni
 
 "And," he paused, "tell the brothers the day stays the same day. But the method changes."
 
-"Yesterday the Left Guard received a military dispatch. The Turkic vanguard has already passed Jingzhou. In a few days, the capital will be under martial law."
+"Yesterday the Left Encampment Guard received a military dispatch. The Turkic vanguard has already passed Jingzhou. In a few days, the capital will be under martial law."
 
 He turned around, his face caught where the morning light met the lamplight, half bright, half dark.
 

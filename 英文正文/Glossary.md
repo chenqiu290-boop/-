@@ -1,4 +1,4 @@
-# Glossary (Chapters 1–4)
+# Glossary (Chapters 1–9)
 
 *For readers who want the background. Nothing here is needed to follow the story.*
 
