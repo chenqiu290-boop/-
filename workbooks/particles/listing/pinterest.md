@@ -3,7 +3,7 @@
 图片在 `listing/pins/`，竖版 1000×1500（Pinterest 推荐的比例）。用 `listing/build-pins.sh` 重新生成，版式在 `listing/pins.html`。
 
 完整版网址：https://chenqiu290.gumroad.com/l/particle-power
-免费样稿网址：（等用户提供）
+免费样稿网址：https://chenqiu290.gumroad.com/l/particle-power-free
 
 ---
 
@@ -94,7 +94,7 @@ Confused by に and で? Ask one question: is something just there, or is someth
 ```
 中文：は 还是 が？以下情况用 が：① 疑问词后面（だれが、なにが）；② 跟 すき、じょうず、わかる 一起用；③ 跟 あります／います 一起用。免费领取 は、が、を 可打印练习纸，附答案。给初学者的 JLPT N5 日语语法。
 
-**链接：** 免费样稿网址
+**链接：** https://chenqiu290.gumroad.com/l/particle-power-free
 
 ### 图钉 4：`pin-4.png`（免费样稿）→ 链接免费样稿
 
@@ -110,4 +110,4 @@ Free printable Japanese worksheets for beginners: 8 pages on the particles は, 
 ```
 中文：给初学者的免费可打印日语练习纸：8 页，讲助词 は、が、を，有清楚的讲解、假名、练习和答案。JLPT N5 级别。下载、打印，今天就开始练习。
 
-**链接：** 免费样稿网址
+**链接：** https://chenqiu290.gumroad.com/l/particle-power-free
