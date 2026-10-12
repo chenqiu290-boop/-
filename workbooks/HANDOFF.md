@@ -32,6 +32,7 @@
 | `build.sh` | 下载字体并用 Chromium 生成全部 4 个 PDF：`./build.sh` |
 | `listing/listing.md` | **上架材料**：要复制到 Gumroad 的英文文案（附中文翻译）、上传哪些文件、定价 |
 | `listing/*.png` | 商品图：`thumbnail.png`（600×600）、`preview-1`～`5`（1280×720）。用 `listing/build-previews.sh` 从 PDF 重新生成（版式在 `listing/previews.html`） |
+| `listing/pinterest.md` / `listing/pins/*.png` | **Pinterest 推广材料**：个人资料、图板、4 张竖版图钉（1000×1500）的英文标题和描述（附中文）。图用 `listing/build-pins.sh` 生成（版式在 `listing/pins.html`） |
 
 目录页的页码是脚本自动算的：目录里写 `data-to="id"`，对应页的 `<section>` 加同名 `id` 即可。
 
@@ -79,3 +80,4 @@
 - 2026-10-12：用户问"我没有上架免费样稿吗"，确认还**没有上架**。在样稿最后一页加了完整版的购买链接（chenqiu290.gumroad.com/l/particle-power，PDF 里可以点击），并补充写了附加小助词和"共 36 页"。已把样稿 PDF 和 thumbnail.png 发给用户，开始教上架免费样稿（文案在 `listing/listing.md` 第十节，价格 0，只用 thumbnail.png 当图，不用完整版的 5 张大图）。
 - 2026-10-12：用户说免费样稿**已发布**。在 `listing/listing.md` 第十节的样稿描述末尾加了一行完整版链接，让用户复制到样稿描述最后。已问用户要样稿的网址，以及能不能打开 Reddit / Pinterest、有没有账号（国内要翻墙）。下一步：根据回答写第一批推广内容——建议先做 **Pinterest**（图钉直接链到商品，适合推广，新号也能发），Reddit r/LearnJapanese 规定严、新号容易被删，只发有用的免费内容、不硬推。
 - 2026-10-12：用户说**不想在 Reddit 上发**，以后不再建议 Reddit。推广主要做 **Pinterest**。还在等用户回答：能不能打开 Pinterest、有没有账号，以及免费样稿的网址。
+- 2026-10-12：用户已注册 Pinterest。做了 4 张竖版图钉（`listing/pins/`）：① 商品图、② に 还是 で 小课堂、③ が 的三种用法、④ 免费样稿；文案在 `listing/pinterest.md`。① ② 链接完整版，③ ④ 链接免费样稿。用户发来的网址是**完整版**的，免费样稿的网址还没拿到。已教用户：改成企业账号（可选）、填个人资料、建图板、先发图钉 1。建议每隔一两天发一张。下一步：用户发样稿网址 → 补进 pinterest.md → 发图钉 3、4；之后可以继续做更多小课堂图钉（と、も、の、へ/に 等）。

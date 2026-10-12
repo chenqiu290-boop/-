@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Particle Power — Pinterest pins</title>
+<style>
+/* Pinterest pins (1000×1500, 2:3). pins.html#N shows pin N; build-pins.sh screenshots each one. */
+@font-face { font-family: "Fraunces"; font-weight: 600; src: url(../fonts/Fraunces-600.ttf); }
+@font-face { font-family: "Noto Sans JP"; font-weight: 400; src: url(../fonts/NotoSansJP-400.ttf); }
+@font-face { font-family: "Noto Sans JP"; font-weight: 700; src: url(../fonts/NotoSansJP-700.ttf); }
+@font-face { font-family: "Noto Serif JP"; font-weight: 700; src: url(../fonts/NotoSerifJP-700.ttf); }
+:root { --ink: #1f1d1a; --muted: #6b665e; --line: #d9d3c7; --soft: #f6f2ea; --accent: #c0412b; }
+* { box-sizing: border-box; }
+html, body { margin: 0; background: var(--soft); color: var(--ink); font-family: "Noto Sans JP", sans-serif; }
+.pin { display: none; position: relative; width: 1000px; height: 1500px; overflow: hidden; background: var(--soft); padding: 90px 80px; }
+.pin.on { display: block; }
+h1, h2 { font-family: "Fraunces", serif; font-weight: 600; margin: 0; letter-spacing: -0.01em; }
+.kicker { font-size: 26px; letter-spacing: 0.16em; text-transform: uppercase; color: var(--accent); font-weight: 700; }
+.badge { display: inline-block; border: 3px solid var(--ink); padding: 6px 20px; font-weight: 700; font-size: 24px; letter-spacing: 0.12em; }
+.p { color: var(--accent); font-family: "Noto Serif JP", serif; font-weight: 700; }
+.pg { position: absolute; background: #fff; box-shadow: 0 3px 6px rgba(0,0,0,.08), 0 24px 50px rgba(60,40,20,.2); }
+.pg img { display: block; width: 100%; }
+.foot { position: absolute; left: 80px; right: 80px; bottom: 70px; border-top: 3px solid var(--ink); padding-top: 22px; display: flex; justify-content: space-between; align-items: baseline; font-size: 28px; }
+.foot b { font-family: "Fraunces", serif; font-size: 40px; }
+.foot span { color: var(--muted); }
+ruby rt { font-size: 0.45em; color: var(--muted); font-weight: 400; }
+
+/* lesson cards */
+.rule { background: #fff; border-left: 10px solid var(--accent); padding: 30px 36px; font-size: 34px; line-height: 1.45; margin: 40px 0 36px; }
+.pair { display: grid; grid-template-columns: 1fr 1fr; gap: 0; background: #fff; border: 2px solid var(--line); }
+.pair div { padding: 24px 28px; border-top: 2px solid var(--line); }
+.pair div:nth-child(odd) { border-right: 2px solid var(--line); }
+.pair .h { border-top: 0; background: var(--ink); color: #fff; font-size: 30px; font-weight: 700; }
+.pair .h .p { color: #ffb4a6; font-size: 40px; }
+.jp { font-size: 38px; line-height: 1.6; }
+#pin2 .jp { font-size: 29px; white-space: nowrap; }
+#pin2 .pair div { padding: 38px 20px; }
+#pin3 .use { margin-top: 56px; }
+#pin3 .ex { padding: 26px 32px; }
+.en { display: block; font-size: 24px; color: var(--muted); margin-top: 4px; }
+.use { margin-top: 30px; }
+.use .n { font-size: 28px; font-weight: 700; color: var(--accent); margin-bottom: 8px; }
+.use .ex { background: #fff; border: 2px solid var(--line); padding: 18px 28px; }
+</style>
+<script>
+addEventListener('DOMContentLoaded', () => {
+  const n = location.hash.slice(1) || '1';
+  document.getElementById('pin' + n).classList.add('on');
+});
+</script>
+</head>
+<body>
+
+<!-- 1 · Product: links to the full workbook -->
+<section class="pin" id="pin1">
+  <span class="badge">JLPT N5 · BEGINNER</span>
+  <h1 style="font-size:110px; line-height:0.95; margin:30px 0 22px">Japanese Particles Workbook</h1>
+  <div style="font-size:34px; color:var(--muted); line-height:1.4">Printable PDF · <span class="p">は が を に で へ</span><br>and every other N5 particle</div>
+  <div class="pg" style="left:440px; top:720px; width:440px; transform:rotate(5deg)"><img src="pages/p9.png"></div>
+  <div class="pg" style="left:110px; top:690px; width:480px; transform:rotate(-3deg)"><img src="pages/p1.png"></div>
+  <div class="foot"><b>36 pages · answers included</b><span>Particle Power</span></div>
+</section>
+
+<!-- 2 · Mini lesson: に or で -->
+<section class="pin" id="pin2">
+  <div class="kicker">Japanese particles</div>
+  <h1 style="font-size:104px; line-height:1.0; margin-top:16px"><span class="p">に</span> or <span class="p">で</span>?</h1>
+  <div class="rule">Ask one question: is something just <b>there</b>, or is something <b>happening</b> there?</div>
+  <div class="pair">
+    <div class="h"><span class="p">に</span> · being / going</div><div class="h"><span class="p">で</span> · doing</div>
+    <div><span class="jp">へや<span class="p">に</span> います。</span><span class="en">I'm in my room.</span></div>
+    <div><span class="jp">へや<span class="p">で</span> べんきょうします。</span><span class="en">I study in my room.</span></div>
+    <div><span class="jp">こうえん<span class="p">に</span> <ruby>犬<rt>いぬ</rt></ruby>が います。</span><span class="en">There's a dog in the park.</span></div>
+    <div><span class="jp">こうえん<span class="p">で</span> さんぽします。</span><span class="en">I take a walk in the park.</span></div>
+    <div><span class="jp">スーパー<span class="p">に</span> <ruby>行<rt>い</rt></ruby>きます。</span><span class="en">I go to the supermarket.</span></div>
+    <div><span class="jp">スーパー<span class="p">で</span> パンを <ruby>買<rt>か</rt></ruby>います。</span><span class="en">I buy bread at the supermarket.</span></div>
+  </div>
+  <div class="foot"><b>Particle Power</b><span>N5 particles workbook</span></div>
+</section>
+
+<!-- 3 · Mini lesson: 3 times to use が -->
+<section class="pin" id="pin3">
+  <div class="kicker">Japanese particles</div>
+  <h1 style="font-size:92px; line-height:1.02; margin-top:16px">3 times you need <span class="p">が</span>, not <span class="p">は</span></h1>
+  <div class="use" style="margin-top:46px">
+    <div class="n">① After question words</div>
+    <div class="ex"><span class="jp">だれ<span class="p">が</span> <ruby>来<rt>き</rt></ruby>ましたか。</span><span class="en">Who came?　(✗ だれは)</span></div>
+  </div>
+  <div class="use">
+    <div class="n">② With like / good at: すき, じょうず, わかる</div>
+    <div class="ex"><span class="jp">わたしは ねこ<span class="p">が</span> すきです。</span><span class="en">I like cats.</span></div>
+  </div>
+  <div class="use">
+    <div class="n">③ With "there is": あります / います</div>
+    <div class="ex"><span class="jp">つくえの うえに <ruby>本<rt>ほん</rt></ruby><span class="p">が</span> あります。</span><span class="en">There is a book on the desk.</span></div>
+  </div>
+  <div class="foot"><b>Particle Power</b><span>Free sample: は · が · を</span></div>
+</section>
+
+<!-- 4 · Free sample: links to the $0 product -->
+<section class="pin" id="pin4">
+  <div style="display:inline-block; background:var(--accent); color:#fff; font-weight:700; font-size:40px; letter-spacing:0.1em; padding:10px 28px">FREE</div>
+  <h1 style="font-size:100px; line-height:1.0; margin:28px 0 20px">Japanese Particles Worksheets</h1>
+  <div style="font-size:34px; color:var(--muted); line-height:1.4">8 printable pages on <span class="p">は</span>, <span class="p">が</span> and <span class="p">を</span> · with answer key</div>
+  <div class="pg" style="left:520px; top:640px; width:400px; transform:rotate(5deg)"><img src="pages/s6.png"></div>
+  <div class="pg" style="left:300px; top:600px; width:400px; transform:rotate(1deg)"><img src="pages/s5.png"></div>
+  <div class="pg" style="left:80px; top:580px; width:400px; transform:rotate(-4deg)"><img src="pages/s1.png"></div>
+  <div class="foot"><b>JLPT N5 · beginner</b><span>Particle Power</span></div>
+</section>
+
+</body>
+</html>
