@@ -7,6 +7,11 @@
 <script>
 // full.html#zh prints the Chinese proofreading copy; #check marks pages whose content runs into the footer.
 if (location.hash.includes('zh')) { document.documentElement.classList.add('zh'); document.documentElement.lang = 'zh-CN'; }
+// Contents page: <span data-to="id"> gets the page number of the section with that id.
+addEventListener('DOMContentLoaded', () => {
+  const pages = [...document.querySelectorAll('.page')];
+  document.querySelectorAll('[data-to]').forEach(el => { el.textContent = pages.indexOf(document.getElementById(el.dataset.to)) + 1; });
+});
 if (location.hash.includes('check')) addEventListener('load', () => document.fonts.ready.then(() => {
   const bad = [];
   document.querySelectorAll('.page').forEach((pg, i) => {
@@ -25,7 +30,7 @@ if (location.hash.includes('check')) addEventListener('load', () => document.fon
 
 <!-- ============ COVER ============ -->
 <section class="page cover">
-  <div class="band" style="gap:0"><span style="font-size:44pt">は</span><span style="font-size:44pt">が</span><span style="font-size:44pt">を</span><span style="font-size:44pt">に</span><span style="font-size:44pt">で</span><span style="font-size:44pt">へ</span><span style="font-size:44pt" class="dim">と</span><span style="font-size:44pt" class="dim">も</span></div>
+  <div class="band grid"><span>は</span><span>が</span><span>を</span><span>に</span><span>で</span><span>へ</span><span>と</span><span>も</span><span>の</span><span>か</span><span class="sm">から</span><span class="sm">まで</span></div>
   <div class="inner">
     <div class="level">JLPT N5 · <en>BEGINNER</en><zh>初级</zh></div>
     <h1>Particle<br>Power</h1>
@@ -35,14 +40,43 @@ if (location.hash.includes('check')) addEventListener('load', () => document.fon
       <li><en>Furigana on every kanji</en><zh>所有汉字都标假名</zh></li>
       <li><en>Side-by-side pages for the pairs everyone mixes up</en><zh>专门对比最容易混淆的助词</zh></li>
       <li><en>Practice on every lesson, with a full answer key</en><zh>每课都有练习，附完整答案</zh></li>
+      <li><en>Two review tests and a one-page cheat sheet</en><zh>两次综合测试，外加一页速查表</zh></li>
       <li><en>Print it, write on it, keep it</en><zh>打印出来，直接在上面写</zh></li>
     </ul>
   </div>
   <div class="foot"><en>Full edition</en><zh>中文对照版（仅供核对，不出售）· 完整版</zh></div>
 </section>
 
-<!-- ============ HOW TO USE + MAP ============ -->
+<!-- ============ CONTENTS ============ -->
 <section class="page">
+  <div class="kicker"><en>Inside this book</en><zh>本书内容</zh></div>
+  <h2><en>Contents</en><zh>目录</zh></h2>
+  <ol class="toc">
+    <li><span class="n"><en>Start here</en><zh>入门</zh></span><span class="pp"></span><span class="t"><en>Meet the particles · How to use this workbook</en><zh>认识助词 · 怎么用这本练习册</zh></span><span class="no" data-to="start"></span></li>
+    <li><span class="n"><en>Lesson 1</en><zh>第 1 课</zh></span><span class="pp">は</span><span class="t"><en>The topic marker</en><zh>主题标记</zh></span><span class="no" data-to="l1"></span></li>
+    <li><span class="n"><en>Lesson 2</en><zh>第 2 课</zh></span><span class="pp">が</span><span class="t"><en>The subject marker</en><zh>主语标记</zh></span><span class="no" data-to="l2"></span></li>
+    <li><span class="n"><en>Lesson 3</en><zh>第 3 课</zh></span><span class="pp">を</span><span class="t"><en>The object marker</en><zh>宾语标记</zh></span><span class="no" data-to="l3"></span></li>
+    <li><span class="n"><en>Lesson 4</en><zh>第 4 课</zh></span><span class="pp">に</span><span class="t"><en>Time, destination, location</en><zh>时间、目的地、所在</zh></span><span class="no" data-to="l4"></span></li>
+    <li><span class="n"><en>Lesson 5</en><zh>第 5 课</zh></span><span class="pp">で</span><span class="t"><en>Where it happens, how you do it</en><zh>在哪里做、用什么做</zh></span><span class="no" data-to="l5"></span></li>
+    <li><span class="n"><en>Lesson 6</en><zh>第 6 课</zh></span><span class="pp">へ</span><span class="t"><en>The direction marker</en><zh>方向标记</zh></span><span class="no" data-to="l6"></span></li>
+    <li class="extra"><span class="n"><en>Compare</en><zh>对比</zh></span><span class="pp">に · で</span><span class="t"><en>Being there or doing something there?</en><zh>在那里，还是在那里做事？</zh></span><span class="no" data-to="cmp1"></span></li>
+    <li class="extra"><span class="n"><en>Compare</en><zh>对比</zh></span><span class="pp">へ · に</span><span class="t"><en>When both work, and when only に does</en><zh>什么时候都行，什么时候只能用 に</zh></span><span class="no" data-to="cmp2"></span></li>
+    <li class="extra"><span class="n"><en>Review</en><zh>复习</zh></span><span class="pp"></span><span class="t"><b><en>Review test 1</en><zh>综合测试 1</zh></b> · <en>Lessons 1–6</en><zh>第 1～6 课</zh></span><span class="no" data-to="test1"></span></li>
+    <li><span class="n"><en>Lesson 7</en><zh>第 7 课</zh></span><span class="pp">と</span><span class="t"><en>And · with</en><zh>和 · 跟</zh></span><span class="no" data-to="l7"></span></li>
+    <li><span class="n"><en>Lesson 8</en><zh>第 8 课</zh></span><span class="pp">も</span><span class="t"><en>Also · too</en><zh>也</zh></span><span class="no" data-to="l8"></span></li>
+    <li><span class="n"><en>Lesson 9</en><zh>第 9 课</zh></span><span class="pp">の</span><span class="t"><en>Linking nouns</en><zh>连接名词</zh></span><span class="no" data-to="l9"></span></li>
+    <li><span class="n"><en>Lesson 10</en><zh>第 10 课</zh></span><span class="pp">か</span><span class="t"><en>Questions · or</en><zh>疑问 · 或者</zh></span><span class="no" data-to="l10"></span></li>
+    <li><span class="n"><en>Lesson 11</en><zh>第 11 课</zh></span><span class="pp">から · まで</span><span class="t"><en>From · until</en><zh>从 · 到</zh></span><span class="no" data-to="l11"></span></li>
+    <li><span class="n"><en>Lesson 12</en><zh>第 12 课</zh></span><span class="pp" style="font-size:12pt">や より だけ ぐらい ね よ</span><span class="t"><en>Bonus: little particles</en><zh>附加篇：小助词</zh></span><span class="no" data-to="l12"></span></li>
+    <li class="extra"><span class="n"><en>Review</en><zh>复习</zh></span><span class="pp"></span><span class="t"><b><en>Review test 2</en><zh>综合测试 2</zh></b> · <en>The whole book</en><zh>全书</zh></span><span class="no" data-to="test2"></span></li>
+    <li class="extra"><span class="n"><en>Cheat sheet</en><zh>速查表</zh></span><span class="pp"></span><span class="t"><b><en>All the particles on one page</en><zh>一页看完所有助词</zh></b></span><span class="no" data-to="cheat"></span></li>
+    <li class="extra"><span class="n"><en>Answers</en><zh>答案</zh></span><span class="pp"></span><span class="t"><b><en>Answer key</en><zh>答案</zh></b></span><span class="no" data-to="key"></span></li>
+  </ol>
+  <div class="folio"><span>Particle Power · N5<zh> · 中文对照版</zh></span><span class="pg"></span></div>
+</section>
+
+<!-- ============ HOW TO USE + MAP ============ -->
+<section id="start" class="page">
   <div class="kicker"><en>Start here</en><zh>从这里开始</zh></div>
   <h2><en>Meet the particles</en><zh>认识助词</zh></h2>
   <p class="muted" style="margin-top:8px"><en>Particles are short words that come <em>after</em> a word and tell you its job in the sentence. English uses word order for this. Japanese uses particles.</en><zh>助词是放在词<em>后面</em>的小词，告诉你这个词在句子里的作用。英语靠语序表达这一点，日语靠助词。</zh></p>
@@ -79,7 +113,7 @@ if (location.hash.includes('check')) addEventListener('load', () => document.fon
 </section>
 
 <!-- ============ LESSON 1 は ============ -->
-<section class="page">
+<section id="l1" class="page">
   <div class="lesson-head">
     <div class="big-particle">は</div>
     <div><div class="kicker"><en>Lesson 1 · read as "wa"</en><zh>第 1 课 · 读作 "wa"</zh></div><h2><en>The topic marker</en><zh>主题标记</zh></h2><div class="sub"><en>"As for X…" — what the sentence is about</en><zh>"说到 X……"——这句话在讲什么</zh></div></div>
@@ -136,7 +170,7 @@ if (location.hash.includes('check')) addEventListener('load', () => document.fon
 </section>
 
 <!-- ============ LESSON 2 が ============ -->
-<section class="page">
+<section id="l2" class="page">
   <div class="lesson-head">
     <div class="big-particle">が</div>
     <div><div class="kicker"><en>Lesson 2 · read as "ga"</en><zh>第 2 课 · 读作 "ga"</zh></div><h2><en>The subject marker</en><zh>主语标记</zh></h2><div class="sub"><en>Who or what does it, has it, likes it</en><zh>谁做了、有什么、喜欢什么</zh></div></div>
@@ -195,7 +229,7 @@ if (location.hash.includes('check')) addEventListener('load', () => document.fon
 </section>
 
 <!-- ============ LESSON 3 を (lesson + practice) ============ -->
-<section class="page">
+<section id="l3" class="page">
   <div class="lesson-head">
     <div class="big-particle">を</div>
     <div><div class="kicker"><en>Lesson 3 · read as "o"</en><zh>第 3 课 · 读作 "o"</zh></div><h2><en>The object marker</en><zh>宾语标记</zh></h2><div class="sub"><en>The thing that receives the action</en><zh>动作的对象</zh></div></div>
@@ -233,7 +267,7 @@ if (location.hash.includes('check')) addEventListener('load', () => document.fon
 </section>
 
 <!-- ============ LESSON 4 に ============ -->
-<section class="page">
+<section id="l4" class="page">
   <div class="lesson-head">
     <div class="big-particle">に</div>
     <div><div class="kicker"><en>Lesson 4 · read as "ni"</en><zh>第 4 课 · 读作 "ni"</zh></div><h2><en>Time, destination, location</en><zh>时间、目的地、所在</zh></h2><div class="sub"><en>At 7:00 · to school · in the room · to a friend</en><zh>在 7 点 · 去学校 · 在房间里 · 给朋友</zh></div></div>
@@ -296,7 +330,7 @@ if (location.hash.includes('check')) addEventListener('load', () => document.fon
 </section>
 
 <!-- ============ LESSON 5 で ============ -->
-<section class="page">
+<section id="l5" class="page">
   <div class="lesson-head">
     <div class="big-particle">で</div>
     <div><div class="kicker"><en>Lesson 5 · read as "de"</en><zh>第 5 课 · 读作 "de"</zh></div><h2><en>Where it happens, how you do it</en><zh>在哪里做、用什么做</zh></h2><div class="sub"><en>At the library · by bus · with chopsticks · in English</en><zh>在图书馆 · 坐公交 · 用筷子 · 用英语</zh></div></div>
@@ -350,7 +384,7 @@ if (location.hash.includes('check')) addEventListener('load', () => document.fon
 </section>
 
 <!-- ============ LESSON 6 へ (lesson + practice) ============ -->
-<section class="page">
+<section id="l6" class="page">
   <div class="lesson-head">
     <div class="big-particle">へ</div>
     <div><div class="kicker"><en>Lesson 6 · read as "e"</en><zh>第 6 课 · 读作 "e"</zh></div><h2><en>The direction marker</en><zh>方向标记</zh></h2><div class="sub"><en>Toward a place</en><zh>朝某个地方去</zh></div></div>
@@ -391,7 +425,7 @@ if (location.hash.includes('check')) addEventListener('load', () => document.fon
 </section>
 
 <!-- ============ COMPARE に vs で ============ -->
-<section class="page">
+<section id="cmp1" class="page">
   <div class="kicker"><en>Compare</en><zh>对比</zh></div>
   <h2><en>に or で?</en><zh>に 还是 で？</zh></h2>
 
@@ -431,7 +465,7 @@ if (location.hash.includes('check')) addEventListener('load', () => document.fon
 </section>
 
 <!-- ============ COMPARE へ vs に ============ -->
-<section class="page">
+<section id="cmp2" class="page">
   <div class="kicker"><en>Compare</en><zh>对比</zh></div>
   <h2><en>へ or に?</en><zh>へ 还是 に？</zh></h2>
 
@@ -469,8 +503,60 @@ if (location.hash.includes('check')) addEventListener('load', () => document.fon
   <div class="folio"><span>Particle Power · N5<zh> · 中文对照版</zh></span><span class="pg"></span></div>
 </section>
 
+<!-- ============ REVIEW TEST 1 (Lessons 1–6) ============ -->
+<section id="test1" class="page test">
+  <div class="test-head">
+    <div><div class="kicker"><en>Review · Lessons 1–6</en><zh>复习 · 第 1～6 课</zh></div><h2><en>Review test 1</en><zh>综合测试 1</zh></h2></div>
+    <div class="score"><en>Score</en><zh>得分</zh><span></span>/ 20</div>
+  </div>
+  <p class="muted" style="margin-top:8px"><en>Try it without looking back at the lessons. One point per answer.</en><zh>不要翻回去看课文，自己做。每答对一个得 1 分。</zh></p>
+
+  <p class="task" style="margin-top:12px"><span class="n">A</span><en>Write は, が, を, に, で, or へ.</en><zh>填 は、が、を、に、で 或 へ。</zh></p>
+  <div class="cols">
+    <ol class="q">
+      <li><ruby>兄<rt>あに</rt></ruby><span class="blank"></span> いしゃです。</li>
+      <li>だれ<span class="blank"></span> まどを あけましたか。</li>
+      <li>まいあさ しんぶん<span class="blank"></span> よみます。</li>
+      <li>10<ruby>時<rt>じ</rt></ruby><span class="blank"></span> ねます。</li>
+      <li>としょかん<span class="blank"></span> べんきょうします。</li>
+      <li>らいねん アメリカ<span class="blank"></span> <ruby>行<rt>い</rt></ruby>きます。</li>
+    </ol>
+    <ol class="q" start="7">
+      <li>わたしは さかな<span class="blank"></span> きらいです。</li>
+      <li>れいぞうこ<span class="blank"></span> ぎゅうにゅうが あります。</li>
+      <li>はし<span class="blank"></span> ラーメンを たべます。</li>
+      <li>なに<span class="blank"></span> <ruby>買<rt>か</rt></ruby>いましたか。</li>
+      <li>ちかてつ<span class="blank"></span> <ruby>会社<rt>かいしゃ</rt></ruby>に <ruby>行<rt>い</rt></ruby>きます。</li>
+      <li>へや<span class="blank"></span> だれが いますか。</li>
+    </ol>
+  </div>
+
+  <p class="task"><span class="n">B</span><en>Circle the right particle.</en><zh>圈出正确的助词。</zh></p>
+  <div class="cols">
+    <ol class="q" start="13">
+      <li>こうえん<span class="pick">に · で</span> こどもが います。</li>
+      <li>こうえん<span class="pick">に · で</span> サッカーを します。</li>
+      <li>７<ruby>時<rt>じ</rt></ruby><span class="pick">に · へ</span> おきます。</li>
+    </ol>
+    <ol class="q" start="16">
+      <li>ともだち<span class="pick">に · で</span> てがみを おくります。</li>
+      <li><ruby>日本語<rt>にほんご</rt></ruby><span class="pick">が · を</span> わかります。</li>
+      <li>どの <ruby>人<rt>ひと</rt></ruby><span class="pick">は · が</span> やまださんですか。</li>
+    </ol>
+  </div>
+
+  <p class="task"><span class="n">C</span><en>Each sentence has one mistake. Write it correctly.</en><zh>每句都有一个错误，请写出正确的句子。</zh></p>
+  <ol class="q" start="19" style="margin-bottom:6px">
+    <li>✗ あしたに としょかんへ <ruby>行<rt>い</rt></ruby>きます。<span class="writeline"></span></li>
+    <li>✗ だれは <ruby>来<rt>き</rt></ruby>ましたか。<span class="writeline"></span></li>
+  </ol>
+
+  <div class="scale"><en><b>17–20</b> Great — on to Lesson 7!　<b>12–16</b> Good. Redo the questions you missed.　<b>0–11</b> Go back over Lessons 1–6 first.</en><zh><b>17～20 分</b> 很好，进入第 7 课！　<b>12～16 分</b> 不错，把错题再做一遍。　<b>0～11 分</b> 先回去复习第 1～6 课。</zh></div>
+  <div class="folio"><span>Particle Power · N5<zh> · 中文对照版</zh></span><span class="pg"></span></div>
+</section>
+
 <!-- ============ LESSON 7 と ============ -->
-<section class="page">
+<section id="l7" class="page">
   <div class="lesson-head">
     <div class="big-particle">と</div>
     <div><div class="kicker"><en>Lesson 7 · read as "to"</en><zh>第 7 课 · 读作 "to"</zh></div><h2><en>And · with</en><zh>和 · 跟</zh></h2><div class="sub"><en>Bread and eggs · with a friend</en><zh>面包和鸡蛋 · 跟朋友一起</zh></div></div>
@@ -531,7 +617,7 @@ if (location.hash.includes('check')) addEventListener('load', () => document.fon
 </section>
 
 <!-- ============ LESSON 8 も ============ -->
-<section class="page">
+<section id="l8" class="page">
   <div class="lesson-head">
     <div class="big-particle">も</div>
     <div><div class="kicker"><en>Lesson 8 · read as "mo"</en><zh>第 8 课 · 读作 "mo"</zh></div><h2><en>Also · too</en><zh>也</zh></h2><div class="sub"><en>Me too · not that either · nothing at all</en><zh>我也是 · 那个也不 · 什么都没有</zh></div></div>
@@ -587,7 +673,7 @@ if (location.hash.includes('check')) addEventListener('load', () => document.fon
 </section>
 
 <!-- ============ LESSON 9 の ============ -->
-<section class="page">
+<section id="l9" class="page">
   <div class="lesson-head">
     <div class="big-particle">の</div>
     <div><div class="kicker"><en>Lesson 9 · read as "no"</en><zh>第 9 课 · 读作 "no"</zh></div><h2><en>Linking nouns</en><zh>连接名词</zh></h2><div class="sub"><en>My bag · a Japanese book · in front of the station · it's mine</en><zh>我的包 · 日语书 · 车站前面 · 是我的</zh></div></div>
@@ -654,7 +740,7 @@ if (location.hash.includes('check')) addEventListener('load', () => document.fon
 </section>
 
 <!-- ============ LESSON 10 か ============ -->
-<section class="page">
+<section id="l10" class="page">
   <div class="lesson-head">
     <div class="big-particle">か</div>
     <div><div class="kicker"><en>Lesson 10 · read as "ka"</en><zh>第 10 课 · 读作 "ka"</zh></div><h2><en>Questions · or</en><zh>疑问 · 或者</zh></h2><div class="sub"><en>Is this yours? · tea or coffee · something, someone</en><zh>这是你的吗？· 茶或咖啡 · 什么东西、什么人</zh></div></div>
@@ -714,7 +800,7 @@ if (location.hash.includes('check')) addEventListener('load', () => document.fon
 </section>
 
 <!-- ============ LESSON 11 から・まで ============ -->
-<section class="page">
+<section id="l11" class="page">
   <div class="lesson-head">
     <div class="big-particle" style="font-size:40pt;width:auto">から<br>まで</div>
     <div><div class="kicker"><en>Lesson 11 · read as "kara" and "made"</en><zh>第 11 课 · 读作 "kara" 和 "made"</zh></div><h2><en>From · until</en><zh>从 · 到</zh></h2><div class="sub"><en>From 9 to 5 · from home to the station · a letter from Mom</en><zh>从 9 点到 5 点 · 从家到车站 · 妈妈寄来的信</zh></div></div>
@@ -773,7 +859,7 @@ if (location.hash.includes('check')) addEventListener('load', () => document.fon
 </section>
 
 <!-- ============ LESSON 12 BONUS (1) や・より・だけ ============ -->
-<section class="page">
+<section id="l12" class="page">
   <div class="kicker"><en>Lesson 12 · Bonus</en><zh>第 12 课 · 附加篇</zh></div>
   <h2><en>Little particles you'll hear every day</en><zh>每天都会听到的小助词</zh></h2>
   <p class="muted" style="margin-top:8px"><en>These six are short and simple. Each one gets a quick note and two examples.</en><zh>这六个助词都很短、很简单。每个只讲一个要点，配两个例句。</zh></p>
@@ -896,8 +982,91 @@ if (location.hash.includes('check')) addEventListener('load', () => document.fon
   <div class="folio"><span>Particle Power · N5<zh> · 中文对照版</zh></span><span class="pg"></span></div>
 </section>
 
+<!-- ============ REVIEW TEST 2 (whole book) ============ -->
+<section id="test2" class="page test">
+  <div class="test-head">
+    <div><div class="kicker"><en>Review · The whole book</en><zh>复习 · 全书</zh></div><h2><en>Review test 2</en><zh>综合测试 2</zh></h2></div>
+    <div class="score"><en>Score</en><zh>得分</zh><span></span>/ 20</div>
+  </div>
+  <p class="muted" style="margin-top:8px"><en>This test mixes particles from every lesson. One point per answer.</en><zh>这次测试混合了全书所有课的助词。每答对一个得 1 分。</zh></p>
+
+  <p class="task" style="margin-top:12px"><span class="n">A</span><en>Circle the right particle.</en><zh>圈出正确的助词。</zh></p>
+  <div class="cols">
+    <ol class="q">
+      <li>ともだち<span class="pick">と · や</span> えいがを <ruby>見<rt>み</rt></ruby>ました。</li>
+      <li>わたし<span class="pick">の · も</span> かさは あおいです。</li>
+      <li>バス<span class="pick">か · も</span> タクシーで <ruby>行<rt>い</rt></ruby>きます。</li>
+      <li><ruby>今日<rt>きょう</rt></ruby>は きのう<span class="pick">より · まで</span> さむいです。</li>
+      <li>えきまで 15<ruby>分<rt>ふん</rt></ruby><span class="pick">ぐらい · ごろ</span> かかります。</li>
+      <li>８<ruby>時<rt>じ</rt></ruby><span class="pick">ぐらい · ごろ</span> うちを でます。</li>
+    </ol>
+    <ol class="q" start="7">
+      <li>へやに だれ<span class="pick">も · か</span> いません。</li>
+      <li>だれ<span class="pick">も · か</span> <ruby>来<rt>き</rt></ruby>ましたか。</li>
+      <li>９<ruby>時<rt>じ</rt></ruby><span class="pick">から · より</span> はたらきます。</li>
+      <li>お<ruby>茶<rt>ちゃ</rt></ruby>を <ruby>一<rt>いっ</rt></ruby>ぱい<span class="pick">だけ · より</span> <ruby>飲<rt>の</rt></ruby>みました。</li>
+      <li>ペン<span class="pick">や · か</span> ノートなどが あります。</li>
+      <li><ruby>日本語<rt>にほんご</rt></ruby><span class="pick">の · を</span> <ruby>本<rt>ほん</rt></ruby>を <ruby>買<rt>か</rt></ruby>いました。</li>
+    </ol>
+  </div>
+
+  <p class="task"><span class="n">B</span><en>ね or よ? Circle one.</en><zh>ね 还是 よ？圈出一个。</zh></p>
+  <ol class="q" start="13">
+    <li>A: <ruby>今日<rt>きょう</rt></ruby>は あついです<span class="pick">ね · よ</span>。　B: そうですね。</li>
+    <li>A: テストは <ruby>金曜日<rt>きんようび</rt></ruby>ですか。　B: いいえ、<ruby>木曜日<rt>もくようび</rt></ruby>です<span class="pick">ね · よ</span>。</li>
+  </ol>
+
+  <p class="task"><span class="n">C</span><en>Fill in all three blanks.</en><zh>三个空格都要填。</zh><span class="muted" style="font-weight:400;font-size:10pt">　<en>(3 points)</en><zh>（3 分）</zh></span></p>
+  <ol class="q" start="15">
+    <li><ruby>日曜日<rt>にちようび</rt></ruby><span class="blank"></span> ともだち<span class="blank"></span> こうえん<span class="blank"></span> テニスを しました。<span class="hint"><en>On Sunday I played tennis in the park with a friend.</en><zh>星期天我跟朋友在公园打了网球。</zh></span></li>
+  </ol>
+
+  <p class="task"><span class="n">D</span><en>Each sentence has one mistake. Write it correctly.</en><zh>每句都有一个错误，请写出正确的句子。</zh></p>
+  <ol class="q" start="16" style="margin-bottom:6px">
+    <li>✗ あかいの くるまを <ruby>買<rt>か</rt></ruby>いました。<span class="writeline"></span></li>
+    <li>✗ <ruby>兄<rt>あに</rt></ruby>はも <ruby>学生<rt>がくせい</rt></ruby>です。<span class="writeline"></span></li>
+    <li>✗ ひとりと えいがを <ruby>見<rt>み</rt></ruby>ました。<span class="writeline"></span></li>
+  </ol>
+
+  <div class="scale"><en><b>17–20</b> You've got the N5 particles!　<b>12–16</b> Nearly there. Check the cheat sheet.　<b>0–11</b> Redo the lessons you missed.</en><zh><b>17～20 分</b> N5 助词你已经掌握了！　<b>12～16 分</b> 差一点，看看速查表。　<b>0～11 分</b> 把错的那几课再做一遍。</zh></div>
+  <div class="folio"><span>Particle Power · N5<zh> · 中文对照版</zh></span><span class="pg"></span></div>
+</section>
+
+<!-- ============ CHEAT SHEET ============ -->
+<section id="cheat" class="page">
+  <div class="kicker"><en>Cheat sheet</en><zh>速查表</zh></div>
+  <h2><en>All the particles on one page</en><zh>一页看完所有助词</zh></h2>
+
+  <table class="cheat">
+    <colgroup><col style="width:0.9in"><col style="width:2.15in"><col style="width:2.15in"><col></colgroup>
+    <tr><th><en>Particle</en><zh>助词</zh></th><th><en>Main jobs</en><zh>主要用法</zh></th><th><en>Example</en><zh>例句</zh></th><th><en>Watch out</en><zh>注意</zh></th></tr>
+    <tr><td class="pp">は<span class="r">wa</span></td><td><en>Topic: "as for…" · contrast</en><zh>主题："说到……" · 对比</zh></td><td class="jx">わたし<span class="p">は</span> <ruby>学生<rt>がくせい</rt></ruby>です。</td><td class="w"><en>Never after a question word: だれが, not だれは</en><zh>疑问词后面不接 は：要说 だれが，不说 だれは</zh></td></tr>
+    <tr><td class="pp">が<span class="r">ga</span></td><td><en>Subject, new info · with すき, じょうず, わかる · with あります / います</en><zh>主语、新信息 · 和 すき、じょうず、わかる 连用 · 和 あります／います 连用</zh></td><td class="jx">ねこ<span class="p">が</span> すきです。</td><td class="w"><en>Question words take が: だれが, なにが</en><zh>疑问词接 が：だれが、なにが</zh></td></tr>
+    <tr><td class="pp">を<span class="r">o</span></td><td><en>The object of an action</en><zh>动作的对象（宾语）</zh></td><td class="jx"><ruby>水<rt>みず</rt></ruby><span class="p">を</span> <ruby>飲<rt>の</rt></ruby>みます。</td><td class="w"><en>すき and じょうず take が, not を</en><zh>すき、じょうず 用 が，不用 を</zh></td></tr>
+    <tr><td class="pp">に<span class="r">ni</span></td><td><en>Point in time · where you go · where it is · who receives</en><zh>时间点 · 去的地方 · 所在 · 接受的人</zh></td><td class="jx">７<ruby>時<rt>じ</rt></ruby><span class="p">に</span> おきます。</td><td class="w"><en>No に with きょう, あした, まいにち…</en><zh>きょう、あした、まいにち 等不加 に</zh></td></tr>
+    <tr><td class="pp">で<span class="r">de</span></td><td><en>Where an action happens · by (bus, tool, language)</en><zh>动作发生的场所 · 手段（交通、工具、语言）</zh></td><td class="jx">バス<span class="p">で</span> <ruby>行<rt>い</rt></ruby>きます。</td><td class="w"><en>On foot = あるいて · alone = ひとりで</en><zh>走路 = あるいて · 一个人 = ひとりで</zh></td></tr>
+    <tr><td class="pp">へ<span class="r">e</span></td><td><en>Direction: go, come, return</en><zh>方向：去、来、回</zh></td><td class="jx"><ruby>日本<rt>にほん</rt></ruby><span class="p">へ</span> <ruby>行<rt>い</rt></ruby>きます。</td><td class="w"><en>Movement only. に also works here.</en><zh>只用于移动，这时也可以用 に</zh></td></tr>
+    <tr><td class="pp">と<span class="r">to</span></td><td><en>A and B (the full list) · with someone</en><zh>A 和 B（全部列出）· 跟某人</zh></td><td class="jx">ともだち<span class="p">と</span> <ruby>行<rt>い</rt></ruby>きます。</td><td class="w"><en>Joins nouns only, not verbs</en><zh>只连接名词，不连接动词</zh></td></tr>
+    <tr><td class="pp">も<span class="r">mo</span></td><td><en>Also, too · not … either · なにも, だれも</en><zh>也 · ……也不 · なにも、だれも</zh></td><td class="jx">わたし<span class="p">も</span> <ruby>行<rt>い</rt></ruby>きます。</td><td class="w"><en>Replaces は, が, を: never はも, をも</en><zh>替换 は、が、を：不说 はも、をも</zh></td></tr>
+    <tr><td class="pp">の<span class="r">no</span></td><td><en>A's B · what kind · position · "mine"</en><zh>A 的 B · 什么样的 · 位置 · "我的"</zh></td><td class="jx">わたし<span class="p">の</span> かばん</td><td class="w"><en>No の after an adjective: あかい かさ</en><zh>形容词后面不加 の：あかい かさ</zh></td></tr>
+    <tr><td class="pp">か<span class="r">ka</span></td><td><en>Question · A or B · なにか, だれか</en><zh>疑问 · A 或者 B · なにか、だれか</zh></td><td class="jx"><ruby>学生<rt>がくせい</rt></ruby>です<span class="p">か</span>。</td><td class="w"><en>なにか = anything? · なにも = nothing</en><zh>なにか = 有没有什么 · なにも = 什么都不</zh></td></tr>
+    <tr><td class="pp" style="font-size:15pt">から<br>まで<span class="r">kara · made</span></td><td><en>From … until / to … (time and place) · から: from a person</en><zh>从……到……（时间、地点）· から：从某人那里</zh></td><td class="jx">９<ruby>時<rt>じ</rt></ruby><span class="p">から</span> ５<ruby>時<rt>じ</rt></ruby><span class="p">まで</span></td><td class="w"><en>までに = by (a deadline)</en><zh>までに = 在……之前（截止）</zh></td></tr>
+  </table>
+
+  <h3 style="margin-top:14px"><en>Bonus: little particles</en><zh>附加：小助词</zh></h3>
+  <div class="minigrid">
+    <div><span class="big-particle">や</span><en>A, B, and so on</en><zh>A、B 等等</zh><span class="jx">パン<span class="p">や</span> たまご</span></div>
+    <div><span class="big-particle">より</span><en>than</en><zh>比</zh><span class="jx">バス<span class="p">より</span> はやい</span></div>
+    <div><span class="big-particle">だけ</span><en>only, just</en><zh>只</zh><span class="jx"><ruby>一<rt>ひと</rt></ruby>つ<span class="p">だけ</span></span></div>
+    <div><span class="big-particle">ぐらい</span><en>about (an amount)</en><zh>大约（数量）</zh><span class="jx">10<ruby>分<rt>ぷん</rt></ruby><span class="p">ぐらい</span></span></div>
+    <div><span class="big-particle">ね</span><en>…, right? (we both know)</en><zh>……吧（双方都知道）</zh><span class="jx">いい てんきです<span class="p">ね</span>。</span></div>
+    <div><span class="big-particle">よ</span><en>…, you know (new info)</en><zh>……哦（告诉新信息）</zh><span class="jx">やすいです<span class="p">よ</span>。</span></div>
+  </div>
+  <div class="folio"><span>Particle Power · N5<zh> · 中文对照版</zh></span><span class="pg"></span></div>
+</section>
+
 <!-- ============ ANSWER KEY ============ -->
-<section class="page key">
+<section id="key" class="page key">
   <div class="kicker"><en>Check your work</en><zh>对答案</zh></div>
   <h2><en>Answer key</en><zh>答案</zh></h2>
 
@@ -1116,6 +1285,58 @@ if (location.hash.includes('check')) addEventListener('load', () => document.fon
     <li>ね ／ ね</li>
     <li>よ <span class="muted"><en>(new information)</en><zh>（告诉对方新信息）</zh></span></li>
     <li>ね <span class="muted"><en>(both can see it)</en><zh>（两人都看得到）</zh></span></li>
+  </ol>
+  <div class="folio"><span>Particle Power · N5<zh> · 中文对照版</zh></span><span class="pg"></span></div>
+</section>
+
+<section class="page key">
+  <div class="kicker"><en>Check your work</en><zh>对答案</zh></div>
+  <h2><en>Answer key (continued)</en><zh>答案（续）</zh></h2>
+
+  <h3><en>Review test 1</en><zh>综合测试 1</zh></h3>
+  <ol>
+    <li>は</li>
+    <li>が <span class="muted"><en>(question word)</en><zh>（疑问词）</zh></span></li>
+    <li>を</li>
+    <li>に</li>
+    <li>で</li>
+    <li>へ <span class="muted"><en>(に is also OK)</en><zh>（に 也可以）</zh></span></li>
+    <li>が <span class="muted">(きらい)</span></li>
+    <li>に</li>
+    <li>で</li>
+    <li>を</li>
+    <li>で</li>
+    <li>に</li>
+    <li>に <span class="muted"><en>(just being there)</en><zh>（只是在那里）</zh></span></li>
+    <li>で <span class="muted"><en>(doing something)</en><zh>（在那里做事）</zh></span></li>
+    <li>に <span class="muted"><en>(へ is only for movement)</en><zh>（へ 只用于移动）</zh></span></li>
+    <li>に</li>
+    <li>が <span class="muted">(わかる)</span></li>
+    <li>が <span class="muted"><en>(question word)</en><zh>（疑问词）</zh></span></li>
+    <li>あした としょかんへ <ruby>行<rt>い</rt></ruby>きます。 <span class="muted"><en>(no に after あした)</en><zh>（あした 后面不加 に）</zh></span></li>
+    <li>だれが <ruby>来<rt>き</rt></ruby>ましたか。</li>
+  </ol>
+
+  <h3><en>Review test 2</en><zh>综合测试 2</zh></h3>
+  <ol>
+    <li>と <span class="muted"><en>(with)</en><zh>（跟）</zh></span></li>
+    <li>の</li>
+    <li>か <span class="muted"><en>(or)</en><zh>（或者）</zh></span></li>
+    <li>より</li>
+    <li>ぐらい <span class="muted"><en>(amount of time)</en><zh>（时长）</zh></span></li>
+    <li>ごろ <span class="muted"><en>(clock time)</en><zh>（钟点）</zh></span></li>
+    <li>も</li>
+    <li>か</li>
+    <li>から</li>
+    <li>だけ</li>
+    <li>や</li>
+    <li>の</li>
+    <li>ね</li>
+    <li>よ</li>
+    <li>に ／ と ／ で</li>
+    <li>あかい くるまを <ruby>買<rt>か</rt></ruby>いました。</li>
+    <li><ruby>兄<rt>あに</rt></ruby>も <ruby>学生<rt>がくせい</rt></ruby>です。</li>
+    <li>ひとりで えいがを <ruby>見<rt>み</rt></ruby>ました。</li>
   </ol>
   <div class="folio"><span>Particle Power · N5 · <en>For personal use only</en><zh>中文对照版 · 仅限个人使用</zh></span><span class="pg"></span></div>
 </section>
