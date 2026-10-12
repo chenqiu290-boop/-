@@ -1,0 +1,124 @@
+/* Particle Power, full edition. Shared by both languages: full.html prints English, full.html#zh prints the Chinese proofreading copy. */
+@font-face { font-family: "Fraunces"; font-weight: 600; src: url(fonts/Fraunces-600.ttf); }
+@font-face { font-family: "Noto Sans JP"; font-weight: 400; src: url(fonts/NotoSansJP-400.ttf); }
+@font-face { font-family: "Noto Sans JP"; font-weight: 700; src: url(fonts/NotoSansJP-700.ttf); }
+@font-face { font-family: "Noto Sans SC"; font-weight: 400; src: url(fonts/NotoSansSC-400.ttf); }
+@font-face { font-family: "Noto Sans SC"; font-weight: 700; src: url(fonts/NotoSansSC-700.ttf); }
+@font-face { font-family: "Noto Serif JP"; font-weight: 700; src: url(fonts/NotoSerifJP-700.ttf); }
+
+:root {
+  --ink: #1f1d1a;
+  --muted: #6b665e;
+  --line: #d9d3c7;
+  --soft: #f6f2ea;
+  --accent: #c0412b;      /* seal red: particles only */
+  --accent-soft: #fbe9e4;
+}
+@page { size: 8.5in 11in; margin: 0; }
+* { box-sizing: border-box; }
+html, body { margin: 0; background: #fff; color: var(--ink); }
+body { font-family: "Noto Sans JP", sans-serif; font-size: 11.5pt; line-height: 1.55; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+
+.page { width: 8.5in; height: 11in; padding: 0.7in 0.75in 0.6in; position: relative; overflow: hidden; page-break-after: always; break-after: page; }
+.page:last-child { page-break-after: auto; break-after: auto; }
+.folio { position: absolute; left: 0.75in; right: 0.75in; bottom: 0.38in; display: flex; justify-content: space-between; font-size: 8.5pt; color: var(--muted); border-top: 1px solid var(--line); padding-top: 6px; }
+
+h1, h2, h3 { font-family: "Fraunces", "Noto Serif JP", serif; font-weight: 600; margin: 0; letter-spacing: -0.01em; }
+h2 { font-size: 24pt; line-height: 1.15; }
+h3 { font-size: 13.5pt; margin: 18px 0 8px; }
+.kicker { font-size: 9pt; letter-spacing: 0.14em; text-transform: uppercase; color: var(--accent); font-weight: 700; margin-bottom: 6px; }
+p { margin: 0 0 10px; }
+.muted { color: var(--muted); }
+.jp { font-size: 13pt; }
+rt { font-size: 0.5em; color: var(--muted); }
+.p { color: var(--accent); font-weight: 700; }
+.big-particle { font-family: "Noto Serif JP", serif; font-weight: 700; color: var(--accent); }
+
+/* Lesson header */
+.lesson-head { display: flex; align-items: center; gap: 22px; padding-bottom: 14px; border-bottom: 2px solid var(--ink); margin-bottom: 16px; }
+.lesson-head .big-particle { font-size: 64pt; line-height: 1; width: 1.15em; text-align: center; }
+.lesson-head .sub { font-size: 11pt; color: var(--muted); margin-top: 4px; }
+
+.keyidea { background: var(--soft); border-left: 4px solid var(--accent); padding: 12px 16px; margin: 0 0 14px; }
+.keyidea strong { display: block; margin-bottom: 2px; }
+.pattern { font-size: 13pt; text-align: center; padding: 10px; border: 1px dashed var(--line); border-radius: 6px; margin: 10px 0 14px; }
+.pattern .slot { display: inline-block; padding: 1px 10px; border-radius: 4px; background: #efebe3; font-size: 10.5pt; }
+
+.ex { width: 100%; border-collapse: collapse; margin-bottom: 6px; }
+.ex td { padding: 7px 6px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.ex td:first-child { width: 58%; font-size: 13pt; }
+.ex td:last-child { color: var(--muted); font-size: 10.5pt; padding-top: 11px; }
+
+.tip { border: 1px solid var(--line); border-radius: 8px; padding: 10px 14px; margin-top: 12px; font-size: 10.5pt; }
+.tip b.t { color: var(--accent); text-transform: uppercase; font-size: 8.5pt; letter-spacing: 0.12em; display: block; margin-bottom: 2px; }
+
+/* Exercises */
+.task { font-weight: 700; margin: 4px 0 8px; }
+.task .n { display: inline-block; background: var(--ink); color: #fff; border-radius: 3px; padding: 0 7px; margin-right: 8px; font-size: 9.5pt; }
+ol.q { margin: 0 0 14px; padding-left: 26px; }
+ol.q li { padding: 6px 0; font-size: 13pt; }
+ol.q li .hint { display: block; font-size: 10pt; color: var(--muted); }
+.blank { display: inline-block; width: 2.3em; border-bottom: 1.5px solid var(--ink); margin: 0 3px; height: 1em; vertical-align: -2px; }
+.writeline { display: block; border-bottom: 1px solid var(--line); height: 30px; margin-top: 2px; }
+.choices { display: inline-block; margin-left: 10px; font-size: 10pt; color: var(--muted); }
+.cols { display: grid; grid-template-columns: 1fr 1fr; gap: 0 28px; }
+.hawa { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin-bottom: 18px; }
+.hawa div { border: 1px solid var(--line); border-radius: 6px; padding: 8px 10px; font-size: 13pt; }
+.hawa .opt { display: block; font-size: 9.5pt; color: var(--muted); margin-top: 2px; }
+.scramble { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 2px; }
+.scramble span { border: 1px solid var(--ink); border-radius: 14px; padding: 1px 10px; font-size: 12pt; }
+
+/* Cover */
+.cover { padding: 0; background: var(--soft); }
+.cover .band { position: absolute; top: 0; right: 0; width: 2.6in; height: 100%; background: var(--accent); display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 4px; }
+.cover .band span { font-family: "Noto Serif JP", serif; font-weight: 700; color: #fff; font-size: 54pt; line-height: 1.12; }
+.cover .band span.dim { opacity: 0.55; }
+.cover .inner { position: absolute; left: 0.8in; top: 1.2in; width: 4.6in; }
+.cover h1 { font-size: 46pt; line-height: 1.02; margin: 10px 0 18px; }
+.cover .tag { font-size: 13pt; color: var(--muted); margin-bottom: 30px; }
+.cover .level { display: inline-block; border: 1.5px solid var(--ink); padding: 3px 12px; font-weight: 700; font-size: 10pt; letter-spacing: 0.1em; }
+.cover ul { list-style: none; padding: 0; margin: 30px 0 0; font-size: 11pt; }
+.cover ul li { padding: 6px 0; border-top: 1px solid var(--line); }
+.cover ul li:last-child { border-bottom: 1px solid var(--line); }
+.cover .foot { position: absolute; left: 0.8in; bottom: 0.7in; font-size: 9pt; color: var(--muted); }
+
+/* Map */
+.map { display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 12px 0 18px; }
+.map div { border: 1px solid var(--line); border-radius: 8px; padding: 10px 10px 12px; text-align: center; }
+.map .big-particle { font-size: 30pt; line-height: 1.2; display: block; }
+.map .r { font-size: 9pt; color: var(--muted); }
+.map .m { font-size: 10pt; font-weight: 700; display: block; margin-top: 2px; }
+.map div.on { background: var(--accent-soft); border-color: var(--accent); }
+.steps { counter-reset: s; list-style: none; padding: 0; margin: 0; }
+.steps li { counter-increment: s; padding: 6px 0 6px 34px; position: relative; }
+.steps li::before { content: counter(s); position: absolute; left: 0; top: 6px; width: 22px; height: 22px; border-radius: 50%; background: var(--ink); color: #fff; font-size: 10pt; text-align: center; line-height: 22px; }
+
+/* Answer key */
+.key h3 { font-size: 12pt; margin: 14px 0 6px; }
+.key ol { margin: 0; padding-left: 22px; font-size: 11pt; columns: 2; column-gap: 28px; }
+.key ol li { padding: 2px 0; break-inside: avoid; }
+.next { background: var(--soft); border-radius: 10px; padding: 14px 18px; margin-top: 18px; }
+.next .row { display: flex; gap: 8px; flex-wrap: wrap; margin-top: 8px; }
+.next .row span { font-family: "Noto Serif JP", serif; font-weight: 700; color: var(--accent); background: #fff; border: 1px solid var(--line); border-radius: 6px; padding: 2px 12px; font-size: 15pt; }
+
+/* Language switch: <en>…</en> prints in the English edition, <zh>…</zh> in the Chinese proofreading copy. */
+html:not(.zh) zh, html.zh en { display: none; }
+html.zh body { font-family: "Noto Sans JP", "Noto Sans SC", sans-serif; }
+html.zh h1, html.zh h2, html.zh h3 { font-family: "Fraunces", "Noto Sans SC", serif; }
+
+/* Page numbers count themselves, so pages can be added anywhere. */
+body { counter-reset: pg; }
+.page { counter-increment: pg; }
+.folio .pg::after { content: counter(pg); }
+
+/* Use headings inside an example table (①, ②, ③…) */
+.ex tr.use td { font-size: 10.5pt; font-weight: 700; color: var(--accent); border-bottom: none; padding-bottom: 0; }
+ol.q li .choices { font-size: 10pt; }
+
+/* Side-by-side comparison */
+.vs { width: 100%; border-collapse: collapse; margin: 6px 0 10px; table-layout: fixed; }
+.vs th { font-family: "Noto Serif JP", "Noto Sans SC", serif; font-size: 12pt; text-align: left; padding: 6px 10px; background: var(--soft); border-bottom: 2px solid var(--ink); }
+.vs th .p { font-size: 15pt; }
+.vs td { padding: 7px 10px; border-bottom: 1px solid var(--line); vertical-align: top; font-size: 12.5pt; }
+.vs td .tr { display: block; font-size: 9.5pt; color: var(--muted); }
+.vs td.no { color: var(--muted); }

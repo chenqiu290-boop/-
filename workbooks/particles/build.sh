@@ -19,3 +19,5 @@ build() {
 }
 build workbook.html    particle-workbook-sample.pdf
 build workbook-zh.html particle-workbook-sample-zh.pdf
+build full.html        particle-power-full.pdf
+build "full.html#zh"   particle-power-full-zh.pdf

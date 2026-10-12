@@ -1,0 +1,599 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Particle Power — Japanese Particles Workbook</title>
+<link rel="stylesheet" href="style.css">
+<script>
+// full.html#zh prints the Chinese proofreading copy; #check marks pages whose content runs into the footer.
+if (location.hash.includes('zh')) { document.documentElement.classList.add('zh'); document.documentElement.lang = 'zh-CN'; }
+if (location.hash.includes('check')) addEventListener('load', () => document.fonts.ready.then(() => {
+  const bad = [];
+  document.querySelectorAll('.page').forEach((pg, i) => {
+    const folio = pg.querySelector('.folio');
+    const limit = folio ? folio.getBoundingClientRect().top : pg.getBoundingClientRect().bottom;
+    let bottom = 0;
+    pg.querySelectorAll(':scope > :not(.folio)').forEach(el => { bottom = Math.max(bottom, el.getBoundingClientRect().bottom); });
+    if (bottom > limit - 4) bad.push(`${i + 1}(+${Math.round(bottom - limit + 4)}px)`);
+  });
+  document.body.dataset.overflow = bad.join(' ') || 'none';
+  document.body.dataset.pages = document.querySelectorAll('.page').length;
+}));
+</script>
+</head>
+<body>
+
+<!-- ============ COVER ============ -->
+<section class="page cover">
+  <div class="band" style="gap:0"><span style="font-size:44pt">は</span><span style="font-size:44pt">が</span><span style="font-size:44pt">を</span><span style="font-size:44pt">に</span><span style="font-size:44pt">で</span><span style="font-size:44pt">へ</span><span style="font-size:44pt" class="dim">と</span><span style="font-size:44pt" class="dim">も</span></div>
+  <div class="inner">
+    <div class="level">JLPT N5 · <en>BEGINNER</en><zh>初级</zh></div>
+    <h1>Particle<br>Power</h1>
+    <div class="tag"><en>A practice workbook for the tiny words that hold Japanese sentences together.</en><zh>一本练习册，专攻把日语句子连在一起的那些"小词"。</zh></div>
+    <ul>
+      <li><en>Clear explanations in plain English</en><zh>用简单英语讲清楚（此版为中文对照）</zh></li>
+      <li><en>Furigana on every kanji</en><zh>所有汉字都标假名</zh></li>
+      <li><en>Side-by-side pages for the pairs everyone mixes up</en><zh>专门对比最容易混淆的助词</zh></li>
+      <li><en>Practice on every lesson, with a full answer key</en><zh>每课都有练习，附完整答案</zh></li>
+      <li><en>Print it, write on it, keep it</en><zh>打印出来，直接在上面写</zh></li>
+    </ul>
+  </div>
+  <div class="foot"><en>Full edition</en><zh>中文对照版（仅供核对，不出售）· 完整版</zh></div>
+</section>
+
+<!-- ============ HOW TO USE + MAP ============ -->
+<section class="page">
+  <div class="kicker"><en>Start here</en><zh>从这里开始</zh></div>
+  <h2><en>Meet the particles</en><zh>认识助词</zh></h2>
+  <p class="muted" style="margin-top:8px"><en>Particles are short words that come <em>after</em> a word and tell you its job in the sentence. English uses word order for this. Japanese uses particles.</en><zh>助词是放在词<em>后面</em>的小词，告诉你这个词在句子里的作用。英语靠语序表达这一点，日语靠助词。</zh></p>
+
+  <div class="pattern">
+    <span class="jp">わたし<span class="p">は</span>　パン<span class="p">を</span>　たべます。</span><br>
+    <span class="muted" style="font-size:10pt"><en>I eat bread.　·　は marks "I" as the topic, を marks "bread" as the thing eaten.</en><zh>我吃面包。　·　は 把"我"标为主题，を 把"面包"标为被吃的东西。</zh></span>
+  </div>
+
+  <h3><en>The N5 particles in this book</en><zh>本书讲的 N5 助词</zh></h3>
+  <div class="map">
+    <div><span class="big-particle">は</span><span class="r">wa</span><span class="m"><en>topic</en><zh>主题</zh></span></div>
+    <div><span class="big-particle">が</span><span class="r">ga</span><span class="m"><en>subject</en><zh>主语</zh></span></div>
+    <div><span class="big-particle">を</span><span class="r">o</span><span class="m"><en>object</en><zh>宾语</zh></span></div>
+    <div><span class="big-particle">に</span><span class="r">ni</span><span class="m"><en>time · to · at</en><zh>时间 · 去向 · 所在</zh></span></div>
+    <div><span class="big-particle">で</span><span class="r">de</span><span class="m"><en>place of action · by</en><zh>动作场所 · 手段</zh></span></div>
+    <div><span class="big-particle">へ</span><span class="r">e</span><span class="m"><en>direction</en><zh>方向</zh></span></div>
+    <div><span class="big-particle">と</span><span class="r">to</span><span class="m"><en>and · with</en><zh>和 · 跟</zh></span></div>
+    <div><span class="big-particle">も</span><span class="r">mo</span><span class="m"><en>also · too</en><zh>也</zh></span></div>
+    <div><span class="big-particle">の</span><span class="r">no</span><span class="m"><en>'s · of</en><zh>的</zh></span></div>
+    <div><span class="big-particle">か</span><span class="r">ka</span><span class="m"><en>question · or</en><zh>疑问 · 或者</zh></span></div>
+    <div><span class="big-particle">から</span><span class="r">kara</span><span class="m"><en>from</en><zh>从</zh></span></div>
+    <div><span class="big-particle">まで</span><span class="r">made</span><span class="m"><en>until · to</en><zh>到</zh></span></div>
+  </div>
+
+  <h3><en>How to use this workbook</en><zh>怎么用这本练习册</zh></h3>
+  <ol class="steps">
+    <li><en><b>Read the key idea first.</b> Each lesson starts with one short rule. Learn that before the details.</en><zh><b>先读"核心概念"。</b>每课开头有一条简短规则，先记住它，再看细节。</zh></li>
+    <li><en><b>Read the examples out loud.</b> Your ear will learn the pattern faster than your eyes.</en><zh><b>把例句读出声。</b>耳朵比眼睛更快记住句型。</zh></li>
+    <li><en><b>Do the practice in pencil.</b> Then check the answer key at the back.</en><zh><b>用铅笔做练习。</b>然后对照最后的答案。</zh></li>
+    <li><en><b>Mark what you got wrong.</b> Come back to those questions in 2–3 days.</en><zh><b>标出做错的题。</b>2～3 天后再做一遍。</zh></li>
+  </ol>
+  <div class="folio"><span>Particle Power · N5<zh> · 中文对照版</zh></span><span class="pg"></span></div>
+</section>
+
+<!-- ============ LESSON 1 は ============ -->
+<section class="page">
+  <div class="lesson-head">
+    <div class="big-particle">は</div>
+    <div><div class="kicker"><en>Lesson 1 · read as "wa"</en><zh>第 1 课 · 读作 "wa"</zh></div><h2><en>The topic marker</en><zh>主题标记</zh></h2><div class="sub"><en>"As for X…" — what the sentence is about</en><zh>"说到 X……"——这句话在讲什么</zh></div></div>
+  </div>
+
+  <div class="keyidea"><strong><en>Key idea</en><zh>核心概念</zh></strong><en>は marks the <b>topic</b>: the thing you are talking about. Everything after は is a comment about that topic.</en><zh>は 标记<b>主题</b>：你正在谈论的东西。は 后面的内容都是对这个主题的说明。</zh></div>
+
+  <div class="pattern"><span class="slot"><en>Topic</en><zh>主题</zh></span> <span class="p jp">は</span> <span class="slot"><en>comment</en><zh>说明</zh></span> <span class="jp">です。</span></div>
+
+  <table class="ex">
+    <tr><td>わたし<span class="p">は</span> <ruby>学生<rt>がくせい</rt></ruby>です。</td><td><en>I am a student.</en><zh>我是学生。</zh></td></tr>
+    <tr><td>これ<span class="p">は</span> <ruby>本<rt>ほん</rt></ruby>です。</td><td><en>This is a book.</en><zh>这是一本书。</zh></td></tr>
+    <tr><td><ruby>田中<rt>たなか</rt></ruby>さん<span class="p">は</span> <ruby>先生<rt>せんせい</rt></ruby>です。</td><td><en>Mr./Ms. Tanaka is a teacher.</en><zh>田中先生／女士是老师。</zh></td></tr>
+    <tr><td><ruby>今日<rt>きょう</rt></ruby><span class="p">は</span> さむいです。</td><td><en>It's cold today. <br><span style="font-size:9.5pt">(lit. "As for today, it's cold.")</span></en><zh>今天很冷。<br><span style="font-size:9.5pt">（直译："说到今天，很冷。"）</span></zh></td></tr>
+  </table>
+
+  <div class="tip"><b class="t"><en>Pronunciation</en><zh>发音</zh></b><en>The particle は is written with the kana <b>ha</b> but always read <b>wa</b>. Inside normal words, は is still <b>ha</b>: はな (hana, flower), はい (hai, yes).</en><zh>助词 は 写作假名 <b>ha</b>，但永远读 <b>wa</b>。在普通单词里，は 仍然读 <b>ha</b>：はな（hana，花）、はい（hai，是）。</zh></div>
+
+  <div class="tip"><b class="t"><en>Bonus · contrast</en><zh>补充 · 对比</zh></b><en>は can also compare two things:</en><zh>は 也可以用来对比两样东西：</zh><br>
+    <span class="jp">コーヒー<span class="p">は</span> <ruby>飲<rt>の</rt></ruby>みますが、お<ruby>茶<rt>ちゃ</rt></ruby><span class="p">は</span> <ruby>飲<rt>の</rt></ruby>みません。</span><br>
+    <span class="muted"><en>I drink coffee, but I don't drink tea.</en><zh>我喝咖啡，但不喝茶。</zh></span></div>
+  <div class="folio"><span>Particle Power · N5<zh> · 中文对照版</zh></span><span class="pg"></span></div>
+</section>
+
+<!-- ============ PRACTICE は ============ -->
+<section class="page">
+  <div class="kicker"><en>Lesson 1 · Practice</en><zh>第 1 课 · 练习</zh></div>
+  <h2><en>Practice: は</en><zh>练习：は</zh></h2>
+
+  <p class="task" style="margin-top:16px"><span class="n">A</span><en>Ha or wa? Circle how each underlined は is read.</en><zh>读 ha 还是 wa？圈出每个带下划线的 は 的读法。</zh></p>
+  <div class="hawa">
+    <div>1. <u>は</u>な<span class="opt">ha / wa</span></div>
+    <div>2. わたし<u>は</u><span class="opt">ha / wa</span></div>
+    <div>3. こんにち<u>は</u><span class="opt">ha / wa</span></div>
+    <div>4. <u>は</u>し<span class="opt">ha / wa</span></div>
+    <div>5. こんばん<u>は</u><span class="opt">ha / wa</span></div>
+    <div>6. <u>は</u>い<span class="opt">ha / wa</span></div>
+  </div>
+
+  <p class="task"><span class="n">B</span><en>Write it in Japanese using は.</en><zh>用 は 写成日语。</zh></p>
+  <ol class="q" start="7">
+    <li><span style="font-size:11.5pt"><en>I am Anna.</en><zh>我是安娜。</zh></span><span class="writeline"></span></li>
+    <li><span style="font-size:11.5pt"><en>This is a pen.</en><zh>这是一支笔。</zh></span><span class="writeline"></span></li>
+    <li><span style="font-size:11.5pt"><en>Mr./Ms. Sato is Japanese.</en><zh>佐藤先生／女士是日本人。</zh></span> <span class="muted" style="font-size:9.5pt">(さとう · にほんじん)</span><span class="writeline"></span></li>
+    <li><span style="font-size:11.5pt"><en>Tomorrow is Sunday.</en><zh>明天是星期日。</zh></span> <span class="muted" style="font-size:9.5pt">(あした · にちようび)</span><span class="writeline"></span></li>
+  </ol>
+
+  <p class="task"><span class="n">C</span><en>Fill in the blank to show contrast.</en><zh>填空，表示对比。</zh></p>
+  <ol class="q" start="11">
+    <li>にく<span class="blank"></span> たべますが、さかな<span class="blank"></span> たべません。<span class="hint"><en>I eat meat, but I don't eat fish.</en><zh>我吃肉，但不吃鱼。</zh></span></li>
+    <li><ruby>今日<rt>きょう</rt></ruby><span class="blank"></span> ひまですが、あした<span class="blank"></span> いそがしいです。<span class="hint"><en>I'm free today, but busy tomorrow.</en><zh>我今天有空，但明天很忙。</zh></span></li>
+  </ol>
+  <div class="folio"><span>Particle Power · N5<zh> · 中文对照版</zh></span><span class="pg"></span></div>
+</section>
+
+<!-- ============ LESSON 2 が ============ -->
+<section class="page">
+  <div class="lesson-head">
+    <div class="big-particle">が</div>
+    <div><div class="kicker"><en>Lesson 2 · read as "ga"</en><zh>第 2 课 · 读作 "ga"</zh></div><h2><en>The subject marker</en><zh>主语标记</zh></h2><div class="sub"><en>Who or what does it, has it, likes it</en><zh>谁做了、有什么、喜欢什么</zh></div></div>
+  </div>
+
+  <div class="keyidea"><strong><en>Key idea</en><zh>核心概念</zh></strong><en>が points at the <b>subject</b>, often as <b>new information</b>. If は says "as for X…", が says "<em>X</em> is the one."</en><zh>が 指出<b>主语</b>，通常是<b>新信息</b>。如果 は 是"说到 X……"，那 が 就是"就是 <em>X</em>"。</zh></div>
+
+  <h3 style="margin-top:6px"><en>Use が in these 3 situations</en><zh>这 3 种情况用 が</zh></h3>
+  <table class="ex">
+    <tr class="use"><td colspan="2"><en>① With question words (だれ, なに, どれ) and their answers</en><zh>① 疑问词（だれ、なに、どれ）及其回答</zh></td></tr>
+    <tr><td>だれ<span class="p">が</span> <ruby>来<rt>き</rt></ruby>ましたか。</td><td><en>Who came?</en><zh>谁来了？</zh></td></tr>
+    <tr><td><ruby>田中<rt>たなか</rt></ruby>さん<span class="p">が</span> <ruby>来<rt>き</rt></ruby>ました。</td><td><en>Tanaka came. (Tanaka is the one.)</en><zh>田中来了。（来的就是田中。）</zh></td></tr>
+    <tr class="use"><td colspan="2"><en>② With "like / good at / understand" words: すき, きらい, じょうず, わかる</en><zh>② "喜欢／擅长／懂"类的词：すき、きらい、じょうず、わかる</zh></td></tr>
+    <tr><td>わたしは ねこ<span class="p">が</span> すきです。</td><td><en>I like cats.</en><zh>我喜欢猫。</zh></td></tr>
+    <tr><td><ruby>母<rt>はは</rt></ruby>は りょうり<span class="p">が</span> じょうずです。</td><td><en>My mother is good at cooking.</en><zh>我妈妈很会做饭。</zh></td></tr>
+    <tr class="use"><td colspan="2"><en>③ With "there is": あります (things) / います (people, animals)</en><zh>③ 表示"有"：あります（物）／います（人、动物）</zh></td></tr>
+    <tr><td>つくえの うえに <ruby>本<rt>ほん</rt></ruby><span class="p">が</span> あります。</td><td><en>There is a book on the desk.</en><zh>桌子上有一本书。</zh></td></tr>
+    <tr><td>こうえんに <ruby>犬<rt>いぬ</rt></ruby><span class="p">が</span> います。</td><td><en>There is a dog in the park.</en><zh>公园里有一只狗。</zh></td></tr>
+  </table>
+
+  <div class="tip"><b class="t"><en>Common mistake</en><zh>常见错误</zh></b><en>A question word is <b>never</b> followed by は.</en><zh>疑问词后面<b>绝不</b>接 は。</zh>　✗ だれは…　✓ だれが…</div>
+  <div class="folio"><span>Particle Power · N5<zh> · 中文对照版</zh></span><span class="pg"></span></div>
+</section>
+
+<!-- ============ PRACTICE は vs が ============ -->
+<section class="page">
+  <div class="kicker"><en>Lesson 2 · Practice</en><zh>第 2 课 · 练习</zh></div>
+  <h2><en>は or が?</en><zh>は 还是 が？</zh></h2>
+  <p class="muted" style="margin-top:6px"><en>The question every learner asks. Write は or が in each blank.</en><zh>每个学习者都会问的问题。在空格里填 は 或 が。</zh></p>
+
+  <div class="cols">
+    <ol class="q">
+      <li>だれ<span class="blank"></span> <ruby>来<rt>き</rt></ruby>ましたか。</li>
+      <li>わたし<span class="blank"></span> <ruby>学生<rt>がくせい</rt></ruby>です。</li>
+      <li>わたしは すし<span class="blank"></span> すきです。</li>
+      <li>へやに ねこ<span class="blank"></span> います。</li>
+      <li>これ<span class="blank"></span> わたしの かさです。</li>
+      <li>きのう<span class="blank"></span> あめでした。</li>
+    </ol>
+    <ol class="q" start="7">
+      <li>どれ<span class="blank"></span> あなたの かばんですか。</li>
+      <li>わたしは <ruby>日本語<rt>にほんご</rt></ruby><span class="blank"></span> すこし わかります。</li>
+      <li>なに<span class="blank"></span> ありますか。</li>
+      <li>ペン<span class="blank"></span> あります。<span class="hint"><en>(answer to 9)</en><zh>（回答第 9 题）</zh></span></li>
+      <li><ruby>兄<rt>あに</rt></ruby><span class="blank"></span> テニス<span class="blank"></span> じょうずです。</li>
+      <li>ビール<span class="blank"></span> <ruby>飲<rt>の</rt></ruby>みますが、ワイン<span class="blank"></span> <ruby>飲<rt>の</rt></ruby>みません。</li>
+    </ol>
+  </div>
+
+  <p class="task" style="margin-top:6px"><span class="n"><en>Challenge</en><zh>挑战</zh></span><en>Answer the question. Use が.</en><zh>回答问题，用 が。</zh></p>
+  <ol class="q" start="13">
+    <li>A: どれが あなたの かばんですか。<br>B: <en>（this one）</en><zh>（这个）</zh><span class="writeline"></span></li>
+    <li>A: だれが <ruby>先生<rt>せんせい</rt></ruby>ですか。<br>B: <en>（Ms. Yamada）</en><zh>（山田女士）</zh><span class="muted" style="font-size:9.5pt">やまださん</span><span class="writeline"></span></li>
+  </ol>
+  <div class="folio"><span>Particle Power · N5<zh> · 中文对照版</zh></span><span class="pg"></span></div>
+</section>
+
+<!-- ============ LESSON 3 を (lesson + practice) ============ -->
+<section class="page">
+  <div class="lesson-head">
+    <div class="big-particle">を</div>
+    <div><div class="kicker"><en>Lesson 3 · read as "o"</en><zh>第 3 课 · 读作 "o"</zh></div><h2><en>The object marker</en><zh>宾语标记</zh></h2><div class="sub"><en>The thing that receives the action</en><zh>动作的对象</zh></div></div>
+  </div>
+
+  <div class="keyidea"><strong><en>Key idea</en><zh>核心概念</zh></strong><en>を marks <b>what</b> you eat, drink, read, buy, study… It answers "<em>do what?</em>"</en><zh>を 标记你吃、喝、读、买、学的<b>是什么</b>。它回答"<em>做什么？</em>"</zh></div>
+  <div class="pattern"><span class="slot"><en>Thing</en><zh>东西</zh></span> <span class="p jp">を</span> <span class="slot"><en>action verb</en><zh>动作动词</zh></span></div>
+  <table class="ex">
+    <tr><td><ruby>水<rt>みず</rt></ruby><span class="p">を</span> <ruby>飲<rt>の</rt></ruby>みます。</td><td><en>I drink water.</en><zh>我喝水。</zh></td></tr>
+    <tr><td><ruby>日本語<rt>にほんご</rt></ruby><span class="p">を</span> べんきょうします。</td><td><en>I study Japanese.</en><zh>我学日语。</zh></td></tr>
+    <tr><td>なに<span class="p">を</span> <ruby>買<rt>か</rt></ruby>いましたか。</td><td><en>What did you buy?</en><zh>你买了什么？</zh></td></tr>
+  </table>
+  <div class="tip" style="margin-top:6px"><b class="t"><en>Watch out</en><zh>注意</zh></b><en>すき and じょうず take <b>が</b>, not を — they are not action verbs.</en><zh>すき 和 じょうず 用 <b>が</b>，不用 を——它们不是动作动词。</zh>　<span style="white-space:nowrap">✗ ねこを すきです</span>　<span style="white-space:nowrap">✓ ねこが すきです</span></div>
+
+  <p class="task" style="margin-top:16px"><span class="n">A</span><en>Choose は, が, or を.</en><zh>选择 は、が 或 を。</zh></p>
+  <div class="cols">
+    <ol class="q">
+      <li>まいあさ コーヒー<span class="blank"></span> <ruby>飲<rt>の</rt></ruby>みます。</li>
+      <li>わたし<span class="blank"></span> テレビ<span class="blank"></span> <ruby>見<rt>み</rt></ruby>ます。</li>
+      <li>わたしは <ruby>犬<rt>いぬ</rt></ruby><span class="blank"></span> すきです。</li>
+    </ol>
+    <ol class="q" start="4">
+      <li>なに<span class="blank"></span> たべますか。</li>
+      <li>ともだち<span class="blank"></span> <ruby>来<rt>き</rt></ruby>ました。</li>
+      <li>てがみ<span class="blank"></span> かきました。</li>
+    </ol>
+  </div>
+
+  <p class="task"><span class="n">B</span><en>Put the words in order to make a sentence.</en><zh>把词语排成正确的句子。</zh></p>
+  <ol class="q" start="7" style="margin-bottom:0">
+    <li><div class="scramble"><span>よみます</span><span>ほんを</span><span>わたしは</span></div><span class="writeline" style="height:24px"></span></li>
+    <li><div class="scramble"><span>かぎが</span><span>あります</span><span>つくえの うえに</span></div><span class="writeline" style="height:24px"></span></li>
+  </ol>
+  <div class="folio"><span>Particle Power · N5<zh> · 中文对照版</zh></span><span class="pg"></span></div>
+</section>
+
+<!-- ============ LESSON 4 に ============ -->
+<section class="page">
+  <div class="lesson-head">
+    <div class="big-particle">に</div>
+    <div><div class="kicker"><en>Lesson 4 · read as "ni"</en><zh>第 4 课 · 读作 "ni"</zh></div><h2><en>Time, destination, location</en><zh>时间、目的地、所在</zh></h2><div class="sub"><en>At 7:00 · to school · in the room · to a friend</en><zh>在 7 点 · 去学校 · 在房间里 · 给朋友</zh></div></div>
+  </div>
+
+  <div class="keyidea"><strong><en>Key idea</en><zh>核心概念</zh></strong><en>に points at <b>one exact point</b>: a point in time, the place you go to, the place where something is, or the person who receives something.</en><zh>に 指向<b>一个具体的点</b>：时间点、要去的地方、东西所在的地方，或者接受东西的人。</zh></div>
+
+  <table class="ex">
+    <tr class="use"><td colspan="2"><en>① A point in time (clock times, dates, days of the week)</en><zh>① 时间点（几点、几月几日、星期几）</zh></td></tr>
+    <tr><td>７<ruby>時<rt>じ</rt></ruby><span class="p">に</span> おきます。</td><td><en>I get up at 7:00.</en><zh>我 7 点起床。</zh></td></tr>
+    <tr><td><ruby>日曜日<rt>にちようび</rt></ruby><span class="p">に</span> テニスを します。</td><td><en>I play tennis on Sunday.</en><zh>我星期天打网球。</zh></td></tr>
+    <tr class="use"><td colspan="2"><en>② The place you go to (with <ruby>行<rt>い</rt></ruby>きます, <ruby>来<rt>き</rt></ruby>ます, かえります)</en><zh>② 要去的地方（和 <ruby>行<rt>い</rt></ruby>きます、<ruby>来<rt>き</rt></ruby>ます、かえります 一起用）</zh></td></tr>
+    <tr><td><ruby>学校<rt>がっこう</rt></ruby><span class="p">に</span> <ruby>行<rt>い</rt></ruby>きます。</td><td><en>I go to school.</en><zh>我去学校。</zh></td></tr>
+    <tr><td>８<ruby>時<rt>じ</rt></ruby><span class="p">に</span> うち<span class="p">に</span> かえります。</td><td><en>I go home at 8:00.</en><zh>我 8 点回家。</zh></td></tr>
+    <tr class="use"><td colspan="2"><en>③ Where something is (with あります / います)</en><zh>③ 东西在哪里（和 あります／います 一起用）</zh></td></tr>
+    <tr><td>れいぞうこ<span class="p">に</span> ケーキが あります。</td><td><en>There's cake in the fridge.</en><zh>冰箱里有蛋糕。</zh></td></tr>
+    <tr class="use"><td colspan="2"><en>④ The person who receives (give, send, write, call)</en><zh>④ 接受的人（给、寄、写、打电话）</zh></td></tr>
+    <tr><td>ともだち<span class="p">に</span> メールを おくります。</td><td><en>I send an email to a friend.</en><zh>我给朋友发邮件。</zh></td></tr>
+  </table>
+
+  <div class="tip"><b class="t"><en>No に with these time words</en><zh>这些时间词不加 に</zh></b><en>Words that are measured from <em>now</em> take no particle: きょう, あした, きのう, まいにち, いま, らいしゅう.</en><zh>以"现在"为基准的时间词不加助词：きょう、あした、きのう、まいにち、いま、らいしゅう。</zh><br>
+    <span style="white-space:nowrap">✗ あしたに <ruby>行<rt>い</rt></ruby>きます</span>　<span style="white-space:nowrap">✓ あした <ruby>行<rt>い</rt></ruby>きます</span></div>
+  <div class="folio"><span>Particle Power · N5<zh> · 中文对照版</zh></span><span class="pg"></span></div>
+</section>
+
+<!-- ============ PRACTICE に ============ -->
+<section class="page">
+  <div class="kicker"><en>Lesson 4 · Practice</en><zh>第 4 课 · 练习</zh></div>
+  <h2><en>Practice: に</en><zh>练习：に</zh></h2>
+
+  <p class="task" style="margin-top:16px"><span class="n">A</span><en>Write に, or ✗ if no particle is needed.</en><zh>填 に；如果不需要助词，就写 ✗。</zh></p>
+  <div class="cols">
+    <ol class="q">
+      <li>６<ruby>時<rt>じ</rt></ruby><span class="blank"></span> おきます。</li>
+      <li>あした<span class="blank"></span> テストが あります。</li>
+      <li><ruby>土曜日<rt>どようび</rt></ruby><span class="blank"></span> そうじを します。</li>
+    </ol>
+    <ol class="q" start="4">
+      <li>まいばん<span class="blank"></span> テレビを <ruby>見<rt>み</rt></ruby>ます。</li>
+      <li>５<ruby>月<rt>がつ</rt></ruby><span class="blank"></span> <ruby>日本<rt>にほん</rt></ruby>に <ruby>来<rt>き</rt></ruby>ました。</li>
+      <li>きのう<span class="blank"></span> えいがを <ruby>見<rt>み</rt></ruby>ました。</li>
+    </ol>
+  </div>
+
+  <p class="task"><span class="n">B</span><en>Write に in the blank. Then circle its use: ① time　② destination　③ where it is　④ person</en><zh>在空格里填 に，再圈出它的用法：① 时间　② 目的地　③ 所在　④ 接受的人</zh></p>
+  <ol class="q" start="7">
+    <li>ぎんこう<span class="blank"></span> <ruby>行<rt>い</rt></ruby>きます。<span class="choices">①　②　③　④</span></li>
+    <li>はこの なか<span class="blank"></span> りんごが あります。<span class="choices">①　②　③　④</span></li>
+    <li><ruby>母<rt>はは</rt></ruby><span class="blank"></span> でんわを かけます。<span class="choices">①　②　③　④</span></li>
+    <li>２<ruby>時<rt>じ</rt></ruby><span class="blank"></span> えきに つきます。<span class="choices">①　②　③　④</span></li>
+  </ol>
+
+  <p class="task"><span class="n">C</span><en>Write it in Japanese using に.</en><zh>用 に 写成日语。</zh></p>
+  <ol class="q" start="11">
+    <li><span style="font-size:11.5pt"><en>I go to Japan in April.</en><zh>我 4 月去日本。</zh></span> <span class="muted" style="font-size:9.5pt">(しがつ · にほん)</span><span class="writeline"></span></li>
+    <li><span style="font-size:11.5pt"><en>There is a cat under the table.</en><zh>桌子下面有一只猫。</zh></span> <span class="muted" style="font-size:9.5pt">(テーブルの した · ねこ)</span><span class="writeline"></span></li>
+    <li><span style="font-size:11.5pt"><en>I write a letter to my friend.</en><zh>我给朋友写信。</zh></span> <span class="muted" style="font-size:9.5pt">(ともだち · てがみ)</span><span class="writeline"></span></li>
+  </ol>
+  <div class="folio"><span>Particle Power · N5<zh> · 中文对照版</zh></span><span class="pg"></span></div>
+</section>
+
+<!-- ============ LESSON 5 で ============ -->
+<section class="page">
+  <div class="lesson-head">
+    <div class="big-particle">で</div>
+    <div><div class="kicker"><en>Lesson 5 · read as "de"</en><zh>第 5 课 · 读作 "de"</zh></div><h2><en>Where it happens, how you do it</en><zh>在哪里做、用什么做</zh></h2><div class="sub"><en>At the library · by bus · with chopsticks · in English</en><zh>在图书馆 · 坐公交 · 用筷子 · 用英语</zh></div></div>
+  </div>
+
+  <div class="keyidea"><strong><en>Key idea</en><zh>核心概念</zh></strong><en>で has two big jobs. It marks the <b>place where an action happens</b>, and the <b>means</b> you use to do it: a vehicle, a tool, or a language.</en><zh>で 有两大作用：标记<b>动作发生的场所</b>，以及做事用的<b>手段</b>：交通工具、工具或语言。</zh></div>
+
+  <div class="pattern"><span class="slot"><en>Place</en><zh>场所</zh></span> <span class="p jp">で</span> <span class="slot"><en>action</en><zh>动作</zh></span>　　·　　<span class="slot"><en>Means</en><zh>手段</zh></span> <span class="p jp">で</span> <span class="slot"><en>action</en><zh>动作</zh></span></div>
+
+  <table class="ex">
+    <tr class="use"><td colspan="2"><en>① The place where you do something</en><zh>① 做事的场所</zh></td></tr>
+    <tr><td>としょかん<span class="p">で</span> べんきょうします。</td><td><en>I study at the library.</en><zh>我在图书馆学习。</zh></td></tr>
+    <tr><td>こうえん<span class="p">で</span> しゃしんを とりました。</td><td><en>I took photos in the park.</en><zh>我在公园拍了照片。</zh></td></tr>
+    <tr class="use"><td colspan="2"><en>② How you travel</en><zh>② 交通方式</zh></td></tr>
+    <tr><td>バス<span class="p">で</span> <ruby>学校<rt>がっこう</rt></ruby>に <ruby>行<rt>い</rt></ruby>きます。</td><td><en>I go to school by bus.</en><zh>我坐公交车去学校。</zh></td></tr>
+    <tr class="use"><td colspan="2"><en>③ A tool or a language</en><zh>③ 工具或语言</zh></td></tr>
+    <tr><td>はし<span class="p">で</span> ごはんを たべます。</td><td><en>I eat rice with chopsticks.</en><zh>我用筷子吃饭。</zh></td></tr>
+    <tr><td><ruby>日本語<rt>にほんご</rt></ruby><span class="p">で</span> <ruby>話<rt>はな</rt></ruby>してください。</td><td><en>Please speak in Japanese.</en><zh>请用日语说。</zh></td></tr>
+  </table>
+
+  <div class="tip"><b class="t"><en>Asking questions</en><zh>提问</zh></b><en>どこで = where (do you do it)?　なにで = by what? how?</en><zh>どこで = 在哪里（做）？　なにで = 用什么？怎么去？</zh><br>
+    <span class="jp">なに<span class="p">で</span> <ruby>行<rt>い</rt></ruby>きますか。</span>　<span class="muted"><en>How are you getting there?</en><zh>你怎么去？</zh></span></div>
+
+  <div class="tip"><b class="t"><en>On foot</en><zh>走路</zh></b><en>Walking does not use で. Say あるいて (on foot).</en><zh>走路不用 で，要说 あるいて（走着）。</zh>　<span style="white-space:nowrap">✗ あしで <ruby>行<rt>い</rt></ruby>きます</span>　<span style="white-space:nowrap">✓ あるいて <ruby>行<rt>い</rt></ruby>きます</span></div>
+  <div class="folio"><span>Particle Power · N5<zh> · 中文对照版</zh></span><span class="pg"></span></div>
+</section>
+
+<!-- ============ PRACTICE で ============ -->
+<section class="page">
+  <div class="kicker"><en>Lesson 5 · Practice</en><zh>第 5 课 · 练习</zh></div>
+  <h2><en>Practice: で</en><zh>练习：で</zh></h2>
+
+  <p class="task" style="margin-top:16px"><span class="n">A</span><en>Write で in the blank. Then circle: is it a <b>place</b> or a <b>means</b>?</en><zh>在空格里填 で，再圈出：这是<b>场所</b>还是<b>手段</b>？</zh></p>
+  <ol class="q">
+    <li>レストラン<span class="blank"></span> ばんごはんを たべます。<span class="choices"><en>place / means</en><zh>场所 / 手段</zh></span></li>
+    <li>でんしゃ<span class="blank"></span> <ruby>会社<rt>かいしゃ</rt></ruby>に <ruby>行<rt>い</rt></ruby>きます。<span class="choices"><en>place / means</en><zh>场所 / 手段</zh></span></li>
+    <li>えんぴつ<span class="blank"></span> なまえを かきます。<span class="choices"><en>place / means</en><zh>场所 / 手段</zh></span></li>
+    <li><ruby>英語<rt>えいご</rt></ruby><span class="blank"></span> メールを かきました。<span class="choices"><en>place / means</en><zh>场所 / 手段</zh></span></li>
+    <li>うみ<span class="blank"></span> およぎました。<span class="choices"><en>place / means</en><zh>场所 / 手段</zh></span></li>
+    <li>スマホ<span class="blank"></span> おんがくを ききます。<span class="choices"><en>place / means</en><zh>场所 / 手段</zh></span></li>
+  </ol>
+
+  <p class="task"><span class="n">B</span><en>Answer the question using the word in brackets.</en><zh>用括号里的词回答问题。</zh></p>
+  <ol class="q" start="7">
+    <li>A: なにで <ruby>学校<rt>がっこう</rt></ruby>に <ruby>行<rt>い</rt></ruby>きますか。<br>B: <span class="muted" style="font-size:10pt">(じてんしゃ)</span><span class="writeline"></span></li>
+    <li>A: どこで ひるごはんを たべますか。<br>B: <span class="muted" style="font-size:10pt">(しょくどう)</span><span class="writeline"></span></li>
+    <li>A: その かばんは どこで <ruby>買<rt>か</rt></ruby>いましたか。<br>B: <span class="muted" style="font-size:10pt">(デパート)</span><span class="writeline"></span></li>
+    <li>A: なにで えきに <ruby>行<rt>い</rt></ruby>きますか。<br>B: <span class="muted" style="font-size:10pt"><en>(on foot — careful!)</en><zh>（走路——小心！）</zh></span><span class="writeline"></span></li>
+  </ol>
+  <div class="folio"><span>Particle Power · N5<zh> · 中文对照版</zh></span><span class="pg"></span></div>
+</section>
+
+<!-- ============ LESSON 6 へ (lesson + practice) ============ -->
+<section class="page">
+  <div class="lesson-head">
+    <div class="big-particle">へ</div>
+    <div><div class="kicker"><en>Lesson 6 · read as "e"</en><zh>第 6 课 · 读作 "e"</zh></div><h2><en>The direction marker</en><zh>方向标记</zh></h2><div class="sub"><en>Toward a place</en><zh>朝某个地方去</zh></div></div>
+  </div>
+
+  <div class="keyidea"><strong><en>Key idea</en><zh>核心概念</zh></strong><en>へ marks the <b>direction</b> you move in. It goes with movement verbs: <ruby>行<rt>い</rt></ruby>きます (go), <ruby>来<rt>き</rt></ruby>ます (come), かえります (go home, return).</en><zh>へ 标记移动的<b>方向</b>，和表示移动的动词一起用：<ruby>行<rt>い</rt></ruby>きます（去）、<ruby>来<rt>き</rt></ruby>ます（来）、かえります（回去、回家）。</zh></div>
+
+  <table class="ex">
+    <tr><td>らいねん <ruby>日本<rt>にほん</rt></ruby><span class="p">へ</span> <ruby>行<rt>い</rt></ruby>きます。</td><td><en>I'm going to Japan next year.</en><zh>我明年去日本。</zh></td></tr>
+    <tr><td>なんじに うち<span class="p">へ</span> かえりますか。</td><td><en>What time are you going home?</en><zh>你几点回家？</zh></td></tr>
+    <tr><td>ともだちが わたしの うち<span class="p">へ</span> <ruby>来<rt>き</rt></ruby>ました。</td><td><en>A friend came to my house.</en><zh>朋友来我家了。</zh></td></tr>
+  </table>
+
+  <div class="tip" style="margin-top:6px"><b class="t"><en>Pronunciation</en><zh>发音</zh></b><en>The particle へ is written with the kana <b>he</b> but read <b>e</b>. Inside normal words, へ is still <b>he</b>: へや (heya, room), へた (heta, bad at).</en><zh>助词 へ 写作假名 <b>he</b>，但读 <b>e</b>。在普通单词里，へ 仍然读 <b>he</b>：へや（heya，房间）、へた（heta，不擅长）。</zh></div>
+
+  <p class="task" style="margin-top:16px"><span class="n">A</span><en>He or e? Circle how each underlined へ is read.</en><zh>读 he 还是 e？圈出每个带下划线的 へ 的读法。</zh></p>
+  <div class="hawa">
+    <div>1. <u>へ</u>や<span class="opt">he / e</span></div>
+    <div>2. どこ<u>へ</u><span class="opt">he / e</span></div>
+    <div>3. <u>へ</u>た<span class="opt">he / e</span></div>
+    <div>4. うち<u>へ</u><span class="opt">he / e</span></div>
+    <div>5. こちら<u>へ</u><span class="opt">he / e</span></div>
+    <div>6. <u>へ</u>ん<span class="opt">he / e</span></div>
+  </div>
+
+  <p class="task"><span class="n">B</span><en>Choose は, を, or へ.</en><zh>选择 は、を 或 へ。</zh></p>
+  <div class="cols">
+    <ol class="q" start="7">
+      <li>わたし<span class="blank"></span> らいしゅう きょうと<span class="blank"></span> <ruby>行<rt>い</rt></ruby>きます。</li>
+      <li>７<ruby>時<rt>じ</rt></ruby>に うち<span class="blank"></span> かえります。</li>
+    </ol>
+    <ol class="q" start="9">
+      <li>あさ コーヒー<span class="blank"></span> <ruby>飲<rt>の</rt></ruby>みます。</li>
+      <li>どこ<span class="blank"></span> <ruby>行<rt>い</rt></ruby>きますか。</li>
+    </ol>
+  </div>
+  <div class="folio"><span>Particle Power · N5<zh> · 中文对照版</zh></span><span class="pg"></span></div>
+</section>
+
+<!-- ============ COMPARE に vs で ============ -->
+<section class="page">
+  <div class="kicker"><en>Compare</en><zh>对比</zh></div>
+  <h2><en>に or で?</en><zh>に 还是 で？</zh></h2>
+
+  <div class="keyidea" style="margin-top:14px"><strong><en>Ask yourself one question</en><zh>问自己一个问题</zh></strong><en>Is something just <b>there</b>, or is something <b>happening</b> there?<br>Being there or going there → <span class="p">に</span>.　Doing something there → <span class="p">で</span>.</en><zh>东西只是<b>在</b>那里，还是在那里<b>做</b>什么？<br>在那里、去那里 → <span class="p">に</span>。　在那里做事 → <span class="p">で</span>。</zh></div>
+
+  <table class="vs">
+    <tr><th><span class="p">に</span> <en>· being / going</en><zh>· 在、去</zh></th><th><span class="p">で</span> <en>· doing</en><zh>· 做事</zh></th></tr>
+    <tr><td>へや<span class="p">に</span> います。<span class="tr"><en>I'm in my room.</en><zh>我在房间里。</zh></span></td><td>へや<span class="p">で</span> べんきょうします。<span class="tr"><en>I study in my room.</en><zh>我在房间里学习。</zh></span></td></tr>
+    <tr><td>こうえん<span class="p">に</span> <ruby>犬<rt>いぬ</rt></ruby>が います。<span class="tr"><en>There's a dog in the park.</en><zh>公园里有一只狗。</zh></span></td><td>こうえん<span class="p">で</span> さんぽします。<span class="tr"><en>I take a walk in the park.</en><zh>我在公园散步。</zh></span></td></tr>
+    <tr><td>スーパー<span class="p">に</span> <ruby>行<rt>い</rt></ruby>きます。<span class="tr"><en>I go to the supermarket.</en><zh>我去超市。</zh></span></td><td>スーパー<span class="p">で</span> パンを <ruby>買<rt>か</rt></ruby>います。<span class="tr"><en>I buy bread at the supermarket.</en><zh>我在超市买面包。</zh></span></td></tr>
+  </table>
+
+  <p class="task" style="margin-top:14px"><span class="n">A</span><en>Write に or で.</en><zh>填 に 或 で。</zh></p>
+  <div class="cols">
+    <ol class="q">
+      <li>としょかん<span class="blank"></span> <ruby>本<rt>ほん</rt></ruby>を よみます。</li>
+      <li>としょかん<span class="blank"></span> <ruby>本<rt>ほん</rt></ruby>が たくさん あります。</li>
+      <li>あした おおさか<span class="blank"></span> <ruby>行<rt>い</rt></ruby>きます。</li>
+      <li>えき<span class="blank"></span> ともだちを まちます。</li>
+      <li>いま ２かい<span class="blank"></span> います。</li>
+    </ol>
+    <ol class="q" start="6">
+      <li>２かい<span class="blank"></span> コーヒーを <ruby>飲<rt>の</rt></ruby>みます。</li>
+      <li>ねこは どこ<span class="blank"></span> いますか。</li>
+      <li>まいにち どこ<span class="blank"></span> ひるごはんを たべますか。</li>
+      <li>ぎんこうは えきの まえ<span class="blank"></span> あります。</li>
+      <li>うみ<span class="blank"></span> およぎます。</li>
+    </ol>
+  </div>
+
+  <p class="task"><span class="n">B</span><en>Write it in Japanese. One sentence needs に, the other needs で.</en><zh>写成日语。一句要用 に，另一句要用 で。</zh></p>
+  <ol class="q" start="11" style="margin-bottom:0">
+    <li><span style="font-size:11.5pt"><en>My younger sister is in Tokyo.</en><zh>我妹妹在东京。</zh></span> <span class="muted" style="font-size:9.5pt">(いもうと · とうきょう · います)</span><span class="writeline"></span></li>
+    <li><span style="font-size:11.5pt"><en>My younger sister works in Tokyo.</en><zh>我妹妹在东京工作。</zh></span> <span class="muted" style="font-size:9.5pt">(はたらきます)</span><span class="writeline"></span></li>
+  </ol>
+  <div class="folio"><span>Particle Power · N5<zh> · 中文对照版</zh></span><span class="pg"></span></div>
+</section>
+
+<!-- ============ COMPARE へ vs に ============ -->
+<section class="page">
+  <div class="kicker"><en>Compare</en><zh>对比</zh></div>
+  <h2><en>へ or に?</en><zh>へ 还是 に？</zh></h2>
+
+  <div class="keyidea" style="margin-top:14px"><strong><en>Good news</en><zh>好消息</zh></strong><en>With <b>go, come, return</b>, both work and mean almost the same thing. へ feels like "toward"; に feels like "arriving at". But へ is <b>only</b> for movement. Every other job belongs to に.</en><zh>和<b>去、来、回</b>一起用时，两个都可以，意思几乎一样。へ 的感觉是"朝着"，に 的感觉是"到达"。但 へ <b>只</b>用于移动，其他用法都归 に。</zh></div>
+
+  <table class="vs">
+    <tr><th><en>Movement: both OK</en><zh>移动：两个都行</zh></th><th><en>Everything else: only に</en><zh>其他：只能用 に</zh></th></tr>
+    <tr><td><ruby>日本<rt>にほん</rt></ruby><span class="p">へ</span> <ruby>行<rt>い</rt></ruby>きます。 ✓<br><ruby>日本<rt>にほん</rt></ruby><span class="p">に</span> <ruby>行<rt>い</rt></ruby>きます。 ✓<span class="tr"><en>I go to Japan.</en><zh>我去日本。</zh></span></td><td>７<ruby>時<rt>じ</rt></ruby><span class="p">に</span> おきます。 ✓<br>７<ruby>時<rt>じ</rt></ruby><span class="p">へ</span> おきます。 ✗<span class="tr"><en>Time</en><zh>时间</zh></span></td></tr>
+    <tr><td>うち<span class="p">へ</span> かえります。 ✓<br>うち<span class="p">に</span> かえります。 ✓<span class="tr"><en>I go home.</en><zh>我回家。</zh></span></td><td>へや<span class="p">に</span> います。 ✓<br>へや<span class="p">へ</span> います。 ✗<span class="tr"><en>Where someone is</en><zh>所在</zh></span></td></tr>
+  </table>
+
+  <p class="task" style="margin-top:14px"><span class="n">A</span><en>Can you change the underlined に to へ? Write ○ (yes) or ✗ (no).</en><zh>带下划线的 に 能换成 へ 吗？能写 ○，不能写 ✗。</zh></p>
+  <div class="cols">
+    <ol class="q">
+      <li><ruby>学校<rt>がっこう</rt></ruby><u>に</u> <ruby>行<rt>い</rt></ruby>きます。<span class="blank"></span></li>
+      <li>７<ruby>時<rt>じ</rt></ruby><u>に</u> おきます。<span class="blank"></span></li>
+      <li>つくえの うえ<u>に</u> <ruby>本<rt>ほん</rt></ruby>が あります。<span class="blank"></span></li>
+      <li>らいげつ くに<u>に</u> かえります。<span class="blank"></span></li>
+    </ol>
+    <ol class="q" start="5">
+      <li>ここ<u>に</u> <ruby>来<rt>き</rt></ruby>てください。<span class="blank"></span></li>
+      <li><ruby>日曜日<rt>にちようび</rt></ruby><u>に</u> テニスを します。<span class="blank"></span></li>
+      <li>どこ<u>に</u> <ruby>行<rt>い</rt></ruby>きますか。<span class="blank"></span></li>
+      <li>こうえん<u>に</u> こどもが います。<span class="blank"></span></li>
+    </ol>
+  </div>
+
+  <p class="task"><span class="n">B</span><en>Mixed review: write に, で, or へ. Some blanks have two right answers.</en><zh>综合复习：填 に、で 或 へ。有的空格有两个正确答案。</zh></p>
+  <ol class="q" start="9" style="margin-bottom:0">
+    <li>８<ruby>時<rt>じ</rt></ruby><span class="blank"></span> バス<span class="blank"></span> <ruby>会社<rt>かいしゃ</rt></ruby><span class="blank"></span> <ruby>行<rt>い</rt></ruby>きます。</li>
+    <li>きのう デパート<span class="blank"></span> くつを <ruby>買<rt>か</rt></ruby>いました。</li>
+    <li>はこの なか<span class="blank"></span> なにが ありますか。</li>
+    <li>まいにち うち<span class="blank"></span> ばんごはんを たべます。</li>
+  </ol>
+  <div class="folio"><span>Particle Power · N5<zh> · 中文对照版</zh></span><span class="pg"></span></div>
+</section>
+
+<!-- ============ ANSWER KEY ============ -->
+<section class="page key">
+  <div class="kicker"><en>Check your work</en><zh>对答案</zh></div>
+  <h2><en>Answer key</en><zh>答案</zh></h2>
+
+  <h3><en>Lesson 1 · は</en><zh>第 1 课 · は</zh></h3>
+  <ol>
+    <li>ha</li><li>wa</li><li>wa</li><li>ha</li><li>wa</li><li>ha</li>
+    <li>わたしは アンナです。</li>
+    <li>これは ペンです。</li>
+    <li>さとうさんは にほんじんです。</li>
+    <li>あしたは にちようびです。</li>
+    <li>は ／ は</li>
+    <li>は ／ は</li>
+  </ol>
+
+  <h3><en>Lesson 2 · は or が</en><zh>第 2 课 · は 还是 が</zh></h3>
+  <ol>
+    <li>が <span class="muted"><en>(question word)</en><zh>（疑问词）</zh></span></li>
+    <li>は</li>
+    <li>が <span class="muted">(すき)</span></li>
+    <li>が <span class="muted">(います)</span></li>
+    <li>は</li>
+    <li>は</li>
+    <li>が <span class="muted"><en>(question word)</en><zh>（疑问词）</zh></span></li>
+    <li>が <span class="muted">(わかる)</span></li>
+    <li>が</li>
+    <li>が <span class="muted"><en>(answer to なにが)</en><zh>（回答 なにが）</zh></span></li>
+    <li>は ／ が</li>
+    <li>は ／ は <span class="muted"><en>(contrast)</en><zh>（对比）</zh></span></li>
+    <li>これが わたしの かばんです。</li>
+    <li>やまださんが <ruby>先生<rt>せんせい</rt></ruby>です。</li>
+  </ol>
+
+  <h3><en>Lesson 3 · を</en><zh>第 3 课 · を</zh></h3>
+  <ol>
+    <li>を</li>
+    <li>は ／ を</li>
+    <li>が <span class="muted"><en>(すき, not を!)</en><zh>（すき，不是 を！）</zh></span></li>
+    <li>を <span class="muted"><en>(object, even with なに)</en><zh>（宾语，即使是 なに）</zh></span></li>
+    <li>が</li>
+    <li>を</li>
+    <li>わたしは ほんを よみます。</li>
+    <li>つくえの うえに かぎが あります。</li>
+  </ol>
+
+  <h3><en>Lesson 4 · に</en><zh>第 4 课 · に</zh></h3>
+  <ol>
+    <li>に</li>
+    <li>✗ <span class="muted">(あした)</span></li>
+    <li>に</li>
+    <li>✗ <span class="muted">(まいばん)</span></li>
+    <li>に</li>
+    <li>✗ <span class="muted">(きのう)</span></li>
+    <li>に · ②</li>
+    <li>に · ③</li>
+    <li>に · ④</li>
+    <li>に · ①</li>
+    <li>４<ruby>月<rt>がつ</rt></ruby>に <ruby>日本<rt>にほん</rt></ruby>に <ruby>行<rt>い</rt></ruby>きます。</li>
+    <li>テーブルの したに ねこが います。</li>
+    <li>ともだちに てがみを かきます。</li>
+  </ol>
+  <div class="folio"><span>Particle Power · N5<zh> · 中文对照版</zh></span><span class="pg"></span></div>
+</section>
+
+<section class="page key">
+  <div class="kicker"><en>Check your work</en><zh>对答案</zh></div>
+  <h2><en>Answer key (continued)</en><zh>答案（续）</zh></h2>
+
+  <h3><en>Lesson 5 · で</en><zh>第 5 课 · で</zh></h3>
+  <ol>
+    <li>で · <en>place</en><zh>场所</zh></li>
+    <li>で · <en>means</en><zh>手段</zh></li>
+    <li>で · <en>means</en><zh>手段</zh></li>
+    <li>で · <en>means</en><zh>手段</zh></li>
+    <li>で · <en>place</en><zh>场所</zh></li>
+    <li>で · <en>means</en><zh>手段</zh></li>
+    <li>じてんしゃで <ruby>行<rt>い</rt></ruby>きます。</li>
+    <li>しょくどうで たべます。</li>
+    <li>デパートで <ruby>買<rt>か</rt></ruby>いました。</li>
+    <li>あるいて <ruby>行<rt>い</rt></ruby>きます。 <span class="muted"><en>(not あしで)</en><zh>（不是 あしで）</zh></span></li>
+  </ol>
+
+  <h3><en>Lesson 6 · へ</en><zh>第 6 课 · へ</zh></h3>
+  <ol>
+    <li>he</li><li>e</li><li>he</li><li>e</li><li>e</li><li>he</li>
+    <li>は ／ へ</li>
+    <li>へ <span class="muted"><en>(に is also OK)</en><zh>（に 也可以）</zh></span></li>
+    <li>を</li>
+    <li>へ <span class="muted"><en>(に is also OK)</en><zh>（に 也可以）</zh></span></li>
+  </ol>
+
+  <h3><en>Compare · に or で</en><zh>对比 · に 还是 で</zh></h3>
+  <ol>
+    <li>で</li>
+    <li>に</li>
+    <li>に <span class="muted"><en>(へ is also OK)</en><zh>（へ 也可以）</zh></span></li>
+    <li>で</li>
+    <li>に</li>
+    <li>で</li>
+    <li>に</li>
+    <li>で</li>
+    <li>に</li>
+    <li>で</li>
+    <li>いもうとは とうきょうに います。</li>
+    <li>いもうとは とうきょうで はたらきます。</li>
+  </ol>
+
+  <h3><en>Compare · へ or に</en><zh>对比 · へ 还是 に</zh></h3>
+  <ol>
+    <li>○</li>
+    <li>✗ <span class="muted"><en>(time)</en><zh>（时间）</zh></span></li>
+    <li>✗ <span class="muted"><en>(where it is)</en><zh>（所在）</zh></span></li>
+    <li>○</li>
+    <li>○</li>
+    <li>✗ <span class="muted"><en>(time)</en><zh>（时间）</zh></span></li>
+    <li>○</li>
+    <li>✗ <span class="muted"><en>(where it is)</en><zh>（所在）</zh></span></li>
+    <li>に ／ で ／ に <span class="muted"><en>(or へ)</en><zh>（或 へ）</zh></span></li>
+    <li>で</li>
+    <li>に</li>
+    <li>で</li>
+  </ol>
+  <div class="folio"><span>Particle Power · N5 · <en>For personal use only</en><zh>中文对照版 · 仅限个人使用</zh></span><span class="pg"></span></div>
+</section>
+
+</body>
+</html>
