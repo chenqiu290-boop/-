@@ -67,7 +67,6 @@ Prices mentioned in the story, for scale:
 - **Kaiyuan Gate**: the northern gate in the city's west wall, the road out toward the Wei bridges.
 - **Jinguang Gate**: the middle gate in the city's west wall. **Chunming Gate Avenue** runs east to west across the city along the south side of the Imperial City, past the West Market's north gate.
 - **Gate tunnels**: a city gate is a set of three tunnels through the wall. In Chapter 18 the middle one stays shut, traffic goes in on the left and out on the right, and a **gate clerk** checks travel passes and counts heads.
-- **Jinwu Guard**: the guard army that polices the capital's streets. Its men spread the word in the West Market that martial law is over.
 - **Eastern Palace**: the crown prince's residence. After the Incident, Li Shimin was named crown prince and took the throne there. His father, now the **Retired Emperor** (Li Yuan, Emperor Gaozu), stayed in **Taiji Palace**.
 - **County**: Chang'an was split into two counties along Vermilion Bird Avenue. Kaiming Ward belongs to Wannian County. **Constables** are the county's detectives and enforcers. **Patrolmen** guard the streets and gates.
 - **Human and Horse Market** (*kouma hang*): the row in the West Market where people and horses were sold. *Kou*, "mouths," was the official word for heads of people. Under Tang law, slaves were a base class and counted as their master's property. They could be bought, sold, given away or inherited. Every sale had to be recorded in a deed drawn up at the Market Office, and a master could free a slave with a letter of manumission. The maids bought there, like the household slaves of great families, held this legal status.
@@ -116,6 +115,7 @@ Prices mentioned in the story, for scale:
 - **Crown Prince's Librarian** (*taizi xima*): an official of the Eastern Palace in charge of the crown prince's books and records, lower fifth rank. The title reads literally as "horse washer," but it comes from an older word for the outriders who went ahead of the prince's horse.
 - **Palace Food Service**: the palace office that prepares the imperial table.
 - **Mess** and **squad**: units of the militia. A mess is ten men under a **mess leader**; a squad is fifty under a **squad leader**. The squad Shen You meets in Chapter 18 marched out fifty strong and is going home forty-three.
+- **Jinwu Guard** (*jinwu wei*): the guard army that polices the capital's streets. Under martial law it hunts for suspected spies, seizing seven Sogdians in the West Market (Chapter 14), and its men are the first to spread word there that martial law is over (Chapter 17). In 626 this guard was in fact still called the Left and Right Hou Guards; it took the name Jinwu only in 662. The book uses the more familiar name throughout, as Chinese stories of the Tang do.
 
 ## Law and paperwork
 
