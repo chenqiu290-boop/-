@@ -111,3 +111,125 @@ Free printable Japanese worksheets for beginners: 8 pages on the particles は, 
 中文：给初学者的免费可打印日语练习纸：8 页，讲助词 は、が、を，有清楚的讲解、假名、练习和答案。JLPT N5 级别。下载、打印，今天就开始练习。
 
 **链接：** https://chenqiu290.gumroad.com/l/particle-power-free
+
+---
+
+## 四、第二批图钉（图钉 5～9）
+
+建议**每周发 2～3 张**，大约两周发完。顺序：5 → 9 → 6 → 7 → 8（速查表最容易被收藏，放在第二张）。
+每张都发到同一个图板 **Japanese Particles for Beginners**。
+
+### 图钉 5：`pin-5.png`（と 还是 や）→ 链接完整版
+
+图上内容（中文）：と 和 や 都是"和"。と 把东西全部列出来；や 只举几个例子，还有别的。附加：と 也表示"跟（谁一起）"。
+
+**标题：**
+```
+と or や? How to Say "And" in Japanese
+```
+中文：と 还是 や？日语里"和"怎么说
+
+**描述：**
+```
+と and や both mean "and". Use と when you list everything (りんごと パン = apples and bread, that's all). Use や when you give a few examples (りんごや パン = apples, bread, and so on). Bonus: と also means "with". JLPT N5 Japanese grammar for beginners.
+```
+中文：と 和 や 都是"和"。全部列出时用 と（りんごと パン＝苹果和面包，就这些）；只举几个例子时用 や（りんごや パン＝苹果、面包等）。附加：と 也表示"跟"。给初学者的 JLPT N5 日语语法。
+
+**链接：** https://chenqiu290.gumroad.com/l/particle-power
+
+**Alt Text（替代文字）：**
+```
+Japanese grammar card comparing the particles と and や, with example phrases and English translations.
+```
+
+### 图钉 6：`pin-6.png`（も 的用法）→ 链接免费样稿
+
+图上内容（中文）：① も 替换 は、が、を（不说 わたしはも）；② に、で 后面保留，变成 にも、でも；③ なにも／だれも ＋ 否定 ＝ 什么都不／谁都不。
+
+**标题：**
+```
+How to Say "Too" in Japanese: the Particle も
+```
+中文：日语里"也"怎么说：助词 も
+
+**描述：**
+```
+3 rules for も: ① it replaces は, が and を (わたしも, not わたしはも), ② after に and で you keep them (にも, でも), ③ なにも / だれも + a negative verb means "nothing" / "no one". Get the free printable Japanese particles worksheets. JLPT N5.
+```
+中文：も 的 3 条规则：① 替换 は、が、を（说 わたしも，不说 わたしはも）；② に、で 后面要保留（にも、でも）；③ なにも／だれも ＋ 否定动词 ＝ 什么都不／谁都不。免费领取可打印的日语助词练习纸。JLPT N5。
+
+**链接：** https://chenqiu290.gumroad.com/l/particle-power-free
+
+**Alt Text：**
+```
+Japanese grammar card explaining three uses of the particle も with example sentences.
+```
+
+### 图钉 7：`pin-7.png`（の 的 4 种用法）→ 链接完整版
+
+图上内容（中文）：① 谁的（わたしの かばん）；② 什么样的（日本語の 本）；③ 位置（つくえの うえ）；④ 代替名词，"我的"（わたしのです）。
+
+**标题：**
+```
+4 Ways to Use の in Japanese (JLPT N5)
+```
+中文：日语助词 の 的 4 种用法（JLPT N5）
+
+**描述：**
+```
+の is more than "'s". Use it for ① whose (わたしの かばん, my bag), ② what kind (日本語の 本, a Japanese book), ③ where (つくえの うえ, on the desk), and ④ instead of a noun (わたしのです, it's mine). Practice every N5 particle in the Particle Power workbook.
+```
+中文：の 不只是"的"。① 谁的（わたしの かばん，我的包）；② 什么样的（日本語の 本，日语书）；③ 位置（つくえの うえ，桌子上）；④ 代替名词（わたしのです，是我的）。在 Particle Power 练习册里练习全部 N5 助词。
+
+**链接：** https://chenqiu290.gumroad.com/l/particle-power
+
+**Alt Text：**
+```
+Japanese grammar card showing four ways to use the particle の, with examples and English translations.
+```
+
+### 图钉 8：`pin-8.png`（から 和 まで）→ 链接免费样稿
+
+图上内容（中文）：から＝从，まで＝到。① 时间（9時から 5時まで）；② 地点（うちから 駅まで）；③ 从某人那里（母から）。
+
+**标题：**
+```
+From… To… in Japanese: から and まで
+```
+中文：日语"从……到……"：から 和 まで
+
+**描述：**
+```
+から means "from" and まで means "until" or "as far as". Use them for time (9時から 5時まで, from 9 to 5), places (うちから 駅まで, from home to the station), and people (母から, from my mother). Free printable Japanese particles worksheets for JLPT N5 beginners.
+```
+中文：から 是"从"，まで 是"到"。用于时间（9時から 5時まで，从 9 点到 5 点）、地点（うちから 駅まで，从家到车站）、人（母から，从妈妈那里）。给 JLPT N5 初学者的免费可打印助词练习纸。
+
+**链接：** https://chenqiu290.gumroad.com/l/particle-power-free
+
+**Alt Text：**
+```
+Japanese grammar card explaining the particles から and まで for time, places and people.
+```
+
+### 图钉 9：`pin-9.png`（12 个助词速查表）→ 链接完整版
+
+图上内容（中文）：N5 的 12 个助词一览，每个有一词解释和一个小例子。
+
+**标题：**
+```
+Japanese Particles Cheat Sheet: All 12 JLPT N5 Particles
+```
+中文：日语助词速查表：JLPT N5 全部 12 个助词
+
+**描述：**
+```
+Save this Japanese particles cheat sheet! は (topic), が (subject), を (object), に (time / to), で (where it happens / by), へ (toward), と (and / with), も (too), の ('s), か (question), から (from), まで (until). Full lessons and practice in the Particle Power workbook, JLPT N5.
+```
+中文：收藏这张日语助词速查表！は（主题）、が（主语）、を（宾语）、に（时间／去向）、で（动作场所／手段）、へ（方向）、と（和／跟）、も（也）、の（的）、か（疑问）、から（从）、まで（到）。完整的讲解和练习在 Particle Power 练习册里，JLPT N5。
+
+**链接：** https://chenqiu290.gumroad.com/l/particle-power
+
+**Alt Text：**
+```
+Cheat sheet of the 12 JLPT N5 Japanese particles, each with its meaning and a short example.
+```

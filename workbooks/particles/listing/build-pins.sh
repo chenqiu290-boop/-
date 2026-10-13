@@ -11,7 +11,7 @@ for p in 1 5 6; do
   pdftoppm -f $p -l $p -r 110 -png -singlefile ../particle-workbook-sample.pdf pages/s$p
 done
 CHROME="${CHROME:-$(command -v chromium || command -v google-chrome || echo /opt/pw-browsers/chromium-1194/chrome-linux/chrome)}"
-for n in 1 2 3 4; do
+for n in 1 2 3 4 5 6 7 8 9; do
   "$CHROME" --headless --no-sandbox --disable-gpu --hide-scrollbars --force-device-scale-factor=1 \
     --virtual-time-budget=5000 --window-size=1000,1700 --screenshot="$PWD/pins/pin-$n.png" "file://$PWD/pins.html#$n" 2>/dev/null
   # Headless Chrome's viewport is shorter than the window, so shoot taller and crop to the exact size.

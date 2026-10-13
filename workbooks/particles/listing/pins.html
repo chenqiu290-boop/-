@@ -41,6 +41,17 @@ ruby rt { font-size: 0.45em; color: var(--muted); font-weight: 400; }
 .use { margin-top: 30px; }
 .use .n { font-size: 28px; font-weight: 700; color: var(--accent); margin-bottom: 8px; }
 .use .ex { background: #fff; border: 2px solid var(--line); padding: 18px 28px; }
+
+/* batch 2 */
+#pin5 .jp, #pin6 .jp, #pin8 .jp { font-size: 34px; }
+#pin5 .pair div { padding: 30px 24px; }
+.arrow { color: var(--muted); font-size: 26px; margin: 2px 0; }
+.sheet { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-top: 44px; }
+.sheet div { background: #fff; border: 2px solid var(--line); padding: 18px 20px 20px; height: 232px; }
+.sheet .big { font-family: "Noto Serif JP", serif; font-weight: 700; color: var(--accent); font-size: 66px; line-height: 1.1; display: block; }
+.sheet .big.sm { font-size: 50px; line-height: 1.45; }
+.sheet .m { display: block; font-size: 25px; font-weight: 700; margin-top: 4px; }
+.sheet .e { display: block; font-size: 24px; color: var(--muted); margin-top: 6px; white-space: nowrap; }
 </style>
 <script>
 addEventListener('DOMContentLoaded', () => {
@@ -106,6 +117,111 @@ addEventListener('DOMContentLoaded', () => {
   <div class="pg" style="left:300px; top:600px; width:400px; transform:rotate(1deg)"><img src="pages/s5.png"></div>
   <div class="pg" style="left:80px; top:580px; width:400px; transform:rotate(-4deg)"><img src="pages/s1.png"></div>
   <div class="foot"><b>JLPT N5 · beginner</b><span>Particle Power</span></div>
+</section>
+
+<!-- ===== Batch 2 ===== -->
+
+<!-- 5 · Mini lesson: と or や -->
+<section class="pin" id="pin5">
+  <div class="kicker">Japanese particles</div>
+  <h1 style="font-size:100px; line-height:1.0; margin-top:16px"><span class="p">と</span> or <span class="p">や</span>?</h1>
+  <div class="rule">Both mean <b>"and"</b>. と lists <b>everything</b>. や gives <b>a few examples</b> — there's more.</div>
+  <div class="pair">
+    <div class="h"><span class="p">と</span> · that's all</div><div class="h"><span class="p">や</span> · and other things</div>
+    <div><span class="jp">りんご<span class="p">と</span> パン</span><span class="en">apples and bread (only)</span></div>
+    <div><span class="jp">りんご<span class="p">や</span> パン</span><span class="en">apples, bread, etc.</span></div>
+    <div><span class="jp">ペン<span class="p">と</span> ノート</span><span class="en">a pen and a notebook</span></div>
+    <div><span class="jp">ペン<span class="p">や</span> ノート</span><span class="en">pens, notebooks, etc.</span></div>
+  </div>
+  <div class="use" style="margin-top:44px">
+    <div class="n">Bonus: と also means "with"</div>
+    <div class="ex"><span class="jp">ともだち<span class="p">と</span> えいがを <ruby>見<rt>み</rt></ruby>ました。</span><span class="en">I watched a movie with a friend.</span></div>
+  </div>
+  <div class="foot"><b>Particle Power</b><span>N5 particles workbook</span></div>
+</section>
+
+<!-- 6 · Mini lesson: も -->
+<section class="pin" id="pin6">
+  <div class="kicker">Japanese particles</div>
+  <h1 style="font-size:90px; line-height:1.05; margin-top:16px">How to say "too"<br>in Japanese: <span class="p">も</span></h1>
+  <div class="use" style="margin-top:46px">
+    <div class="n">① も replaces は, が and を</div>
+    <div class="ex"><span class="jp">わたし<span class="p">も</span> <ruby>学生<rt>がくせい</rt></ruby>です。</span><span class="en">I'm a student too.　(not わたしはも)</span></div>
+    <div class="ex" style="border-top:0"><span class="jp">コーヒー<span class="p">も</span> <ruby>飲<rt>の</rt></ruby>みます。</span><span class="en">I drink coffee too.　(not コーヒーをも)</span></div>
+  </div>
+  <div class="use">
+    <div class="n">② After に and で, keep them: にも, でも</div>
+    <div class="ex"><span class="jp">にちようび<span class="p">にも</span> はたらきます。</span><span class="en">I work on Sundays too.</span></div>
+  </div>
+  <div class="use">
+    <div class="n">③ なにも / だれも + negative = nothing / no one</div>
+    <div class="ex"><span class="jp">なに<span class="p">も</span> たべませんでした。</span><span class="en">I didn't eat anything.</span></div>
+  </div>
+  <div class="foot"><b>Particle Power</b><span>N5 particles workbook</span></div>
+</section>
+
+<!-- 7 · Mini lesson: 4 ways to use の -->
+<section class="pin" id="pin7">
+  <div class="kicker">Japanese particles</div>
+  <h1 style="font-size:100px; line-height:1.02; margin-top:16px">4 ways to use <span class="p">の</span></h1>
+  <div class="use" style="margin-top:50px">
+    <div class="n">① Whose: "my", "Ken's"</div>
+    <div class="ex"><span class="jp">わたし<span class="p">の</span> かばん</span><span class="en">my bag</span></div>
+  </div>
+  <div class="use">
+    <div class="n">② What kind</div>
+    <div class="ex"><span class="jp"><ruby>日本語<rt>にほんご</rt></ruby><span class="p">の</span> <ruby>本<rt>ほん</rt></ruby></span><span class="en">a Japanese(-language) book</span></div>
+  </div>
+  <div class="use">
+    <div class="n">③ Where: on, under, next to…</div>
+    <div class="ex"><span class="jp">つくえ<span class="p">の</span> うえ</span><span class="en">on (top of) the desk</span></div>
+  </div>
+  <div class="use">
+    <div class="n">④ Instead of the noun: "mine"</div>
+    <div class="ex"><span class="jp">この かさは わたし<span class="p">の</span>です。</span><span class="en">This umbrella is mine.</span></div>
+  </div>
+  <div class="foot"><b>Particle Power</b><span>N5 particles workbook</span></div>
+</section>
+
+<!-- 8 · Mini lesson: から and まで -->
+<section class="pin" id="pin8">
+  <div class="kicker">Japanese particles</div>
+  <h1 style="font-size:96px; line-height:1.02; margin-top:16px">"From… to…": <span class="p">から</span> &amp; <span class="p">まで</span></h1>
+  <div class="rule"><span class="p">から</span> = from　·　<span class="p">まで</span> = until / as far as</div>
+  <div class="use" style="margin-top:0">
+    <div class="n">① Time</div>
+    <div class="ex"><span class="jp"><ruby>9時<rt>くじ</rt></ruby><span class="p">から</span> <ruby>5時<rt>ごじ</rt></ruby><span class="p">まで</span> はたらきます。</span><span class="en">I work from 9 to 5.</span></div>
+  </div>
+  <div class="use">
+    <div class="n">② Place</div>
+    <div class="ex"><span class="jp">うち<span class="p">から</span> <ruby>駅<rt>えき</rt></ruby><span class="p">まで</span> あるきます。</span><span class="en">I walk from home to the station.</span></div>
+  </div>
+  <div class="use">
+    <div class="n">③ From a person</div>
+    <div class="ex"><span class="jp"><ruby>母<rt>はは</rt></ruby><span class="p">から</span> てがみを もらいました。</span><span class="en">I got a letter from my mother.</span></div>
+  </div>
+  <div class="foot"><b>Particle Power</b><span>N5 particles workbook</span></div>
+</section>
+
+<!-- 9 · Cheat sheet: all 12 N5 particles -->
+<section class="pin" id="pin9">
+  <div class="kicker">Save this · JLPT N5</div>
+  <h1 style="font-size:84px; line-height:1.02; margin-top:16px">12 Japanese particles at a glance</h1>
+  <div class="sheet">
+    <div><span class="big">は</span><span class="m">topic</span><span class="e">わたしは…</span></div>
+    <div><span class="big">が</span><span class="m">subject</span><span class="e">ねこが います</span></div>
+    <div><span class="big">を</span><span class="m">object</span><span class="e">パンを たべる</span></div>
+    <div><span class="big">に</span><span class="m">time · to · in</span><span class="e">7時に おきる</span></div>
+    <div><span class="big">で</span><span class="m">where it happens · by</span><span class="e">バスで 行く</span></div>
+    <div><span class="big">へ</span><span class="m">toward</span><span class="e">日本へ 行く</span></div>
+    <div><span class="big">と</span><span class="m">and · with</span><span class="e">ともだちと</span></div>
+    <div><span class="big">も</span><span class="m">too · also</span><span class="e">わたしも</span></div>
+    <div><span class="big">の</span><span class="m">'s · of</span><span class="e">わたしの 本</span></div>
+    <div><span class="big">か</span><span class="m">question</span><span class="e">行きますか</span></div>
+    <div><span class="big sm">から</span><span class="m">from</span><span class="e">9時から</span></div>
+    <div><span class="big sm">まで</span><span class="m">until · to</span><span class="e">5時まで</span></div>
+  </div>
+  <div class="foot"><b>Particle Power</b><span>N5 particles workbook</span></div>
 </section>
 
 </body>
