@@ -94,7 +94,7 @@ Shen You tossed a chestnut shell on the ground.
 
 Zhou One didn't answer. His lips moved, adding it up one number at a time.
 
-"The second, twenty-four. The third, twenty-five. The fourth, twenty-six. The fifth, twenty-seven. The sixth, twenty-eight," he said. "A hundred and thirty."
+"The second of the month, twenty-four. The third, twenty-five. The fourth, twenty-six. The fifth, twenty-seven. The sixth, twenty-eight," he said. "A hundred and thirty."
 
 "Enough to drive horses?"
 
@@ -164,7 +164,7 @@ The first day of the ninth month. The middle of the Hour of the Rabbit.
 
 The sky was just turning gray-blue when the camels in the east compound rose to their feet, one after another.
 
-The eighty-seven Hu horses behind the palisade stayed put. The day before, the moment the horses came through the gate, Zhou One had settled it: the new purchases were green and had never done a long road with these people, so they would stay behind the palisade and be fed up until the horses from the north came back, and then they'd all change hands together. The mounts for the road were seventy picked from the horses the household already had. The twenty-four wounded horses in the stable stayed too, and Feng Three would go on changing their dressings as before. Only the gray mare's lead was gripped in Cao One's hand.
+The eighty-seven Hu horses behind the palisade stayed put. The day before, the moment the horses came through the gate, Zhou One had settled it: the new purchases were green and had never done a long road with these people, so they would stay behind the palisade and be fed up until the horses from the north came back, and then they'd all change hands together. The mounts for the road were seventy picked from the horses the household already had. The twenty-four wounded horses in the stable stayed too, and Feng Three would go on changing their dressings as before. Only the gray mare went along, her lead gripped in Cao One's hand.
 
 Fan Two brought the saddle. The front of the saddletree had been built up a layer, the left stirrup taken up half a finger, and the seat stuffed with sheepskin Su Three had tanned, fleece side in. She held it up beside the chestnut and waited for Shen You to mount.
 
