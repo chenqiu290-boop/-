@@ -10,7 +10,7 @@ Zhou One didn't need to think. "'*Pending verification, Shen You shall not leave
 
 "Cross the Wei and you've left the capital. Jingyang's north of the Wei, so I don't go." Shen You leaned back, and the rocking chair gave a creak. "I'll stay home and wait to take delivery of the horses."
 
-Nobody in the courtyard laughed. When the Master said "wait to take delivery of the horses," he said it the same way he'd say "wait for dinner." But first someone had to come back from Jingyang.
+Nobody in the courtyard laughed. When the Master said "wait to take delivery of the horses," he said it the same way he'd say "wait for dinner." But first his people had to make it back from Jingyang.
 
 Zhou One stepped half a pace forward and named the people who would go, one by one. With each name, Shen You said, "Mm."
 
@@ -96,13 +96,13 @@ Granary Officer Dugu raised his head and gave Chu One a look. The people who ans
 
 Granary Officer Dugu said nothing, and made a tick in his ledger.
 
-North out of the city, on the right-hand side of the road ran the west wall of the Forbidden Park—rammed earth, twice the height of a ward wall, with a soldier standing on top every so often, his spearhead flashing in the sun. Inside the wall, a long, low earthen ridge showed above it, slumped in one stretch and broken off in the next, overgrown with wild jujube bushes.
+North out of the city, on the right-hand side of the road ran the west wall of the Forbidden Park—rammed earth, twice the height of a ward wall, with a soldier standing on top every so often, his spearhead flashing in the sun. Behind the wall, a long, low earthen ridge came into view, slumped in one stretch and broken off in the next, overgrown with wild jujube bushes.
 
 Feng Five rode alongside the convoy and looked at it for a good long while.
 
 "The Han Chang'an," Chu One said. "The Han dynasty's Chang'an was right here."
 
-Feng Five said, "Mm," and watched the earthen ridge fall away behind them, still inside the wall. City walls eight hundred years old, and now all they were good for was keeping sheep in.
+Feng Five said, "Mm," and watched the earthen ridge fall away behind them, still inside the wall. City walls eight hundred years old, and now all they were good for now was turning back a flock of sheep.
 
 The road to the north was full of people, all heading south. People pushing wheelbarrows, people carrying loads on shoulder poles, people driving sheep, people with children in their arms. One woman had an iron pot lashed to her back and a chicken on a string in her hand. When they saw the Shen carts going north, they all stopped to stare. Someone behind muttered, "Going off to get themselves killed," and got an elbow from the person beside him.
 
@@ -190,7 +190,7 @@ All that morning, hardly anyone at the depot said much of anything. Cao One wand
 
 At the Hour of the Horse, dust rose on the high road that ran north and south.
 
-A rider came galloping down from the north, his horse lathered white all over, a red flag stuck in his back. His voice was already hoarse from shouting, and still he shouted:
+A rider came galloping down from the north, his horse lathered white all over, a red flag rising from his back. His voice was already hoarse from shouting, and still he shouted:
 
 "Victory at Jingyang—! Yuchi Jingde has broken the Turks at Jingyang—! Over a thousand heads taken—! One of their great generals captured—!"
 
@@ -226,7 +226,7 @@ Granary Officer Dugu nodded and didn't ask anything more. He picked fifteen of t
 
 At the Hour of the Goat, the victory dispatch reached the Palace City. The news came out through the Vermilion Bird Gate and traveled south down Vermilion Bird Avenue one ward at a time, the patrolmen shouting it to passersby, the passersby shouting it to the people at the ward gates. When it reached the west gate of Kaiming Ward, the whole ward boiled over.
 
-Sister Liu ran home from the well with an empty bucket, then ran back to the well with the same empty bucket, not a drop of water in it. Old Man Wang, who sold sesame flatbread, pulled every last flatbread off his oven and wouldn't take a single coin; he pushed one on anybody who walked by. Warden Zhao stood on the well platform, and this time he wasn't telling about Cui Shouli. He was telling about Yuchi Jingde, as he'd heard it: Yuchi Jingde had lifted three Turks off their horses with one thrust of his lance and skewered them all on the one shaft.
+Sister Liu ran home from the well with an empty bucket, then ran back to the well with the same empty bucket, not a drop of water in it. Old Man Wang, who sold sesame flatbread, pulled every last flatbread off his oven and wouldn't take a single coin; he pushed one on anybody who walked by. Warden Zhao stood on the well platform, and this time he wasn't telling about Cui Shouli. He was telling about Yuchi Jingde, as he'd heard it: Yuchi Jingde had lifted three Turks clear with one thrust of his lance and skewered them all on the one shaft.
 
 In the middle of it, someone asked, "So are the Turks still coming?"
 
@@ -302,7 +302,7 @@ He sat up.
 
 ***
 
-When the man came in, he didn't let anyone lead him. The gatekeeper walked ahead and he walked behind, three paces back—not too far, not too close. In the front courtyard, the first thing he did was glance at the roofs of the east and west wing rooms. Passing through the moon gate, he glanced again, at where Zhou Four was standing. Only when he'd reached the back courtyard did he finally look at Shen You.
+When the man came in, no one had to show him the way. The gatekeeper walked ahead and he followed three paces back—not too far, not too close. In the front courtyard, the first thing he did was glance at the roofs of the east and west wing rooms. Passing through the moon gate, he glanced again, at where Zhou Four was standing. Only when he'd reached the back courtyard did he finally look at Shen You.
 
 Zhou Four had said this man had been in battle. A man who'd been in battle, walking into a courtyard, looked first at where someone could hide and where someone could shoot from.
 
