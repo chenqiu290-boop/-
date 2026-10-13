@@ -144,7 +144,7 @@ A'na's hand pressed flat on her strings. Qi Five's little knife stopped too.
 
 "And what can thirty-three thousand strings do?"
 
-"One person's food for a day is twenty coins," Zheng Three said. "If from today not one more coin came into this house, and we lived on nothing but those thirty-three thousand strings, they'd feed us to the two hundred and fourteenth day. On that day, there'd be twenty-three thousand and five people in this house."
+"One person's food for a day is twenty coins," Zheng Three said. "If from today not one more coin came into this house, and we lived on nothing but those thirty-three thousand strings, they'd feed us until the two hundred and fourteenth day. On that day, there'd be twenty-three thousand and five people in this house."
 
 Zhou One stood by a veranda pillar. The hand that had been tugging his beard went still.
 
@@ -338,7 +338,7 @@ At the Hour of the Snake, the order came from the camp: carts across the bridge.
 
 The deck was wooden planks that creaked under the wheels. Below, the Wei ran yellow and murky, shoving eastward. On both sides, Tang soldiers' spears stood one after another all the way to the north end of the bridge. The Shen house's lead cart was first onto the bridge. As Zheng One passed the middle, he glanced down. The white horse had been carried away. On the planks was a great dark-red patch, seeping down through the cracks between the boards, dripping into the water, and gone the instant it touched.
 
-The river flat on the north bank was nothing but Turks—hide robes and felt caps, the reek of mutton fat mixed with horse sweat. Someone reached out to touch a binding rope and got a riding whip across the back of the hand from his headman. Nothing that was unloaded went into the great camp. It was hauled off to the northeast, where a line of camels knelt on the ground, being loaded up one after another.
+The river flat on the north bank was nothing but Turks—hide robes and felt caps, the reek of mutton mixed with horse sweat. Someone reached out to touch a binding rope and got a riding whip across the back of the hand from his headman. Nothing that was unloaded went into the great camp. It was hauled off to the northeast, where a line of camels knelt on the ground, being loaded up one after another.
 
 Zheng One sat on the shaft with his eyelids drooping, no different from any dozing carter.
 
@@ -376,7 +376,7 @@ Zheng One jumped down off the shaft and made a folded-hands salute. The night be
 
 "At home. The Master says he promised the general—no more slopes."
 
-The man on the horse stopped short. He rapped his riding whip once against his boot. "So he remembered." He looked again at the line of camels on the river flat, and the corners of his mouth turned down. "Once you're unloaded, get yourselves back to the south bank, and be quick about it."
+The man on the horse stopped short. He rapped his riding whip once against his boot. "So he remembered." He looked again at the line of camels on the river flat, and the corners of his mouth turned down. "Once you're unloaded, get your backsides back to the south bank, and be quick about it."
 
 The hoofbeats faded. Chen Five, standing beside the third cart, had kept his left hand under the cart bed the whole time. Only now did he take it out.
 
@@ -422,7 +422,7 @@ In the medicine room, Zhou Six was grinding henbane seeds, a cloth tied over her
 
 "How much to put one down?" Shen You stuck his head in at the door.
 
-"To put down one Turkic man," Zhou Six said without looking up, "takes two times more than to put down the Master."
+"To put down one Turkic man," Zhou Six said without looking up, "takes twice what it takes to put down the Master."
 
 Shen You rubbed his nose and withdrew.
 
@@ -532,7 +532,7 @@ Then there was no sound at all.
 
 Shen You looked at them. Looked at them for a long time. He opened his mouth, and in the end said only one thing.
 
-"A hundred carts of goods, and the lead cart was ours."
+"A hundred carts of goods, and the lead cart was ours, hauling it over."
 
 Below the steps, no one made a sound.
 
