@@ -1,6 +1,6 @@
-# Glossary (Chapters 1–19)
+# Glossary (Chapters 1–20)
 
-*For readers who want the background. Nothing here is needed to follow the story. Light spoilers through Chapter 19.*
+*For readers who want the background. Nothing here is needed to follow the story. Light spoilers through Chapter 20.*
 
 ## The system
 
@@ -15,6 +15,7 @@
 - **Into the ninth month**: in the book the eighth month has thirty days, so Day 23 is the first day of the ninth month, and from then on Day N falls on day N − 22 of the ninth month. Chapters 17 to 19 all take place on Day 23, with 276 people. Two of them are away on the road to Yizhou.
 - **Within ten paces**: each night's new deathsworn appear within ten paces of the Host, wherever he happens to be. This is one reason Shen You goes north himself in Chapter 17.
 - **Naming**: deathsworn take a surname from the *Hundred Family Surnames* plus a number, seven to a surname. To Tang ears these sound like ordinary birth-order names. To a modern Chinese ear, Zhou One through Zhou Seven are Monday through Sunday.
+- **Lu Three**: one of the deathsworn who arrive on Day 24, the second day of the ninth month (Chapter 20), when the running total reaches 300. A small, skinny man with arms that hang past his knees; his skill is cliff climbing. The Lu of Lu Three is a different Chinese surname from the Lu of Twelfth Daughter's family and of Commandant Lu. The two are spelled the same way in English.
 - **Sanniang**: "Third Daughter." A common way to address a woman who is third in her family.
 - **Square Dancing**: Feng Seven's skill, rolled in Chapter 7. It translates the Chinese *guangchang wu*, "public-square dancing": the group exercise-dancing that crowds of mostly middle-aged and retired women do in plazas and parks across modern China, every morning and evening, moving as one to a leader's count and a loudspeaker. It has nothing to do with the American square dance. The "square" is a public square. The joke in Chapter 7 is a modern one. Shen You's second thought is not: a woman who can make a crowd move to one beat has a skill with another name. Drilling troops.
 
@@ -42,6 +43,7 @@
 - **Tael** (*liang*): the unit of weight for gold and silver.
 - **Shi, dou, sheng**: measures of grain by volume. Ten *sheng* make a *dou*, and ten *dou* make a *shi*. A person eats about two *sheng* a day. The book never converts them into Western units.
 - **Jin**: a unit of weight, used for things like sugar. **Chi** and **zhang** are units of length; ten *chi* make a *zhang*. **Li** is a distance, about a third of a mile.
+- **Cun**: a unit of length, a tenth of a *chi*, a little over an inch. In Chapter 20 a crossbow bolt goes through a horse's neck and its point comes out half a *cun* on the other side.
 - **Mu**: a unit of farmland. The old man at Willow Gully gets seventeen *shi* of millet off twenty *mu*.
 
 Prices mentioned in the story, for scale:
@@ -137,6 +139,8 @@ Prices mentioned in the story, for scale:
 - **Beating the grass for grain** (*da caogu*): Ashina's rendering of a Turkic saying. Raiders brought no grain south; the horses ate the grass by the road and the men ate the grain. Coming south they raid to eat; going home they raid to take. The phrase is best known in Chinese from later centuries, describing Khitan horsemen.
 - **Ashide**: a leading Turkic clan. A great general of that name is captured at Jingyang.
 - **Zhishi Sili**: one of Jieli's trusted men, sent into Chang'an to see how strong the Tang really is.
+- **Irkin**: a Turkic title, held by a tribal chief or a senior officer under the khan.
+- **Duoxi Wulue**: an irkin of Jieli's own clan, past fifty, with thirty years of fighting on horseback behind him. In Chapter 20 he guards the treaty treasure in the khan's main camp: eighty-two carts of silk and six of gold and silver vessels, drawn up in a ring. Every day before dark he counts them, pressing his palm to each cart's shaft. He doesn't trust the treaty, but he trusts the silk.
 
 ## People and peoples
 
@@ -146,6 +150,7 @@ Prices mentioned in the story, for scale:
 ## Forms of address
 
 - **Master / the Master**: how deathsworn and maids address Shen You. Said in the third person, it is respect rather than distance.
+- **Langjun**: the Chinese word behind "the Master." The English keeps "Master" throughout; *langjun* is heard in its own sound only once, in Chapter 20, when a new deathsworn named Lang One greets the Master and the tent laughs. *Lang* is also the first half of *langjun*, so, as Shen You says, if they shout "Lang," he'll turn around too.
 - **young master**: lowercase, a stranger's polite term for a well-dressed young man.
 - **Young Master Shen**: used once the speaker knows his surname.
 - **Little Master**: a polite address to a young monk. **Old Master** is how the ward speaks of an old monk.

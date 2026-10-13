@@ -1,6 +1,6 @@
-# Setting Notes for New Readers (Chapters 1–19)
+# Setting Notes for New Readers (Chapters 1–20)
 
-*A one-page orientation to the world, the premise and the cast. The story explains itself as it goes; this is for readers who like to know where they're standing. Light spoilers through Chapter 19 only.*
+*A one-page orientation to the world, the premise and the cast. The story explains itself as it goes; this is for readers who like to know where they're standing. Light spoilers through Chapter 20 only.*
 
 ---
 
@@ -18,6 +18,7 @@ Shen You doesn't want the throne. He wants to live well, and to have fun doing i
 - **How people are counted:** Every subject is entered in a household register kept by the county. Travel needs a pass. A man without papers is nobody, and nobody asks twice what became of him. This is why Zhou One, the forger, is the first deathsworn Shen You calls up.
 - **Where things stand by Chapter 16:** The new emperor invests his empress on the twenty-first. That same night word comes that the two Turkic khans, Jieli and Tuli, have crossed the border with more than a hundred thousand horsemen, and the capital goes under martial law. Millet that cost thirty coins a dou before martial law tops a hundred. Yuchi Jingde wins a victory at Jingyang, but by the twenty-eighth the khan's host is on the Wei River just north of the city, and the court has to decide what it will pay to send him home.
 - **Where things stand by Chapter 19:** The treaty is sealed at the Bian Bridge on the thirtieth with a white horse, and paid for in silk, gold and silver. On the first of the ninth month martial law lifts and the city gates open. That morning Shen You leaves Chang'an in a curtained hat, riding a camel, listed on a forged travel pass as a Sogdian merchant's nephew. A hundred and twenty of his people travel with him, hidden in three merchants' camel trains. They cross the Wei and turn north after horses, behind the Turks on their way home. North of the river they find what the treaty didn't cover: a village burned and nineteen people led off on a rope the afternoon the treaty was made. By that night they are camped in a dry gully, and the tail of the Turkic host is close enough to have riders watching the road.
+- **Where things stand by Chapter 20:** On the second of the ninth month the household moves by night to a hidden valley with a single entrance, twenty-five *li* south of the khan's main camp. Five of Tuli's riders come in to collect a toll and don't leave. From the prisoners Shen You learns that the khan will divide the treaty silk at dawn on the fifth. With henbane for one burn and a lead mare that can call only once, the household has one night to act: the night of the fourth.
 
 ## How the system works
 
@@ -31,15 +32,15 @@ Shen You doesn't want the throne. He wants to live well, and to have fun doing i
 | Summoned that night | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 |
 | Running total | 78 | 91 | 105 | 120 | 136 | 153 | 171 | 190 | 210 | 231 | 253 |
 
-| Day | 23 |
-|---|---|
-| Summoned that night | 23 |
-| Running total | 276 |
+| Day | 23 | 24 |
+|---|---|---|
+| Summoned that night | 23 | 24 |
+| Running total | 276 | 300 |
 
 - **Days and dates:** Day N falls on day N + 8 of the eighth month. Day 1 is the ninth, Day 13 (the empress's investiture) the twenty-first, Day 18 the twenty-sixth. The new day begins at the Hour of the Rat, so the summons that comes late on the night of the twenty-eighth counts toward Day 21. Chapter 16 ends on Day 22, the thirtieth, with 253 people.
 - **Into the ninth month:** the eighth month has thirty days, so Day 23 is the first of the ninth month. Chapters 17 to 19 all happen on that one day, with **276** people, two of whom are away on the road to Yizhou.
 - **Within ten paces:** each night's new people appear within ten paces of Shen You, wherever he is. If he is on the road, so are they.
-- Each deathsworn has one skill at grandmaster level, and the roll is random. The first twenty-eight: forgery, gambling, Sichuan cooking, hand-to-hand combat, carpentry, medicine, vocal mimicry, interpreting, masonry, accounting, tailoring, agriculture, mounted archery, perfumery, smithing, brewing, veterinary medicine, storytelling, tracking, crossbow mechanics, square dancing, sugar refining, pastry, pottery, singing, blade arts, climbing and beekeeping. Since then: battle formations, mathematics, pickling, cartwrighting, ice cellaring, hawk training, ferrying, polo, reading the stars, raising camels and more. On Day 23: cooking for an army in the field, saddlery, ear cleaning, oil pressing, pot mending, well digging and others.
+- Each deathsworn has one skill at grandmaster level, and the roll is random. The first twenty-eight: forgery, gambling, Sichuan cooking, hand-to-hand combat, carpentry, medicine, vocal mimicry, interpreting, masonry, accounting, tailoring, agriculture, mounted archery, perfumery, smithing, brewing, veterinary medicine, storytelling, tracking, crossbow mechanics, square dancing, sugar refining, pastry, pottery, singing, blade arts, climbing and beekeeping. Since then: battle formations, mathematics, pickling, cartwrighting, ice cellaring, hawk training, ferrying, polo, reading the stars, raising camels and more. On Day 23: cooking for an army in the field, saddlery, ear cleaning, oil pressing, pot mending, well digging and others. On Day 24: horseshoeing, curing hides, rope making, barbering, cliff climbing and others.
 - They are absolutely loyal, but they are not yes-men. They argue, joke and push back, and the cooks and carpenters are as proud of their work as the fighters.
 - **Names:** a surname plus a number, seven to a surname: Zhou One to Zhou Seven, then Zheng, Feng, Chen and so on. To the Tang, these sound like ordinary birth-order names. To a modern Chinese ear, Zhou One through Seven are Monday through Sunday.
 - **Scattered by design:** Shen You sends his people out to run shops, workshops and errands all over the city. A watcher can count his household's rice and carts, but never his heads.
@@ -73,6 +74,7 @@ Shen You doesn't want the throne. He wants to live well, and to have fun doing i
 | **Ge Four** | Cooks for an army in the field, over a fire that gives off no visible smoke. Arrived on Day 23. |
 | **Fan Two** | Saddler. Spotted that Shen You's left leg is half a finger longer than his right. Arrived on Day 23. |
 | **Peng Three** | Cleans ears, and says there is something in Shen You's left ear. Arrived on Day 23. |
+| **Lu Three** | Climbs cliffs. Keeps watch from the cliff above the hidden valley. Arrived on Day 24. |
 | **Qingluo** | Not a deathsworn. Bought at the Human and Horse Market. She ground ink, received letters and sealed them in the Prince of Qi's study for over a year, so she can read the old court's secrets. She stays by choice. |
 | **A'na, A'xing** | Also bought at the market. A'na plays the pipa; A'xing offered herself. |
 | **Ashina** | Not a deathsworn. A Turk from a surrendered household, once the Pei family's slave. Freed by a letter of manumission, he hires on with Shen You at one string a month. His Chinese is halting; his knowledge of the steppe is not. |
@@ -114,5 +116,5 @@ It is hidden in the beams of the house Shen You buys in Chapter 5. It bears the 
 ## Where to look next
 
 - *Glossary.md* has the fuller reference: ranks, places, calendars and objects.
-- *Setting Notes, Chapters 9-16.md* and *Setting Notes, Chapters 17-19.md* go chapter by chapter through the background, with dates and figures.
+- *Setting Notes, Chapters 9-16.md*, *Setting Notes, Chapters 17-19.md* and *Setting Notes, Chapters 20-26.md* (Chapter 20 so far) go chapter by chapter through the background, with dates and figures.
 - Nothing in any of these files is needed to follow the story. If a word in a chapter goes by too fast, it will most likely be explained a page later.
