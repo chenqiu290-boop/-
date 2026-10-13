@@ -4,13 +4,13 @@ At the Hour of the Rat, nineteen more.
 
 A hundred and ninety.
 
-This time Shen You didn't fall asleep. He was soaking in the hot pool. Once he'd said the word, he rested his chin on the bluestone rim and listened to Zhou One, on the other side of the screen, questioning them one by one.
+This time Shen You didn't fall asleep. He was soaking in the hot pool. Once he'd said "Summon," he rested his chin on the bluestone rim and listened to Zhou One, on the other side of the screen, questioning them one by one.
 
 Jiang Four, Jiang Five, Jiang Six, Jiang Seven. Seven Qis. Seven Xies. The last one in line came out to Zou One.
 
-One could burn charcoal. One could do feet. One could train hawks. When Zhou One got to the hawk trainer, he coughed once on the other side of the screen. Shen You guessed he was thinking of Dou the Eleventh's falcon.
+One could burn charcoal. One could trim toenails and pare calluses. One could train hawks. When Zhou One got to the hawk trainer, he coughed once on the other side of the screen. Shen You guessed he was thinking of Dou the Eleventh's falcon.
 
-"The one who does feet," Shen You said, eyes closed. "Have him do mine tomorrow."
+"The one who does feet," Shen You said, eyes closed. "Have him see to mine tomorrow."
 
 Beyond the screen there was a moment's silence.
 
@@ -54,7 +54,7 @@ The mess leader thought about it, then pulled back his spear.
 
 The mess leader asked nothing more and waved them through.
 
-The Middle Wei Bridge was over three hundred paces long. Leading their horses, the two of them kept tight to the railing and pushed against the flow of people for the better part of half a double-hour before they reached the north end.
+The Middle Wei Bridge was over three hundred paces long. Leading their horses, the two of them kept tight to the railing and pushed against the flow of people for a good quarter of a double-hour before they reached the north end.
 
 The depot on the north bank was empty. Where several thousand shi of grain had been piled the day before yesterday, there was nothing left but trampled straw rope and a few torn hemp sacks.
 
@@ -176,7 +176,7 @@ Shen You was leaning back in the rocking chair. When he heard *the Tang will com
 
 "How much did they get?"
 
-"Each family, two. That is what I hear," Ashina said. "The khan's share, how much, nobody knows."
+"Each family gets two bolts. That is what I hear," Ashina said. "The khan's share, how much, nobody knows."
 
 It was quiet under the veranda for a while.
 
@@ -192,7 +192,7 @@ Zhou One looked at him. "The Master wants to go see who it is?"
 
 Zhou One's fingers went to twist his goatee and stopped partway.
 
-"Commandant Lu ruled that you may not leave the capital."
+"Commandant Lu ruled that the Master may not leave the capital."
 
 "The rule I set myself was that crossing the Wei counts as leaving the capital. That's stricter than the code." Shen You smiled. "The south bank of the Bian Bridge. I stand on the south bank, and I don't take a single step north. Zhou One, you know the code. You tell me—does that count as leaving the capital?"
 
@@ -312,7 +312,7 @@ Shen You sat in the folding chair and swung his feet.
 
 "Zhou Five," he said, "if we took this carriage to market..."
 
-"It's not for sale," Zhou Five said. "One takes half a month."
+"It's not for sale," Zhou Five said. "Making one takes half a month."
 
 Shen You laughed out loud.
 
@@ -324,7 +324,7 @@ Zou Two through Zou Seven. Seven Yus. Seven Bais.
 
 Two hundred and ten.
 
-Shen You was already asleep. He mumbled the word in a daze and rolled over. Zhou One received the new arrivals outside the sleeping hall. When he got to Yu Four, whose skill was "Ice Cellaring," his brush paused, and he drew an extra circle on the roster.
+Shen You was already asleep. He mumbled "Summon" in a daze and rolled over. Zhou One received the new arrivals outside the sleeping hall. When he got to Yu Four, whose skill was "Ice Cellaring," his brush paused, and he drew an extra circle on the roster.
 
 The pits in the east compound had twenty more diggers.
 
@@ -418,7 +418,7 @@ In the middle stood a great standard, taller than all the other banners. At the 
 
 "Wolf head," Ashina said. "Golden wolf head. The khan's standard."
 
-He stood half a step behind the folding chair with nothing on his face. Only the bone thumb ring from his right thumb turned slowly in the palm of his left hand.
+He stood half a step behind the folding chair with nothing on his face. Only the bone thumb ring on his right thumb turned slowly in the palm of his left hand.
 
 Once around. Then once around again.
 
@@ -696,9 +696,9 @@ Ashina took a sheet of paper, folded several times, from the front of his robe, 
 
 The man on the black horse grunted, and the whip went back to tapping his boot.
 
-"Liang Laosan," he said. "That arm still hasn't come off?"
+"Liang Laosan," he said. "That arm still in one piece?"
 
-"Hasn't," Zheng Six said. "It's in a sling."
+"In one piece," Zheng Six said. "In a sling."
 
 The man on the black horse fell silent. He looked at Shen You for a while, then asked:
 
@@ -706,7 +706,7 @@ The man on the black horse fell silent. He looked at Shen You for a while, then 
 
 He didn't ask it fast, but everyone on the slope could hear it: this was the question that could get a man killed.
 
-"When I took the slope, I came to watch the Turks make camp," Shen You said. "There were dozens of people squatting on this slope from the Hour of the Horse on. Your men just chased them down. The emperor came later."
+"When I took the slope, I came to watch the Turks make camp," Shen You said. "There were dozens of people squatting on this slope from the Hour of the Horse on. Your men just chased them off. The emperor came later."
 
 He paused.
 
@@ -728,7 +728,7 @@ Among the dozen-odd riders on the slope, someone sucked in a sharp breath.
 
 The man on the black horse glared at him, his purplish-red face going redder still—and then he threw back his head and roared with laughter. The laugh was as loud as his voice. Down the slope, a horse snorted in alarm.
 
-"That mouth of yours..." He pointed his whip at Shen You. "At Wagang, at Luoyang, in the Prince of Qin's household, I've seen plenty of men with smart mouths. Never seen one so smart-mouthed and so sure he's in the right."
+"That mouth of yours..." He pointed his whip at Shen You. "At Wagang, at Luoyang, in the Prince of Qin's household, I've seen plenty of hard-mouthed men. Never one so brazenly sure he was in the right."
 
 Wagang.
 
@@ -836,7 +836,7 @@ The dozen-odd riders followed the black horse down the slope.
 
 ***
 
-They were down the slope and half a li away before a guardsman pulled up alongside him.
+Cheng Yaojin and his men were down the slope and half a li away before a guardsman pulled up alongside him.
 
 "General, we're just letting them go?"
 
