@@ -48,7 +48,7 @@ This time, even Warden Zhao had nothing to say.
 
 Sister Liu picked her bucket up, then set it down again. She glanced toward the house in the northeast corner. The lanterns at its gate hadn't been taken down yet. The gate stood open, and two people with bamboo brooms were sweeping in front of it—slowly, carefully, as if they were sweeping their own front room.
 
-"He came out of a temple," she said. "Monks have Dharma guardians around them. What would you lot know?"
+"He started out as a monk," she said. "Monks have Dharma guardians around them. What would you lot know?"
 
 A few of the women laughed. Sister Liu laughed too, and when she was done laughing, she sighed.
 
@@ -182,7 +182,7 @@ Zheng Five didn't even have to think.
 
 He paused.
 
-"But the grain dealers thought of this route too. I heard it out on the field ridges yesterday. Day before yesterday, the grain dealers' people went down south of the city. The Daxingshan Temple's estate fields and a few officials' estates—several hundred shi apiece—they put down deposits on all of it, bought it outright. Then yesterday they had the ward wardens pass a word along to the small households: these next few days, if the Shen house of Kaiming Ward comes buying millet, whoever sells to them, the grain dealers won't take that family's grain ever again."
+"But the grain dealers thought of this route too. I heard it out on the field ridges yesterday. Day before yesterday, the grain dealers' people went down south of the city. The Daxingshan Temple's estate fields and a few officials' estates—several hundred shi apiece—they put down deposits on the whole crop and contracted for all of it. Then yesterday they had the ward wardens pass a word along to the small households: these next few days, if the Shen house of Kaiming Ward comes buying millet, whoever sells to them, the grain dealers won't take that family's grain ever again."
 
 "And what's left?"
 
@@ -190,7 +190,7 @@ He paused.
 
 "Their own dou measures?"
 
-"The bottom's built up a layer, and the mouth is half a finger wider than the official dou," Zheng Five said. "What goes in as one dou is one dou and two sheng."
+"The bottom's built up a layer, and the mouth is half a finger wider than the official dou," Zheng Five said. "One dou by their measure takes in a dou and two sheng of ours."
 
 Shen You laughed.
 
@@ -428,7 +428,7 @@ Not long, not short. Longer would have been a slight; shorter would have been fa
 
 The page came back and said a word in the gatekeeper's ear, and the gatekeeper showed him in.
 
-The gray bricks of the front courtyard had just been sluiced with water. The cracks between them were still wet, and the air held the scent of soap pods, with a faint sting of lime underneath. Two maids stood under the veranda wiping glass lamps one by one with soft cloths. Steward Wu cast an eye over them and counted. Twenty-four. Glass lamps from the Kang family in the West Market went for five strings apiece.
+The gray bricks of the front courtyard had just been sluiced with water. The cracks between them were still wet, and the air held the scent of soap pods, with a faint sting of lime underneath. Two maids stood under the veranda wiping glass lamps one by one with soft cloths. Steward Wu cast an eye over the lamps and counted. Twenty-four. Glass lamps from the Kang family in the West Market went for five strings apiece.
 
 A commoner's front courtyard, hung with a hundred and twenty strings' worth of lamps.
 
