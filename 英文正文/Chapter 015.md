@@ -756,7 +756,7 @@ Shen You rubbed his nose.
 
 "There are plenty of Wagang men in Chang'an," Shen You said. "Plenty of loose lips, too."
 
-Cheng Yaojin looked at him for a long time.
+Cheng Zhijie, as the court rolls had him, looked at him for a long time.
 
 "Out of Wagang, still alive, in Chang'an, and with the nerve to call me that to my face," he said. "I can count them on my ten fingers."
 
@@ -766,19 +766,19 @@ Cheng Yaojin looked at him for a long time.
 
 "Then you'll be asking for a good while," Shen You said.
 
-Cheng Yaojin's eyes narrowed to slits. He let that one go. His gaze shifted half an inch to the side and landed on Zhou Four.
+Cheng Zhijie's eyes narrowed to slits. He let that one go. His gaze shifted half an inch to the side and landed on Zhou Four.
 
 "You." He pointed with the whip. "Name?"
 
 "Zhou Four."
 
-"When I came up the slope, I sent three men around the back," Cheng Yaojin said. "You didn't turn your head once."
+"When I came up the slope, I sent three men around the back," Cheng Zhijie said. "You didn't turn your head once."
 
 "Saw them," Zhou Four said.
 
 Behind the slope, the three riders who'd circled around only now poked their heads out from the wild jujube thicket. They looked up at the slope, then at their general, not sure whether to come over or stay put.
 
-Cheng Yaojin looked at Chu One, at the high spot where Zheng Six stood, at the path Wei One was blocking. When he'd finished looking, he shifted the lance back to his right hand.
+Cheng Zhijie looked at Chu One, at the high spot where Zheng Six stood, at the path Wei One was blocking. When he'd finished looking, he shifted the lance back to his right hand.
 
 "Kaiming Ward. Shen." Something had come back to him. "A few days ago, Yuwen Yan of the Left Encampment Guard sent an urgent dispatch into the Eastern Palace. Said there was a monk in Kaiming Ward who'd gone back to lay life, and every one of his house guards could serve as a squad leader. That's you?"
 
@@ -786,7 +786,7 @@ Without thinking, Shen You touched his *futou*. Underneath it was a crew cut, to
 
 "Back to lay life now," he said.
 
-"Black Yuwen's led troops for ten years, and he doesn't hand out praise," Cheng Yaojin said. "I figured he'd had too much to drink."
+"Black Yuwen's led troops for ten years, and he doesn't hand out praise," Cheng Zhijie said. "I figured he'd had too much to drink."
 
 He looked at Zhou Four again.
 
@@ -794,7 +794,7 @@ He looked at Zhou Four again.
 
 ***
 
-Cheng Yaojin turned his horse's head as though to leave, then stopped.
+Cheng Zhijie turned his horse's head as though to leave, then stopped.
 
 "Be inside the city before dark," he said. "If I see you by the river again tomorrow, I'll take you in as a spy."
 
@@ -804,13 +804,13 @@ Cheng Yaojin turned his horse's head as though to leave, then stopped.
 
 "Nothing's on at the river tomorrow."
 
-Cheng Yaojin gave him a look.
+Cheng Zhijie gave him a look.
 
 "How do you know nothing's on?"
 
 "Today's performance is over," Shen You said. "Tomorrow's all backstage."
 
-Cheng Yaojin didn't understand "backstage," but he understood the first half. He looked at this young man—twenty-eight or twenty-nine, not a single callus on his hands, shelling chestnuts across the river from more than a hundred thousand Turks—and spun the whip once in his hand.
+Cheng Zhijie didn't understand "backstage," but he understood the first half. He looked at this young man—twenty-eight or twenty-nine, not a single callus on his hands, shelling chestnuts across the river from more than a hundred thousand Turks—and spun the whip once in his hand.
 
 His gaze fell on the food box beside the folding chair.
 
@@ -818,7 +818,7 @@ His gaze fell on the food box beside the folding chair.
 
 Shen You opened the top tier of the food box, took out a Snow Sugar cake, and handed it up.
 
-Cheng Yaojin took a bite, chewed twice, and his chewing slowed.
+Cheng Zhijie took a bite, chewed twice, and his chewing slowed.
 
 "This sugar..."
 
@@ -828,7 +828,7 @@ Cheng Yaojin took a bite, chewed twice, and his chewing slowed.
 
 "Same house," Shen You said.
 
-Cheng Yaojin chewed the cake and stared at Shen You for a while. Then he reached into the food box and took two more. One went into his mouth; the other he tossed over his shoulder, and a rider behind him fumbled and caught it.
+Cheng Zhijie chewed the cake and stared at Shen You for a while. Then he reached into the food box and took two more. One went into his mouth; the other he tossed over his shoulder, and a rider behind him fumbled and caught it.
 
 "Move out!"
 
@@ -836,7 +836,7 @@ The dozen-odd riders followed the black horse down the slope.
 
 ***
 
-Cheng Yaojin and his men were down the slope and half a li away before a guardsman pulled up alongside him.
+Cheng Zhijie and his men were down the slope and half a li away before a guardsman pulled up alongside him.
 
 "General, we're just letting them go?"
 
@@ -844,13 +844,13 @@ Cheng Yaojin and his men were down the slope and half a li away before a guardsm
 
 "That Turk..."
 
-"The letter of manumission has a signature mark on it and a thumbprint, and the date checks out," Cheng Yaojin said. "Liang Laosan's arm is in a sling on the right side, and the one with the bow could tell me so."
+"The letter of manumission has a signature mark on it and a thumbprint, and the date checks out," Cheng Zhijie said. "Liang Laosan's arm is in a sling on the right side, and the one with the bow could tell me so."
 
 The guardsman said nothing more.
 
-Cheng Yaojin jerked his chin at two of his guardsmen. "You two. Follow them at a distance and watch them go in through Kaiyuan Gate. Whatever's in the carriage, don't lift the curtain. Just see whose gate they go in."
+Cheng Zhijie jerked his chin at two of his guardsmen. "You two. Follow them at a distance and watch them go in through Kaiyuan Gate. Whatever's in the carriage, don't lift the curtain. Just see whose gate they go in."
 
-Cheng Yaojin rode on, the sweetness of Snow Sugar still in his mouth.
+Cheng Zhijie rode on, the sweetness of Snow Sugar still in his mouth.
 
 It wasn't the letter of manumission he was thinking about.
 
@@ -866,7 +866,7 @@ And then there was "Yaojin."
 
 The guardsman acknowledged it.
 
-"And," Cheng Yaojin said, "when we get back, find out which of the Wagang men now in Chang'an has loose lips."
+"And," Cheng Zhijie said, "when we get back, find out which of the Wagang men now in Chang'an has loose lips."
 
 ***
 
