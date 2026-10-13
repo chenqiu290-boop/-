@@ -44,7 +44,7 @@ She looked up.
 
 The panel of gauze at the front of her veiled hat had been lifted and pinned up on the brim, leaving half her face showing. Eighteen or nineteen. Thick, straight brows that had never seen a brush; a pointed chin; long, narrow eyes, the lids half lowered, so that when she looked at someone it was as if she were checking a ledger. No powder on her face, and a few faint freckles where the sun had caught the bridge of her nose. She wore a brown jacket with narrow sleeves, a blue-green skirt tucked into her boots, and a leather tally pouch at her waist, its surface worn to a shine.
 
-She gave him one look from below. Looking down through a curtained hat's gauze was like looking through mist. Looking up through it from below, you could see the chin.
+She gave him one look from below. Seen from above, a curtained hat's gauze was a layer of mist. Seen from below, you could make out the wearer's chin.
 
 "That camel of yours," she said, "looks more like a Hu merchant than you do."
 
@@ -182,7 +182,7 @@ He didn't say go back and see what.
 
 The middle of the Hour of the Horse. They reached the south end of the Bian Bridge.
 
-A mess of militiamen stood at the bridgehead, spears leaning against the railing. A mess leader checked each travel pass, then waved them through. The camel train lined up at the south end and inched onto the bridge one camel at a time.
+Ten militiamen, a single mess, stood at the bridgehead, spears leaning against the railing. A mess leader checked each travel pass, then waved them through. The camel train lined up at the south end and inched onto the bridge one camel at a time.
 
 When the mess leader got to Shen You's camel, he looked up at the curtained hat, then down at the words on the pass: *beardless, pale of face*.
 
@@ -208,7 +208,7 @@ The Wei ran yellow and murky, shouldering its way east. It was over a hundred pa
 
 "Crossing the Wei counts as leaving the capital."
 
-"Good memory." Shen You took a Kaiyuan Tongbao coin from his sleeve, flipped it over twice on his fingers, and flicked it with his thumb. The coin spun, flashing once in the sunlight, and dropped into the Wei without so much as a splash.
+"Good memory." Shen You took a Kaiyuan Tongbao coin from his sleeve, flipped it over twice on his fingers, and flicked it off a curled finger. The coin spun, flashing once in the sunlight, and dropped into the Wei without so much as a splash.
 
 "The fine," he said. "I made the rule. I pay."
 
@@ -220,7 +220,7 @@ There was a large black patch on the planks, shaped like a splash of thrown wate
 
 Shen You didn't lower his head, but the gauze curtain of his hat stayed turned toward the boards.
 
-He remembered what Zheng One had said when he came back: how the horse had reached the middle of the bridge and planted all four hooves on the planks, and the man leading it had hauled twice and couldn't budge it. He remembered Cao One, face pressed against the ox's neck, saying, "It knows." The horse knew. What the horse didn't know was whether the treaty its fall had bought—one sheet of paper—would reach even as far as the north end of the bridge.
+He remembered what Zheng One had said when he came back: how the horse had reached the middle of the bridge and planted all four hooves on the planks, and the man leading it had hauled twice and couldn't budge it. He remembered Cao One, face pressed against the ox's neck, saying, "It knows." The horse knew. What the horse didn't know was whether the treaty its fall had bought—one sheet of paper—would hold even as far as the north end of the bridge.
 
 On the river flat along the north bank, there was nothing left.
 
@@ -282,7 +282,7 @@ First he hung his reins over a fork of the pagoda tree and sent the Hu boy atten
 
 He untied a bundle from behind his own saddle and handed it up.
 
-"Trousers Sogdians wear for riding. There's a layer of soft sheepskin sewn into the seat, and down the insides of the legs as well." He cast a glance at Shen You's legs, his green eyes brimming with laughter. "I saw how Young Master Shen got down off that camel. I was right behind."
+"Trousers Sogdians wear for riding. There's a layer of soft sheepskin sewn into the crotch and seat, and down the insides of the legs as well." He cast a glance at Shen You's legs, his green eyes brimming with laughter. "I saw how Young Master Shen got down off that camel. I was right behind."
 
 Shen You took the bundle, weighed it in his hand, and gave him a solemn salute with his hands cupped.
 
