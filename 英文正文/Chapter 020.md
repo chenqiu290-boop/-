@@ -104,7 +104,7 @@ There were no lamps on the tableland, no fires. The second of the ninth month: n
 
 The new people had no horses. They held on to camels' lead ropes and walked. Lang One dozed off on his feet and butted his head straight into a camel's rump. The camel turned to look at him, and he hurried to smile an apology.
 
-Shen You rode wedged between two camels. The two places on his legs, salved with Zhou Six's ointment, had rubbed open again. He gritted his teeth and counted hoofbeats in his head. At three thousand he lost count and started over.
+Shen You rode his horse wedged between two camels. The two places on his legs, salved with Zhou Six's ointment, had rubbed open again. He gritted his teeth and counted hoofbeats in his head. At three thousand he lost count and started over.
 
 When the sky began to pale, Feng Five came back from ahead and led the column down off the tableland, turning east into a dry gully.
 
@@ -118,7 +118,7 @@ In the middle of the Hour of the Rabbit, they entered the valley.
 
 The mouth of the valley was squeezed between two cliffs, no more than three zhang wide, with a layer of loose dust on the ground. Forty-odd paces in, it bent north: the first bend. A hundred-odd paces farther, it bent again, and only then did it open out into a stretch of level ground of thirty or forty mu. A mountain stream ran down off the slope. Oaks and aspens grew on either side, their leaves half gone yellow, and the smoke trees were as red as if someone had splashed them with blood. At the far end was the slope, forest all the way up. A man could climb it. A horse couldn't.
 
-A sack.
+A pocket.
 
 Chu One had chosen it for the same reason he'd picked the west gully at Willow Gully: where there was no way through, travelers didn't go in.
 
@@ -302,7 +302,7 @@ Shen You's cake stopped at his lips.
 
 Feng Six was partway up the slope, fifteen paces off. He brought up the little bronze-toothed crossbow.
 
-The string went *thrum*. The bolt drove into the horse's neck on one side, and the point came out half an inch on the other. The horse ran three more steps, its forelegs folded, and horse and rider slid down the slope together.
+The string went *thrum*. The bolt drove into the horse's neck on one side, and the point came out half a cun on the other. The horse ran three more steps, its forelegs folded, and horse and rider slid down the slope together.
 
 The leader came off the saddle, hit the ground rolling, and when he came up his bow was already drawn, the arrow aimed up the slope.
 
@@ -322,7 +322,7 @@ The leader's fingers went slack. The bow dropped to the ground.
 
 "Done," Zhou Four said.
 
-Only then did Shen You take that bite of cake.
+Only then did Shen You swallow that bite of cake.
 
 From Feng Seven's "Up!" to Zhou Four's "Done," the water in Ge Four's pot hadn't come to a boil.
 
@@ -436,7 +436,7 @@ Chu One drew a big patch at one corner outside the large circle, then a ring of 
 
 Zhou Six opened that cloth bundle of hers and laid it out on the ground packet by packet: all henbane seed, ground fine, every packet wrapped in oiled paper.
 
-"Seven jin," she said. "Light it upwind, and it'll drop the sentries in one ring. Burn it once, and it's gone."
+"Seven jin," she said. "Light it with the wind behind it, and it'll drop the sentries in one ring. Burn it once, and it's gone."
 
 "And getting more?"
 
