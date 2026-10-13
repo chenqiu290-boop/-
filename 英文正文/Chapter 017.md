@@ -12,7 +12,7 @@ Shen You was curled up in the rocking chair with a silk-floss quilt over his leg
 
 At the north end of the open ground stood a felt tent, put up that afternoon. Zhou Five had lashed the frame—round-topped, one zhang and six chi across. The white felt had been bought in the West Market that same day, and Su Three and Zheng Four had spent the whole afternoon sewing it, four layers thick. Ten paces out from the tent on every side, Zhou Five had also planted a ring of bamboo poles and hung them with hemp cloth, closing the tent in behind a cloth screen.
 
-As soon as dusk fell, Feng Three had invited Ashina back to the stable in the back courtyard: the arrow wound on one of the wounded horses had festered, and he wanted to ask how they treated such things on the grassland. The maids of the inner quarters had long since turned in.
+As soon as dusk fell, Feng Three had invited Ashina to the stable in the back courtyard: the arrow wound on one of the wounded horses had festered, and he wanted to ask how they treated such things on the grassland. The maids of the inner quarters had long since turned in.
 
 "Master," Zhou One said from the foot of the steps. "It's nearly the third watch."
 
@@ -32,7 +32,7 @@ People came ducking out of the tent one by one. The tent was packed full, and a 
 
 Twenty-three. Men and women, tall and short, all in plain undyed cloth. Two of them were barefoot.
 
-The moment the screen came down, one of them walked straight over to a kneeling camel and squatted in front of it. The camel stretched out its neck to sniff the top of his head, and he didn't flinch—just stared back at it, the two of them eye to eye. One went to Feng One's forge and, without thinking, held out both hands to warm them. One found a sack of millet and sat down on it, legs crossed, settled there as solidly as if he'd always been sitting there, and had been all night.
+Once the screen was pulled down, one of them walked straight over to a kneeling camel and squatted in front of it. The camel stretched out its neck to sniff the top of his head, and he didn't flinch—just stared back at it, the two of them eye to eye. One went to Feng One's forge and, without thinking, held out both hands to warm them. One found a sack of millet and sat down on it, legs crossed, settled there as solidly as if he'd always been sitting there, and had been all night.
 
 Shen You came out of the tent, went back to the steps, curled up in the rocking chair again, and pulled the silk-floss quilt back over his legs. "Not drafty. Just crowded."
 
@@ -100,7 +100,7 @@ The east compound went still all at once. Zheng Four's needle stopped in midair.
 
 Shen You tossed a chestnut shell on the ground and crooked a finger at Zhou One. Zhou One came up one step and bent down.
 
-"Two things." He held up one finger, his voice pitched so low only Zhou One could hear. "A thousand horses. A hundred and twenty people can't drive them back. Every night I get twenty-some more people, and they turn up within ten paces of me. If I'm in Kaiming Ward, they turn up in Kaiming Ward. If I'm at the foot of the great ridge, they turn up right there in front of the horses."
+Shen You held up one finger. "Two things," he said, his voice pitched so low only Zhou One could hear. "A thousand horses. A hundred and twenty people can't drive them back. Every night I get twenty-some more people, and they turn up within ten paces of me. If I'm in Kaiming Ward, they turn up in Kaiming Ward. If I'm at the foot of the great ridge, they turn up right there in front of the horses."
 
 Zhou One didn't answer. His lips moved, adding it up one number at a time.
 
