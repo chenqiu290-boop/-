@@ -10,23 +10,33 @@ Feng One's clay forge was still glowing red, but the hammering had stopped. Su T
 
 Shen You was curled up in the rocking chair with a silk-floss quilt over his legs, shelling chestnuts. Zhou Four had carried the rocking chair over from the back courtyard and set it on the steps of the east compound. Every time it rocked, it creaked.
 
-"Master," Zhou One said from the foot of the steps. "It's the third watch."
+At the north end of the open ground stood a felt tent, put up that afternoon. Zhou Five had lashed the frame—round-topped, one zhang and six chi across. The white felt had been bought in the West Market that same day, and Su Three and Zheng Four had spent the whole afternoon sewing it, four layers thick. Ten paces out from the tent on every side, Zhou Five had also planted a ring of bamboo poles and hung them with hemp cloth, closing the tent in behind a cloth screen.
 
-"Mm." Shen You tossed a chestnut into his mouth. "Go ahead."
+As soon as dusk fell, Feng Three had invited Ashina back to the stable in the back courtyard: the arrow wound on one of the wounded horses had festered, and he wanted to ask how they treated such things on the grassland. The maids of the inner quarters had long since turned in.
 
-And there were more people at the foot of the steps.
+"Master," Zhou One said from the foot of the steps. "It's nearly the third watch."
 
-One was squatting beside a camel. The camel stretched out its neck to sniff the top of his head, and he didn't flinch—just stared back at it, the two of them eye to eye. One stood in front of Feng One's forge and, without thinking, held out both hands to warm them. One sat on a sack of millet, legs crossed, settled there as solidly as if he'd always been sitting there, and had been all night.
+"Mm." Shen You tossed a chestnut into his mouth, threw off the quilt, and stood. "That tent—we'll be sleeping in it nights on the road. I'll take a nap in it tonight and see if it's drafty."
+
+Zhou Four followed with eight of the house guards, and they formed a ring outside the cloth screen, backs in, faces out. It was a household rule: once the Master went into the tent, nobody turned to look. Zhou One followed as far as the opening in the screen and stopped there, hands tucked into his sleeves.
+
+Shen You ducked into the tent alone. A small lamp burned inside. Its light wavered on the felt walls once or twice, then held still.
+
+"Master," Zhou One said through the screen. "It's the third watch."
+
+"Mm," came from inside the tent.
+
+After a while, there were other sounds from the tent. Someone coughed. Someone said, "Huh?" Someone's bare feet whispered across the felt. Only then did Zhou One lift the screen aside, step through, and draw back the tent flap.
+
+People came ducking out of the tent one by one. The tent was packed full, and a few more stood on the open ground inside the screen, looking down at their own feet.
 
 Twenty-three. Men and women, tall and short, all in plain undyed cloth. Two of them were barefoot.
 
-Zhou One took up his brush and asked them one by one. The six remaining Ges, seven Xis, seven Fans, three Pengs. When he got to the Xis, someone by the palisade looked up. It was Ashina, sitting cross-legged on the ground, cleaning his bow.
+The moment the screen came down, one of them walked straight over to a kneeling camel and squatted in front of it. The camel stretched out its neck to sniff the top of his head, and he didn't flinch—just stared back at it, the two of them eye to eye. One went to Feng One's forge and, without thinking, held out both hands to warm them. One found a sack of millet and sat down on it, legs crossed, settled there as solidly as if he'd always been sitting there, and had been all night.
 
-"Xi," he said. "East on the grassland, there is a tribe also called Xi."
+Shen You came out of the tent, went back to the steps, curled up in the rocking chair again, and pulled the silk-floss quilt back over his legs. "Not drafty. Just crowded."
 
-"It's from the *Hundred Family Surnames*," Zhou One said.
-
-Ashina nodded, lowered his head, and went back to cleaning his bow.
+Zhou One took up his brush and asked them one by one. The six remaining Ges, seven Xis, seven Fans, three Pengs.
 
 Oil pressing, pot mending, basket weaving, well digging, dog raising, mat weaving... The brush flew. It reached Ge Four and stopped.
 
@@ -86,19 +96,19 @@ Shen You looked up.
 
 "What else am I for?" Zhou One gave his goatee a tug, and this time the tug went all the way down. "I'll ask only one thing. The Master is going—for what?"
 
-The east compound went still all at once. Zheng Four's needle stopped in midair. Ge One's lamp stopped swaying. Dozens of people pretended not to be looking, every ear pricked.
+The east compound went still all at once. Zheng Four's needle stopped in midair. Ge One's lamp stopped swaying. Dozens of people, every one of them the household's own, pretended not to be looking, every ear pricked.
 
-Shen You tossed a chestnut shell on the ground.
+Shen You tossed a chestnut shell on the ground and crooked a finger at Zhou One. Zhou One came up one step and bent down.
 
-"Two things." He held up one finger. "A thousand horses. A hundred and twenty people can't drive them back. Every night I get twenty-some more people, and they turn up within ten paces of me. If I'm in Kaiming Ward, they turn up in Kaiming Ward. If I'm at the foot of the great ridge, they turn up right there in front of the horses."
+"Two things." He held up one finger, his voice pitched so low only Zhou One could hear. "A thousand horses. A hundred and twenty people can't drive them back. Every night I get twenty-some more people, and they turn up within ten paces of me. If I'm in Kaiming Ward, they turn up in Kaiming Ward. If I'm at the foot of the great ridge, they turn up right there in front of the horses."
 
 Zhou One didn't answer. His lips moved, adding it up one number at a time.
 
-"The second of the month, twenty-four. The third, twenty-five. The fourth, twenty-six. The fifth, twenty-seven. The sixth, twenty-eight," he said. "A hundred and thirty."
+"The second of the month, twenty-four. The third, twenty-five. The fourth, twenty-six. The fifth, twenty-seven. The sixth, twenty-eight," he said, keeping his voice down too. "A hundred and thirty."
 
 "Enough to drive horses?"
 
-"Enough," Zhou One said. "The grain is packed for two hundred and fifty mouths, and Ge One's pack frames carry a hundred and thirty extra sets of hide robes and boots as well. And the second thing?"
+"Enough." Zhou One straightened up. "The grain is packed for two hundred and fifty mouths, and Ge One's pack frames carry a hundred and thirty extra sets of hide robes and boots as well. And the second thing?"
 
 Shen You raised a second finger, then lowered it again and broke into a grin.
 
@@ -134,7 +144,17 @@ At the foot of the steps, someone finally laughed out loud. It was Chu Four—a 
 
 Shen You roared with laughter, slapped the arm of the rocking chair, and stood up. "Bed!"
 
-He said bed. He didn't sleep.
+Shen You went off to the back. Zhou One took the roster and stood by Feng One's forge. The twenty-three newcomers came back from their soup noodles and lined up in a row. Su Three carried out an armful of hide robes; Zhou One read out a name, and she handed over a robe. The two barefoot ones each got a pair of boots as well and stamped into them on the spot.
+
+Zhou One had got as far as "Xi Three" when someone came in through the moon gate. It was Ashina, who had kept watch half the night in the stable out back; his cuffs smelled of salve. His step faltered.
+
+"Xi," he said. "East on the grassland, there is a tribe also called Xi."
+
+"It's from the *Hundred Family Surnames*," Zhou One said. "Porters and hired hands the Kang family recommended. They came into the ward at dusk and had their supper up front."
+
+Ashina nodded, went over to the palisade, sat down cross-legged, unslung the bow from his back, and began to clean it.
+
+Shen You had said bed. He didn't sleep.
 
 At the fourth watch, he threw a robe over his shoulders and came out again. Most of the lamps in the east compound had gone out, and people were dozing slumped under the sheds—some pillowed on pack frames, some on millet sacks, a pair sitting back to back. Ge Four and a few of the newcomers had been taken to the kitchen for a bowl of hot soup noodles, and now they were packed in together, sleeping the soundest of anyone.
 
