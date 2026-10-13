@@ -115,7 +115,7 @@ Prices mentioned in the story, for scale:
 - **Crown Prince's Librarian** (*taizi xima*): an official of the Eastern Palace in charge of the crown prince's books and records, lower fifth rank. The title reads literally as "horse washer," but it comes from an older word for the outriders who went ahead of the prince's horse.
 - **Palace Food Service**: the palace office that prepares the imperial table.
 - **Mess** and **squad**: units of the militia. A mess is ten men under a **mess leader**; a squad is fifty under a **squad leader**. The squad Shen You meets in Chapter 18 marched out fifty strong and is going home forty-three.
-- **Jinwu Guard** (*jinwu wei*): the guard army that polices the capital's streets. Under martial law it hunts for suspected spies, seizing seven Sogdians in the West Market (Chapter 14), and its men are the first to spread word there that martial law is over (Chapter 17). In 626 this guard was in fact still called the Left and Right Hou Guards; it took the name Jinwu only in 662. The book uses the more familiar name throughout, as Chinese stories of the Tang do.
+- **Jinwu Guard** (*jinwu wei*): the guard army that polices the capital's streets. Under martial law it hunts for suspected spies, seizing seven Sogdians in the West Market (Chapter 14), and its men are the first to spread word there that martial law is over (Chapter 17). In 626 this guard was in fact still called the Left and Right Wuhou Guards; it took the name Jinwu only in 662. The book uses the more familiar name throughout, as Chinese stories of the Tang do.
 
 ## Law and paperwork
 

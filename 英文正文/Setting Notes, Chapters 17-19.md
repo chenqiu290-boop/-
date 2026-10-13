@@ -39,7 +39,7 @@ Chapters 17 to 19 cover **a single day: Day 23, the first of the ninth month.** 
 
 **Martial law lifts.** Martial law was declared on the night of the twenty-first of the eighth month. For ten days the ward gates opened only one leaf, and everyone going in or out was questioned. Before dawn on the first, word comes down from the palace that the city gates and ward gates will run as usual. The West Market heard it first, the afternoon before, from men of the Jinwu Guard, and the Hu merchants harnessed their camels overnight. The barricades at the ward gates are dragged aside, and the families who fled into the city from north of the Wei start heading home.
 
-- **The Jinwu Guard.** The guard army that polices Chang'an's streets, the same one that seized Sogdians in the West Market as suspected spies in Chapter 14. Strictly, in 626 it was still the Left and Right Hou Guards and became the Jinwu Guard only in 662; the book uses the later, more familiar name throughout, as Chinese stories of the Tang do.
+- **The Jinwu Guard.** The guard army that polices Chang'an's streets, the same one that seized Sogdians in the West Market as suspected spies in Chapter 14. Strictly, in 626 it was still the Left and Right Wuhou Guards and became the Jinwu Guard only in 662; the book uses the later, more familiar name throughout, as Chinese stories of the Tang do.
 
 **The curtained hat.** Zheng Four sews Shen You a *curtained hat* (*weimao*): a hoop of split bamboo covered in fine rattan, with gauze cut from his own bed curtains hanging from the brim to his shoulders. The gauze is *qingrong*, a silk so thin the light comes through it. It hides his face completely, and by Zhou One's second condition it stays on all day.
 
