@@ -84,6 +84,8 @@ Prices mentioned in the story, for scale:
 - **Binzhou**: a prefecture to the northwest, on the road north. The household tells the militia it is going there to buy hides. **The great ridge** lies beyond it: the "foot of the great ridge" is as far as Zhou One will let Shen You go.
 - **Willow Gully**: a village of thirty-some households north of the Wei, burned by Turkic raiders on their way home (Chapter 19). North of it, the old man who has grazed sheep there for forty years knows three gullies: a dead end to the west, a wide one in the middle that the Turks ride above, and a narrow one to the east with a spring.
 - **Gaochang** and **Kucha**: oasis kingdoms on the Silk Road, whose merchants trade in Chang'an.
+- **Supply depot**: the field army's grain depot, three *li* north of the Middle Wei Bridge, where Granary Officer Dugu takes the Shen carts' first load (Chapter 14). It is guarded, but every one of its guards has to stay put: the depot is close enough to the river that a single band of Turkic outriders could set it alight.
+- **Tableland** (*yuan*): the high, flat-topped loess terraces north of the Wei. The Turks come down off one to fight at Jingyang, and on the night of Chapter 14 the khan's camp is on the tableland northeast of Jingyang.
 
 ## History
 
@@ -137,6 +139,7 @@ Prices mentioned in the story, for scale:
 - ***Fuli***: "wolf." The khan's own guard. On the way home they ride behind the baggage, and every so often send a few riders back to high ground to look south and see whether anyone is following (Chapter 19).
 - **The order of the withdrawal**, as Ashina explains it in Chapter 19: the camels carrying the treaty gold and silk set out first, at noon on the thirtieth. The main host breaks camp at dawn on the first and, moving half again as fast, overtakes them in a day or two. After that the main host goes in front, the baggage falls behind, and the *fuli* follow the baggage.
 - **Beating the grass for grain** (*da caogu*): Ashina's rendering of a Turkic saying. Raiders brought no grain south; the horses ate the grass by the road and the men ate the grain. Coming south they raid to eat; going home they raid to take. The phrase is best known in Chinese from later centuries, describing Khitan horsemen.
+- **Vanguard and khan's camp**: Ashina's reading in Chapter 14. The force beaten at Jingyang was the vanguard; a beaten vanguard does not turn the khan's camp back. The camp takes a day to gather in, then comes on to the Wei, and the outriders run ahead of it.
 - **Ashide**: a leading Turkic clan. A great general of that name is captured at Jingyang.
 - **Zhishi Sili**: one of Jieli's trusted men, sent into Chang'an to see how strong the Tang really is.
 - **Irkin**: a Turkic title, held by a tribal chief or a senior officer under the khan.
@@ -186,4 +189,5 @@ Prices mentioned in the story, for scale:
 - **Tally pouch**: a leather pouch worn at the waist for counting tallies and accounts. Twelfth Daughter's is worn to a shine.
 - **Thumb ring**: an archer's ring worn on the thumb to draw the string, the Turkic and Tang way. Ashina's is bone, and the narration often notes whether it is turning.
 - **Smokeless field stove**: Ge Four's army cooking pit, with a slanting trench roofed over and covered with earth, so the smoke comes out three *zhang* away, too thin to see.
+- **Salt in tea**: Tang tea was commonly boiled with a pinch of salt. Shen You takes his without, and Qingluo knows it (Chapter 14).
 - **Northern Dipper** and **Northern Pole**: the Big Dipper, and the spot in the sky it turns around. When the Dipper's handle points west, an old saying goes, it is autumn everywhere. In Chapter 19 Yun Five points out that the pole itself is empty sky: the bright star near it circles it every night.

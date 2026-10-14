@@ -1,783 +1,333 @@
 # Chapter 14: Jingyang
 
-Zhou One stroked his goatee and waited. When Shen You didn't go on, he asked one more question.
+Zhou One already had the roster open to the east compound's page, his brush inked and ready. "Is the Master going himself?"
 
-"Is the Master going himself?"
+"Can't." Shen You held out his tea bowl for Qingluo to top up. "What was it Commandant Lu ruled that day?"
 
-"Can't." Shen You set his tea bowl on the arm of the rocking chair. "How did Commandant Lu rule that day?"
+"'*Pending verification, Shen You shall not leave the capital.*' Those were his words, to the letter."
 
-Zhou One didn't need to think. "'*Pending verification, Shen You shall not leave the capital.*'"
+"Then crossing the Wei counts as leaving the capital. Jingyang's north of the Wei. I'm not going. I'll stay home and wait for the horses to be delivered."
 
-"Cross the Wei and you've left the capital. Jingyang's north of the Wei, so I don't go." Shen You leaned back, and the rocking chair gave a creak. "I'll stay home and wait to take delivery of the horses."
+Zhou One went down the roster, calling each name and drawing a line under it. "Chu One leads. Whatever they run into on the road, he will know where to put the carts. Cao One sees to the horses, with Feng Three along, since the horses they bring back will not all be sound." He turned a page. "Zheng Six wants to go and look at the Turks' bows, and I could not stop him if I tried. Feng Five goes to find the Meng family's eldest. One face among several thousand militiamen, and he is the only one who has met Elder Meng, so he can find the son by the father. These five travel with the carts and do not count against the drivers. For the driving, we draw another forty from the sugar works and the winery."
 
-Nobody in the courtyard laughed. When the Master said "wait to take delivery of the horses," he said it the same way he'd say "wait for dinner." But first his people had to make it back from Jingyang.
+Zheng Three was crouched under the veranda, stacking copper coins into a cloth sack. She didn't speak until one sack was full and she'd tied it off. "Master, the county pays three chi of silk per cart per day. Twenty carts, sixty chi a day—a bolt and a half. The carts and oxen we buy new, and even picking the cheapest, that's over a hundred strings. At that carting fee, we'd be hauling for the government for months for free before we broke even. This trip loses money."
 
-Zhou One stepped half a pace forward and named the people who would go, one by one. With each name, Shen You said, "Mm."
+"The carts are where we lose it. What I'm after isn't on the carts."
 
-Chu One would lead. He understood fighting. Escorting twenty carts eighty or ninety li, if they really did run into something on the road, he'd know where to put the carts.
+Zheng Three tied off the second sack as well, swung it up onto her shoulder, and went to round up the people.
 
-Cao One. Horses were his business.
+Zhou One waited until the courtyard had emptied before he set down his brush. "There is one more thing. Hired carts go into the county's ledger, and the owner's column will carry the Master's name. Yesterday Steward Wu asked which register our people are on. Today our household's name goes into the county's book. Hereafter, anyone who wants to dig through our register will turn to this page first."
 
-Zheng Six, for mounted archery. Once they got there, he could see with his own eyes what bows the Turks used, what arrows, how they shot.
+"All I was thinking about was horses." Shen You dropped back into the rocking chair. "You're already thinking about whoever comes digging."
 
-Feng Five, to find the man. All Elder Meng could give was what his eldest looked like and which garrison he belonged to. Finding one face among thousands of militiamen would be up to him.
-
-Feng Three, the vet. "The horses we pick up," Zhou One said, "won't all be sound."
-
-The other forty, to drive the carts, would be drawn from the sugar works, the winery, and the east compound.
-
-Zheng Three stood to one side, lining her counting rods up in a row on her palm, then breaking the row apart.
-
-"Master," she said, "the county pays three chi of silk per cart per day. Twenty carts, sixty chi a day. A bolt and a half."
-
-"Mm."
-
-"The carts and oxen we're buying new." She paused. "Even cheap, that's over a hundred strings. At that rate, we'd have to haul for the government seventy-some days just to earn it back."
-
-Shen You picked up his tea bowl and blew on it.
-
-"What earns it back," he said, "isn't the carts."
-
-Zheng Three's counting rods stopped in midair. After a moment she tucked them into her sleeve, nodded, and turned to go round up the people.
-
-Zhou One didn't leave. He waited until only the two of them were left in the courtyard, then said quietly, "There's one more thing."
-
-"Go on."
-
-"Hired carts go into the county's ledger. And the way the county writes those ledgers up, there's a column for the owner of the carts—that's where the Master's name goes," Zhou One said. "Yesterday Steward Wu asked which register our people are on. Today twenty of our carts are hauling grain for the army, with the name written into the county's ledger. Down the line, anyone who comes to dig through our household's register will turn to this page first."
-
-Shen You looked at him, and smiled.
-
-"Zhou One," he said, "you think further ahead than I do."
-
-Zhou One gave his beard a single stroke. He didn't answer that; he only bowed and left.
+Zhou One let the compliment go by. He closed the roster, bowed, and left.
 
 ***
 
-At the Hour of the Horse, the drums sounded to open the West Market.
+The West Market opened at the Hour of the Horse, and Zheng Three spent less than half a double-hour in the cattle-and-horse row. Families fleeing from north of the Wei had driven their oxen into the city, where there was no grass to feed them, and they were selling cheap. Twenty oxen, seventy strings. The carts she bought out wholesale from a cart workshop on the south side of the West Market—twenty of them, shafts, yokes and all—for forty strings.
 
-Zheng Three spent less than half a double-hour in the cattle-and-horse row.
+Outside Kaiyuan Gate, the county's scribe had set up a table to take down the hiring. When the Shen house's turn came, he wrote *Shen You, Kaiming Ward: twenty carts*, then looked up. The carts stretched from the front of his table all the way to the junction. Of everyone else who had answered the call, the most anyone had brought was one cart workshop that had scraped together eight.
 
-Oxen were cheaper than she'd expected. The Turks had come as far as Gaoling, and the families north of the Wei were fleeing into the city with their old people and children, driving their oxen in with them. There was no grass in the city. An ox ate twenty or thirty jin a day, and nobody could afford to feed one, so they had to sell. An old man from Jingyang leading a yellow ox opened at four strings. Zheng Three didn't haggle. She asked him which township his family was from in Jingyang, and whether the millet in his fields had been harvested. The old man said half of it had; they'd left the other half standing in the field and run. And somewhere in the telling, he brought the price down to three and a half strings himself.
+"All twenty from one household? Once it's in the ledger like this, if one goes missing down the road, the county's going to come after you for it."
 
-Twenty oxen, seventy strings. The carts she bought out wholesale from a cart workshop on the south side of the West Market—shafts, yokes and all—twenty of them, forty strings.
+Chu One stood beside the lead cart. "All of them."
 
-For the hiring ledger, the county's scribe had set up a table outside Kaiyuan Gate, one line per cart. When the Shen house's turn came, the scribe lifted his brush and wrote *Shen You, Kaiming Ward: twenty carts*. When he'd finished, he looked up past the table, and a drop of ink fell from the tip of his brush and spread into a blot on the paper.
+The scribe scraped his brush tip on the edge of the inkstone, bent his head, and wrote the next line.
 
-Twenty carts stood in a line along the roadside, reaching from the front of his table all the way to the junction. Other households answering the hiring call had brought three carts, or five. The most anyone had brought was one cart workshop, with eight.
+At the Hour of the Goat, grain from the Great Granary was carried onto the carts, ten shi to a cart: twenty carts, two hundred shi. The man escorting it was a granary officer from the field army headquarters, surnamed Dugu—early thirties, the skin peeling off his sunburned nose, his fingers black with ink. He counted the sacks cart by cart without a word of idle talk. When he reached the Shen carts, he looked the oxen over.
 
-"These are all yours?"
+"New oxen, new carts. Purchased today, all of them?"
 
-Chu One, who drove the lead cart, said, "All of them."
+"Today," Chu One said.
 
-The scribe asked nothing more, and bent his head to write the next line.
+Granary Officer Dugu raised his head. The people who answered hiring calls were carters with old carts and old oxen. These forty drivers wore identical short tunics of coarse cloth and stood in even lines, and not one of them had wandered off to squat by the roadside.
 
-***
-
-At the Hour of the Goat, the convoy pulled out of the transfer yard outside Kaiyuan Gate and headed north.
-
-The grain from the Great Granary had been carried onto the carts sack by sack, ten shi to a cart: twenty carts, two hundred shi. The man escorting the grain was a granary officer sent by the field army headquarters, surnamed Dugu. He was in his early thirties; the skin on his nose had peeled from the sun, and his fingers were stained all over with ink. He counted the sacks cart by cart, made a tick in his ledger when he'd finished one, and moved on to the next, without a single word of idle talk.
-
-When he came to the Shen carts, he stopped and looked at the oxen in the traces.
-
-"New oxen."
-
-Chu One said, "Bought today."
-
-"New carts."
-
-"Bought today too."
-
-Granary Officer Dugu raised his head and gave Chu One a look. The people who answered the hiring call were carters who'd been driving carts half their lives: the carts were old, the oxen were old, and the drivers were all one family. This team had new carts and new oxen, and forty drivers in identical short tunics of coarse cloth, standing in ranks as even front to back as side to side. Not one of them had gone off to squat by the side of the road.
-
-"Your employer," he asked. "What's his line of work?"
+"Your employer. What is his line of work?"
 
 "Sugar."
 
-Granary Officer Dugu said nothing, and made a tick in his ledger.
+Granary Officer Dugu made a tick in his ledger.
 
-North out of the city, on the right-hand side of the road ran the west wall of the Forbidden Park—rammed earth, twice the height of a ward wall, with a soldier standing on top every so often, his spearhead flashing in the sun. Behind the wall, a long, low earthen ridge came into view, slumped in one stretch and broken off in the next, overgrown with wild jujube bushes.
+They headed north and crossed the Middle Wei Bridge at the Hour of the Rooster, the planks booming under the wheels. Three li beyond the north bank stood the field army headquarters' supply depot: hundreds of tents, and grain sacks stacked into row after row of low walls. The two hundred shi were unloaded before dark. Granary Officer Dugu counted again—not a sack missing—then turned to look at the forty men. Not one of them was blowing like a donkey at the millstone.
 
-Feng Five rode alongside the convoy and looked at it for a good long while.
+"Your employer," he said. "He truly sells sugar?"
 
-"The Han Chang'an," Chu One said. "The Han dynasty's Chang'an was right here."
-
-Feng Five said, "Mm," and watched the earthen ridge fall away behind them, still inside the wall. City walls eight hundred years old, and now all they were good for now was turning back a flock of sheep.
-
-The road to the north was full of people, all heading south. People pushing wheelbarrows, people carrying loads on shoulder poles, people driving sheep, people with children in their arms. One woman had an iron pot lashed to her back and a chicken on a string in her hand. When they saw the Shen carts going north, they all stopped to stare. Someone behind muttered, "Going off to get themselves killed," and got an elbow from the person beside him.
-
-At the Hour of the Rooster, they reached the Wei.
-
-In the eighth month the Wei ran yellow. Swollen with the autumn floods, it spread more than a hundred paces wide, the muddy water shoving branches and clumps of grass eastward. The Middle Wei Bridge spanned it, timber beams laid across row after row of stone piers, more than three hundred paces long, wide enough for two carts abreast. When the wheels rolled onto it, the planks boomed hollowly underfoot. Beneath the bridge the water crashed against the piers, and the spray soaked the oxen's hooves.
-
-Three li past the bridge, on the north bank, stood the field army's supply depot. Hundreds of tents, dozens of bonfires, sacks of grain stacked into one low wall after another, and behind the walls, pack mules tethered in lines.
-
-Before dark, all twenty carts had been unloaded.
-
-Granary Officer Dugu counted the sacks again. Not one was missing. He wrote the last line in his ledger, closed it, and turned to look at the forty men. Two hundred shi of grain unloaded, and not one of them was wheezing like a bellows.
-
-"Your employer," he asked again, "really sells sugar?"
-
-Chu One thought about it. "The sugar sells well."
+Chu One considered this. "The sugar sells well."
 
 ***
 
 That night, Shen You soaked in the hot pool.
 
-The water was just hot enough, up to his chest. The flues ran under the floor of the pool, and the gray bricks along its edge were warm to the touch. He draped both arms over the rim, rested the back of his head on a folded towel of fine hemp, and let his eyes drift half closed.
+The flues ran under the floor of the pool, and the gray bricks of the rim were warm. On the other side of the bamboo blind, A'na was playing a tune from her homeland; it began slowly, then halfway through it suddenly quickened, like a horse breaking into a run. Qingluo was brewing tea at the little brazier. When the water boiled, she pushed the salt jar aside. The Master didn't take salt in his tea.
 
-On the other side of a bamboo blind, A'na was playing the pipa. It was a tune from her homeland. It started slow, then halfway through suddenly quickened, like a horse breaking into a run.
+Zhou One reported from outside the blind. "Master, Chen Six is back. Nothing stirring at the Duke of Xue's household today. Steward Wu did not set foot outside the gate all day. The Duke went to the palace and returned at the Hour of the Goat, and saw no one either. I would almost rather they made some move. A quiet this deep does not look like nothing."
 
-Qingluo was brewing tea in the outer room. The charcoal in the small brazier gave a crackle, the water came to a boil, and she sprinkled a pinch of salt into the pot.
+Shen You sank another inch into the water. "Nothing stirring means he's thinking."
 
-"Master."
+The pipa played on. He wiggled his toes, and something surfaced: the Wei River, the Bian Bridge, one man on horseback at the water's edge, and the far bank black with Turks. He'd read it somewhere, once. All that had stuck was two words: *six riders*. Which day, he couldn't for the life of him remember. It was like an error message with no line number. Back in his old life, nothing had annoyed him more.
 
-Zhou One was outside the bamboo blind.
-
-"Chen Six is back. Nothing stirring at the Duke of Xue's household today. Steward Wu didn't set foot outside the gate all day. The Duke went to the palace and came back at the Hour of the Goat, and didn't see anyone either."
-
-Shen You didn't open his eyes.
-
-"Nothing stirring," he said, "means he's thinking."
-
-The pipa played on.
-
-He wiggled his toes in the water, and suddenly something came back to him. The Wei River. The Bian Bridge. Li Shimin on horseback at the riverbank, with the Turks on the far side. He couldn't remember where he'd read about it. All he remembered was one phrase: *six riders*.
-
-He thought about it for a while, but couldn't work out which day it had been.
-
-"Zhou One."
-
-"Here, Master."
-
-"Feng Five and the others—where would they be by now?"
+"Where would Feng Five and the others be by now?"
 
 "By the distance, they should have crossed the Wei."
 
-Shen You said, "Mm," and sank another inch into the water.
-
-At the Hour of the Rat, eighteen more.
+At the Hour of the Rat, Shen You was alone in the sleeping hall, the bed curtains down. Eighteen.
 
 A hundred and seventy-one.
 
-This time Shen You didn't fall asleep. He heard Zhou One outside the sleeping hall, questioning them one at a time; when he'd finished, the footsteps headed off toward the east compound. The east compound already had three rows of straw sheds. Today another row had gone up.
+Outside, Zhou One questioned them one at a time, then led them off to the east compound, where another row of straw sheds had gone up.
 
 ***
 
 The twenty-sixth day of the eighth month. The eighteenth day.
 
-Dawn came early at the supply depot north of the Wei.
+At the Hour of the Dragon, smoke went up north of the depot—three or four columns, thin, rising straight into the sky. The soldiers all scrambled up onto the grain sacks. Granary Officer Dugu stayed in the doorway of his tent and asked which way. Northwest, someone answered. Toward Jingyang. He bent his head and went on writing. Two lines later, he put down his brush.
 
-Chu One was awake before first light, standing on the low wall of grain sacks and looking north. To the north lay flat country. The millet in the fields had been half harvested; the rest of the ears drooped, and no one tended them. Farther north, the land rose tier upon tier: the tablelands.
+Zheng Six was crouched on the shaft of an empty cart, squinting at the smoke, and he watched until it thinned away. "Black smoke. There's roof beams in it. That's villages burning."
 
-At the Hour of the Dragon, smoke went up in the north.
+Chu One jumped down from the grain sacks. "It's started. Feed the oxen. Keep the carts together."
 
-Not one column—three or four, very far off, thin, rising straight up into the sky. There was no wind, and the columns climbed all the way to mid-heaven before they spread out.
-
-The soldiers at the depot all clambered up onto the grain sacks and craned their necks to look. Granary Officer Dugu stood in the doorway of his tent with his ledger in his hand. He didn't climb up. He only asked, "Which way?"
-
-"Northwest. Toward Jingyang."
-
-Granary Officer Dugu lowered his head and went on writing in his ledger. After two lines he put down his brush. Then he picked it up again.
-
-Zheng Six crouched on the shaft of an empty cart, squinting at the smoke, and watched until it had dispersed.
-
-"That's villages burning," he said. "The smoke's black. There's roof beams in it."
-
-Chu One said, "The fighting's started."
-
-All that morning, hardly anyone at the depot said much of anything. Cao One wandered among the mules, touching them one after another, and whichever one he touched stopped kicking. Feng Three followed behind him, prying open the mules' mouths to look at their teeth. When he'd looked, he'd say something like, "This one was reshod just last month."
-
-At the Hour of the Horse, dust rose on the high road that ran north and south.
-
-A rider came galloping down from the north, his horse lathered white all over, a red flag rising from his back. His voice was already hoarse from shouting, and still he shouted:
+At the Hour of the Horse, dust rose on the high road. A rider came pounding down from the north, his horse lathered white, a red flag rising from his back, still shouting though his voice had gone to a rasp:
 
 "Victory at Jingyang—! Yuchi Jingde has broken the Turks at Jingyang—! Over a thousand heads taken—! One of their great generals captured—!"
 
-Everyone at the depot was on their feet at once. The rider didn't stop. He swept past the edge of the depot like a gust of wind, galloped onto the Middle Wei Bridge with the planks booming in a long drumroll under his hooves, and was gone toward Chang'an.
+The rider didn't slow. He swept onto the Middle Wei Bridge like a gust of wind and was gone toward Chang'an. The depot erupted. One old soldier flung his helmet to the ground, then picked it up again, slapped off the dirt, and jammed it back on his head.
 
-The depot erupted in shouting. One old soldier tore off his helmet and flung it to the ground, then picked it up again, brushed off the dirt, and jammed it back on his head.
+Granary Officer Dugu didn't cheer. He waited for the dust to settle, then turned and called for the pack train. The men up front had been in pursuit all morning, and their dry rations were long gone. The grain carts were too slow; mules would have to carry sesame flatbread and parched-grain meal up first. And he couldn't spare a single one of the depot's guards. The depot was only three li from the Wei. Let one band of outriders slip through, and every one of these stacks of grain was a torch waiting to be lit.
 
-Granary Officer Dugu didn't shout. He stood in the doorway of his tent and waited until the rider's dust had settled. Only then did he turn and call out across the depot:
+He walked over to the Shen family's twenty empty carts, his ledger tucked under his arm. "The depot requires twenty men to drive mules—flatbread up to Jingyang. The carting fee follows the hiring rate and will be entered in the ledger. Will your employer lend me the men?"
 
-"Pack train!"
+Before Chu One could answer, Feng Five came around from behind a cart. "We were headed to Jingyang anyway. The Meng family's eldest, from south of the city, is up there with the militia. Eight days gone, not one word. His father asked us to find him. We supply the men. You supply the mules."
 
-Soldiers who had won a battle needed to eat. They'd been in pursuit all morning up there, and their dry rations were long gone. The grain carts were too slow; a first load of sesame flatbread and parched-grain meal had to go up ahead.
-
-He wanted twenty mules and twenty men.
-
-The mules the depot had. As for men, he couldn't touch a single one of the depot's soldiers.
-
-He opened his ledger, looked at it, closed it again, and walked over to the Shen family's twenty empty carts.
-
-"Your employer," he said to Chu One. "Would he lend me some men?"
-
-Chu One turned and looked at Feng Five.
-
-Feng Five said, "We were headed to Jingyang anyway."
-
-Granary Officer Dugu looked at him.
-
-"Looking for someone," Feng Five said. "A militiaman. His family asked us to look in on him."
-
-Granary Officer Dugu nodded and didn't ask anything more. He picked fifteen of the Shen men, and with Chu One and his four, that made twenty. The remaining twenty-five drivers would take the empty carts back to Chang'an; there was another load of grain waiting at the transfer yard.
+Granary Officer Dugu picked fifteen of the Shen drivers; with Chu One, Feng Five, Cao One, Zheng Six and Feng Three, that made twenty. He would take the lead mule himself. The other twenty-five drivers would take the twenty empty carts back to Chang'an, where another load of grain was waiting at the transfer yard.
 
 ***
 
-At the Hour of the Goat, the victory dispatch reached the Palace City. The news came out through the Vermilion Bird Gate and traveled south down Vermilion Bird Avenue one ward at a time, the patrolmen shouting it to passersby, the passersby shouting it to the people at the ward gates. When it reached the west gate of Kaiming Ward, the whole ward boiled over.
+At the Hour of the Goat, the victory dispatch reached the Palace City, and the news traveled south ward by ward until it hit Kaiming Ward, and the whole ward boiled over. Sister Liu ran home from the well with an empty bucket, then ran back to the well with the same empty bucket. Old Man Wang, who sold sesame flatbread, pulled every last one off his oven and pushed one on anybody who walked by. Warden Zhao stood up on the well platform, and this time he wasn't telling about Cui Shouli.
 
-Sister Liu ran home from the well with an empty bucket, then ran back to the well with the same empty bucket, not a drop of water in it. Old Man Wang, who sold sesame flatbread, pulled every last flatbread off his oven and wouldn't take a single coin; he pushed one on anybody who walked by. Warden Zhao stood on the well platform, and this time he wasn't telling about Cui Shouli. He was telling about Yuchi Jingde, as he'd heard it: Yuchi Jingde had lifted three Turks clear with one thrust of his lance and skewered them all on the one shaft.
+"You folks never saw that lance-thrust, and your warden here didn't either, but the patrolman who brought word swore up and down: Yuchi Jingde drives his lance in, and there's three Turks on it at once, strung up like cured pork over the stove!"
 
-In the middle of it, someone asked, "So are the Turks still coming?"
+He was on his second telling when someone in the crowd asked, "So they caught one big general—are the Turks still coming or not? The khan's got a hundred thousand-some men. What if they really get to the walls?"
 
-It went quiet around the well platform.
+Old Man Wang rapped his tongs on the rim of his oven. "What if? This oven of mine's sat in the same spot twenty years. Turks show up, they'll have to buy a couple of my flatbreads first."
 
-"Captured one great general," someone said. "There's still the khan behind him."
+Sister Liu thumped her empty bucket down on the platform. "Instead of standing here guessing, go ask the Shens."
 
-"The khan's got a hundred thousand men or more."
+"Ask the Shens what for? The man's a monk gone back to lay life. He's not from the Ministry of War."
 
-"A hundred thousand men or more—what if they get to the city walls?"
+"Oh, for heaven's sake, and you call yourself the warden! That house is full of people, and they hear things quick. First thing yesterday, forty-some of 'em went out the ward gate—answering the county's hiring call, they said, hauling grain to Jingyang. My man's been driving a cart half his life, and this time he couldn't even get out the city gate—and you didn't know?"
 
-Nobody answered.
+The whole crowd drifted over to the pagoda tree outside the Shen gate, and there nobody dared knock. When the gatekeeper came out to ask, Warden Zhao got shoved to the front and, rubbing his hands together, said his piece.
 
-After a while, Sister Liu set her bucket down on the platform. "Go ask the Shens."
+"If you would all wait a moment, please."
 
-Warden Zhao was taken aback. "Ask the Shens what for?"
+The gate closed again. They waited under the pagoda tree about as long as it takes to eat a meal; Old Man Wang broke up the flatbreads tucked in the front of his robe and handed them around to some of the children. When the gate opened again, it was Zhou One who came out. He stood on the steps and made a folded-hands bow.
 
-"Lots of people in that house, and they hear things fast," Sister Liu said. "First thing yesterday, forty-some of them went out the ward gate. Said they were answering the county's hiring call, hauling grain to Jingyang. You didn't know?"
+"The Master says: they won't get in."
 
-So the crowd shifted from the well to the Shen front gate. Once they got there, nobody dared knock; they just stood under the pagoda tree by the gate. After they'd stood there a while, the gate opened.
+Warden Zhao opened his mouth, then shut it, returned the bow, and turned away, and the crowd broke up after him. Old Man Wang pressed the last flatbread he'd saved into Zhou One's hand. "For your master. It's still warm."
 
-It was the gatekeeper.
+Sister Liu was the last to go. "The county's notice says *Let all go about their livelihoods, and let none cause alarm*," she told Old Man Wang. "Two days I've been looking at it, and my heart's still going like a drum. Young Master Shen says they won't get in, and that's that. I'm going home to boil water and get supper on."
 
-The gatekeeper made a folded-hands bow, and when he'd finished, asked what he could do for the neighbors. Warden Zhao got pushed to the front. Rubbing his hands together, he said his piece.
+"He's never even seen a Turk," Old Man Wang muttered.
 
-The gatekeeper said, "Please wait a moment."
-
-The gate closed.
-
-They waited under the pagoda tree for about as long as it takes to eat a meal. Old Man Wang broke the last two flatbreads from the front of his robe in half and shared them out among a few of the children.
-
-The gate opened again. This time it was Zhou One.
-
-Zhou One stood on the steps and made a folded-hands bow to the crowd.
-
-"The Master says," he said, "they won't get in."
-
-That was all.
-
-The people under the pagoda tree looked at one another. Nobody asked why they wouldn't get in, and nobody asked how the Master knew. Warden Zhao opened his mouth, shut it again, returned Zhou One's bow, and turned and left.
-
-The crowd broke up after him.
-
-Sister Liu was the last to go. She looked back once at the two leaves of the gate, shut now, and said to Old Man Wang, "The notice the county put up says *Let all go about their livelihoods, and let none cause alarm*. I've been looking at it for two days, and my heart's still pounding. Young Master Shen says they won't get in, then they won't get in."
-
-Old Man Wang said, "He's never even seen a Turk."
-
-"He's seen Cui Shouli," Sister Liu said.
+"He's seen Cui Shouli."
 
 ***
 
-At the Hour of the Monkey, the gatekeeper came again to report that a man was at the gate.
+At the Hour of the Monkey, Shen You lay in the rocking chair under the pomegranate tree, working his way through the flatbread Zhou One had brought in. It had gone stone cold, and he was still scattering sesame seeds all down his front. The gatekeeper came in to report a curly-haired Hu at the gate with a bow on his back, who said the Master knew him.
 
-"A Hu," the gatekeeper said. "Carrying a bow. Says he wants to see the Master."
+Over by the moon gate, Zhou Four took two steps forward. "Him. From the Human and Horse Market."
 
-Shen You lay in the rocking chair under the pomegranate tree and didn't move.
+Shen You remembered: the Human and Horse Market, the man behind Pei Shisan with a black-lacquered horn bow on his back. Zhou Four had said of him, *On horseback, I'm not his match. On the ground, he's not mine.* Shen You set the flatbread on a plate and sat up. "Let him in. The bow stays in the gatehouse."
 
-"What sort of Hu?"
+The man came in three paces behind the gatekeeper. In the front courtyard he looked first at the roofs of the east and west wings; through the moon gate, at where Zhou Four was standing; and only last at Shen You. He stopped five paces from the pomegranate tree and made a folded-hands bow, like a tree folding forward at the trunk.
 
-"Tall. Curly hair. Deep-set eyes," the gatekeeper said. "He says the Master knows him."
+"Ashina."
 
-Zhou Four had been standing over by the moon gate. At that, he came forward two steps.
-
-"It's him," Zhou Four said.
-
-Shen You remembered. The Human and Horse Market. The one behind Pei Shisan, a black-lacquered horn bow on his back, who'd brushed shoulders with Zhou Four.
-
-*On horseback, I'm not his match. On the ground, he's not mine.*
-
-He sat up.
-
-"Let him in. The bow stays in the gatehouse."
-
-***
-
-When the man came in, no one had to show him the way. The gatekeeper walked ahead and he followed three paces back—not too far, not too close. In the front courtyard, the first thing he did was glance at the roofs of the east and west wing rooms. Passing through the moon gate, he glanced again, at where Zhou Four was standing. Only when he'd reached the back courtyard did he finally look at Shen You.
-
-Zhou Four had said this man had been in battle. A man who'd been in battle, walking into a courtyard, looked first at where someone could hide and where someone could shoot from.
-
-He stopped five paces from the pomegranate tree and made a folded-hands bow. He bowed very straight, like a tree folding forward from the trunk.
-
-"Ashina," he said.
-
-He spoke the Han tongue slowly, biting down hard on every word, as though he had to haul each one out of his mouth by itself.
-
-Beside them, Zhou One drew a soft breath.
-
-Ashina was the surname of the Turkic khans' own house.
+His Han speech was slow, each word hauled out on its own. Beside them, Zhou One drew in a breath. Ashina was the surname of the Turkic khans' own house.
 
 "From the Pei house?" Shen You asked.
 
-"Before." Ashina took a roll of paper from the front of his robe and held it out in both hands. "Today, no more."
+"Before. Today, no more." Ashina took a roll of paper from the front of his robe and held it out in both hands.
 
-Zhou One took it and unrolled it.
+Zhou One took it and unrolled it. It was a letter of manumission: *The household slave Ashina, of a surrendered Turkic household, having served his master for some years, is now released to commoner status, free to go wherever he pleases.* Below were the Pei family's signature mark and a thumbprint, and the date was today's: the ninth year of Wude, the twenty-sixth day of the eighth month. Zhou One held it up to the sun and looked at the back. "It is genuine."
 
-It was a letter of manumission. It stated that the household slave so-and-so, of a surrendered Turkic household, having served his master for some years, was now released to commoner status, free to go wherever he pleased. Below that was the Pei family's signature mark, and beside the mark, a thumbprint. The date was today's: the ninth year of Wude, the twenty-sixth day of the eighth month.
+Shen You glanced over it and told Zhou One to hold on to it. "Why'd the Pei family pick today, of all days, to let you go?"
 
-When Zhou One had read it through, he held it up to the sun as well before he passed it to Shen You.
+"The Turks, they come to Jingyang. In the city, they seize Turks. Day before yesterday, the Jinwu Guard goes to the West Market, takes away seven Sogdians. Says spies. Really, they sell flatbread. The Pei house keeps one Turk. One memorial from a censor—enough."
 
-"It's genuine," Zhou One said. Anything on paper, genuine or forged, he could smell it.
+"They're arresting flatbread sellers now?" Shen You eyed the half-eaten flatbread on his plate. "I haven't even made it through all the West Market stalls yet."
 
-Shen You glanced over it and handed it back to Ashina.
+Zhou One coughed.
 
-"Why did the Pei family let you go?"
+Ashina paid the flatbread no mind. "The Thirteenth sends me with two things to say. The grain dealers' business—not the Pei house's wish. And in Chang'an, only one house dares take me."
 
-Ashina thought about it, as though working out how to say it in the Han tongue.
+"Once the Pei family's manager walked through the Duke's gate, the Pei family couldn't rein him in anymore." Shen You brushed the crumbs off his hands. "That's what your Thirteenth means. And you? What brings you to my door?"
 
-"The Turks, they come to Jingyang. In the city, they seize Turks. The Jinwu Guard, day before yesterday, goes to the West Market, takes away seven Sogdians. Says spies. Really, they sell flatbread," he said. "The Pei house, it keeps a Turk. One memorial from a censor—enough."
+Ashina lifted his chin toward Zhou Four. "That day, at the Human and Horse Market, he looks at me. The Pei house guards, three years I look at every one. Not one makes my back go tight. He makes my back go tight. Then the Cui Shouli business, all the city is talking. Forty Eastern Palace veterans, at night, block this gate. I come to see."
 
-"So the Pei family got scared."
+"Now you've seen. What can you do?"
 
-"The Pei house, lately, is scared of many things."
+"Shoot. Ride. Turkic horses, Turkic banners, Turkic speech—I know them. How Turks make camp, how they fight, how they run—I know all of it."
 
-Zhou One and Shen You exchanged a look.
+This time Shen You wasn't smiling. "Your name is Ashina. The Turks are on our doorstep. When it comes down to the banks of the Wei, whose side are you on?"
 
-"The Thirteenth, he sent me with a message," Ashina said.
+Ashina pulled the felt cap off his head and held it crushed in his fist before he spoke. "The year I am fourteen, Jieli's men come into my family's tent. Of the men in that tent, not one comes out. I run to Mayi, I surrender to the Tang. Surrendered households have no land, no oxen. I sell myself into the Pei house, for thirty jin of mutton and one horse. For my mother. That winter, my mother dies anyway."
 
-"Go on."
+"Jieli is my enemy. He is not my khan."
 
-"The grain dealers' business. It was not the Pei house's wish."
+Under the veranda, A'na had been tightening a string; her hand stopped halfway and went no further. Ashina stepped forward and gathered up the skirt of his robe to kneel. Shen You raised one finger. Zhou Four crossed the gap in a single stride and caught Ashina under the elbow—not hard, but Ashina's knees would bend no further. The two of them met each other's eyes across the length of an arm.
 
-For a moment the courtyard was still.
+"We don't do that in this house. And we don't take slaves. You've got a letter of manumission, so you're a free man. If you come, you come as a hired man: one string a month, one day off in five, room and board here."
 
-A few days earlier, the head of the West Market's rice row had cut off the Shen family's grain on behalf of the Duke of Xue's household. That man was the manager of the Pei family's grain shop. Chen Six had followed him all the way to the corner gate of the Duke of Xue's household.
+Ashina turned his head to look at Zhou Four. Zhou Four was still holding his elbow, his face showing nothing at all.
 
-"What he means," Shen You said slowly, "is that once the Pei family's manager walked through the Duke's gate, the Pei family couldn't rein him in anymore."
-
-Ashina didn't say yes, and didn't say no.
-
-"What else?"
-
-"The Thirteenth says, in Chang'an, only one house dares take me."
-
-Shen You looked at him and said nothing.
-
-Ashina looked back at Shen You. He stood very straight, both hands hanging at his sides. On his right thumb he wore a bone thumb ring, worn to a shine.
-
-"And you?" Shen You asked. "Why did you come?"
-
-Ashina lowered his head and thought for a while.
-
-"That day, at the Human and Horse Market." He lifted his chin and pointed it toward Zhou Four. "Him. He looked at me, once."
-
-Zhou Four didn't move.
-
-"Three years I am with the Pei house. Their house guards, I look at every one. Not one, when he looks at me, makes my back go tight," Ashina said. "He looks at me. My back goes tight."
-
-He paused.
-
-"Then, the Cui Shouli business, all Chang'an is talking. Forty Eastern Palace veterans. I think: this house. Interesting."
-
-Shen You laughed.
-
-"What can you do?"
-
-"Shoot. Ride," Ashina said. "I know Turkic horses, Turkic banners, Turkic speech. How Turks fight, how they make camp, how they run—I know all of it."
-
-"You're an Ashina," Shen You said. "The Turks are on our doorstep. When it comes to the banks of the Wei, whose side are you on?"
-
-It was the question Zhou One had wanted to ask, and hadn't managed to get out. Shen You had asked it for him.
-
-Ashina didn't answer right away. The bone thumb ring on his right thumb turned half a circle, and stopped.
-
-"The year I am fourteen," he said, "Jieli's men come into my family's tent. Of the men in that tent, not one comes out."
-
-He said it flatly, as if he were talking about somebody else's family.
-
-"I run to Mayi, I surrender to the Tang. Surrendered households are poor. No land, no oxen. I sell myself into the Pei house, for thirty jin of mutton and one horse. For my mother. That winter, my mother dies anyway."
-
-"Jieli is not my khan."
-
-No one in the courtyard spoke. A'na had been sitting under the veranda tuning her strings. Her hand rested on the strings and never came down.
-
-When Ashina had finished, he took a step forward and lifted the skirt of his robe to kneel.
-
-Shen You raised one finger.
-
-Zhou Four crossed the distance in a single stride and caught Ashina under the elbow. He didn't hold him hard, but Ashina's knees could bend no further.
-
-The two of them looked at each other across the length of an arm. Just as they had that day at the Human and Horse Market.
-
-"We don't do that in this house," Shen You said. "And we don't take slaves. You've got a letter of manumission in your hand. You're a free man. If you want to come, it's as a hired man. One string a month, one day off in five, room and board here."
-
-Ashina stood there without moving.
-
-"One string?"
-
-"Too little?"
-
-Ashina opened his mouth. Three years the Pei family had kept him—fed him, clothed him—and never given him a single copper coin.
-
-He turned his head to look at Zhou Four. Zhou Four was still holding his elbow, his face showing nothing at all.
-
-"Not little," Ashina said.
+"Three years in the Pei house, I never touch one coin. Not little."
 
 Zhou Four let go.
 
 ***
 
-Zhou One didn't leave.
+Zheng Three took Ashina off to the gatehouse for his bow. Zhou One spread paper on a low table under the veranda and began copying out the letter of manumission, and his brush never paused while he talked. "The letter is genuine, and very likely the man is as well. What I cannot see through is Pei Shisan. Freed today, through our gate today, and the city in the middle of a hunt for spies. If tomorrow someone hands the Jinwu Guard a complaint that the Shen house is harboring a Turk, that one matter will be all we have time for these next few days."
 
-He waited until Zheng Three had taken Ashina off to fetch his bow from the gatehouse and then to the warden's house to register his name. Then he came over beside the rocking chair.
+"If I take him, I owe the Pei family a favor, and he's washed his hands of that grain dealer business, too. If I don't, he's lost nothing." Shen You broke what was left of the flatbread in two. "Nicely played, Pei Shisan."
 
-"Master."
+Zhou One dipped his brush again and waited.
 
-"Let's hear it."
+"If he can think of it, so can the Duke of Xue's household. So we don't hide him. When that copy's done, have Zheng Three take it and leave it with the warden, and let the patrol post know as well. Which room he sleeps in, what day he came through the gate—the whole ward will know. You can't harbor a man you're not hiding. Anyone who wants to file a complaint, I'll invite him in for a look."
 
-"The letter of manumission is genuine, and most likely the man is too," Zhou One said. "But this move of Pei Shisan's—I can't see through it."
+*Full logging, open access, anyone who wants to audit is welcome to read*—that was how it ran in his head.
 
-"Where can't you see through it?"
+Zhou One blew the copy dry, folded the original, and handed both to Zheng Three, who was waiting by the gate. "I shall have Chen Six keep an eye on him for a couple of days, all the same."
 
-"There are Turkic soldiers at Jingyang, and the city is hunting for spies. A Turk, freed only today, and walking through the Shen family's gate the very same day." Zhou One lowered his voice. "If tomorrow someone hands a complaint to the Jinwu Guard saying the Shen house of Kaiming Ward is harboring a Turkic spy, then for the next few days this house will be busy with that and nothing else."
+"Go ahead. He knows you will."
 
-Shen You nodded.
-
-"Pei Shisan is a clever man," he said. "Letting this man go, he comes out ahead either way. If I take him in, I owe the Pei family a favor, and he's washed his hands of that business with the grain dealers too. If I don't take him in, he hasn't lost anything."
-
-"And the complaint..."
-
-"If he can think of it, so can the Duke of Xue's household," Shen You said. "So we don't hide him."
-
-Zhou One looked at him.
-
-"Zheng Three takes him to the warden's to register his name, leaves a copy of the letter of manumission with the warden, and has a word with the patrol post as well," Shen You said. "Where he lives, what he does, what day he came through the gate—the whole ward will know. Harboring means hiding him first. I'm not hiding him. Whoever wants to file a complaint, I'll invite him in to have a look."
-
-Zhou One thought about it for a while, then bowed.
-
-"I'll have Chen Six keep an eye on him for the next couple of days, all the same."
-
-"Go ahead," Shen You said. "He knows you'll have someone watching him, too."
-
-The hand stroking Zhou One's beard stopped for a moment, and he smiled.
+The corner of Zhou One's mouth moved upward, and he went.
 
 ***
 
-When it was nearly dusk, Ashina came back from the warden's house, the bow slung across his back again.
+Toward the end of the Hour of the Monkey, the twenty-five men driving the empty carts came back into the city and reported that the pack train had gone on up to Jingyang.
 
-He didn't go indoors. He stood in the back courtyard, looking at the stable to the west.
+At dusk, Ashina came back from the warden's house with his bow slung on his back again and went to stand in front of the stable on the west side of the back courtyard. Of the five horses, Cao One and the others had ridden off on three, leaving only the old chestnut and the yellow dun. He scooped a handful of feed beans from the trough and held them out flat on his palm for the old chestnut.
 
-The stable was more than half empty. There had been five horses; Cao One and the others had ridden off on three, leaving only an old chestnut and a yellow dun, heads down, eating hay.
+Rocking in his chair, Shen You told him about Jingyang: twenty carts, hauling grain, picking up horses, finding a man.
 
-"The horses?" he asked.
+"Jingyang. Who did they fight?"
 
-Only then did Shen You tell him about Jingyang: twenty carts, hauling grain, gathering horses, finding a man. And the twenty-five who'd driven the empty carts back from the transfer yard wouldn't be going north of the Wei tomorrow.
+"Word is, they captured a great general."
 
-When Ashina had heard it all, he stood there a long time without a sound.
+"That is the vanguard. The vanguard loses, the khan's camp does not turn back. By my count, tonight the khan's camp already presses down onto the tableland northeast of Jingyang."
 
-"Jingyang," he asked. "Who did they fight?"
+The old chestnut licked his palm clean.
 
-"They say a great general was captured."
+"One day to gather in. The day after tomorrow, at the Wei. Outriders are faster. Tonight, from Jingyang south, all Turkic horses. Your people, coming back, must cross the Wei."
 
-Ashina nodded.
+Shen You slowly sat up straight in the rocking chair. The Wei. The Bian Bridge. Six riders. The day he hadn't been able to pin down in the hot pool last night, this Turk had just reckoned out for him: the day after tomorrow.
 
-"That is the vanguard," he said. "Turkic custom: the vanguard rides ahead of the khan's camp, two days' march. Today the vanguard loses at Jingyang. The khan's camp will not turn back. The khan's camp goes south. To the Wei."
+"Tomorrow, as soon as the city gates open, you take the chestnut and Zheng One takes the dun, and you go to the north bank at the Middle Wei Bridge to bring our people in. I'll have Zhou One make another copy of your letter for Zheng One to carry. Anybody stops you on the road, he pulls it out. Wherever you go, he goes. Zheng One speaks Turkic too. If you run into Turkic outriders—which of you does the talking?"
 
-Shen You had been leaning back in the rocking chair. At that, he slowly sat up straight.
+Ashina pulled tight a loose buckle on the old chestnut's halter. He had been through this gate less than half a day.
 
-"How many days?"
+"I do."
 
-"The day after tomorrow, the khan reaches the Wei," Ashina said. "Outriders go faster. Tonight, north of the Wei, from Jingyang south, it is all Turkic horses."
-
-"Your people," he said, "when they come back, must cross the Wei."
-
-No one in the back courtyard spoke. Over in the kitchen, Zhou Three was feeding wood into the stove. A stick fell on the floor; she bent, picked it up, and shoved it in.
-
-Shen You looked at Ashina.
-
-The Wei. The Bian Bridge. Six riders. The day he hadn't been able to pin down in the hot pool last night, this Turk had worked out for him.
-
-The day after tomorrow.
-
-"Tomorrow, as soon as the city gates open," Shen You said, "you take the chestnut, Zheng One takes the yellow dun, and the two of you go to the Wei bridge to bring our people in. Zheng One hasn't gone out with the camel caravan these past couple of days. He's right here in the east compound."
-
-Ashina froze.
-
-He'd been through this gate less than half a day.
-
-"Zheng One speaks Turkic," Shen You said. "If you run into Turkic outriders, which of you does the talking?"
-
-Ashina looked at him. He looked for a long time.
-
-"I do," he said.
-
-"Then you talk."
-
-Shen You leaned back, and the rocking chair gave a creak.
-
-Zhou One stood under the veranda. He said nothing, only turned and went off toward the front courtyard. Shen You knew he was going to find Chen Six.
+"Then you talk." Shen You lay back, fished out the half flatbread he'd tucked into his sleeve, and took a bite.
 
 ***
 
-The Hour of the Rooster. Jingyang.
+At the Hour of the Rooster, the pack train reached Jingyang, the sun sitting low on the western hills.
 
-By the time the pack train arrived, the sun was already sinking onto the hills in the west.
+The battle had been fought across a broad field of harvested millet, the stubble trampled to mush by hooves. North of it lay the river flat of the Jing, with reeds taller than a man. The Turkic dead had been dragged to the east end, where a few militiamen were stripping off their sheepskin coats and boots. The Tang dead lay apart, pair after pair of feet sticking out from under straw mats. Dead horses lay everywhere. Some weren't quite dead, and lay on their sides, kicking, one slow kick after another.
 
-Before them lay a broad stretch of harvested millet field, the stubble in rows, trampled to mush by hooves. North of the field was a river flat. The Jing River came curving in from the northwest, and its muddy yellow water spread out across the flat in three or four channels. Reeds grew taller than a man along it.
+Cao One handed the dapple-gray to Feng Three, walked over to a Turkic horse that was still kicking, and crouched beside it. He laid his hand on its neck and hummed a low line of a wordless tune, and the horse stopped kicking. He looked at Feng Three and shook his head. Feng Three drew a short knife and drove it in under the horse's neck. Cao One stood and went on to the next one.
 
-This millet field was where the battle had been fought.
+The pack train handed over the flatbread and parched-grain meal. The man who took delivery was the Deputy Garrison Commandant of one of the militia garrisons, surnamed Liang—in his forties, his right arm in a sling across his chest, the blood on his iron armor dried in patches like rust. Not until the last sack of meal hit the ground did he say a word. "Right on time."
 
-The twenty of them led the mules into the field. No one spoke.
+Chu One stepped up, made a folded-hands bow, and asked which way the Turks had come from.
 
-The dead had already been dealt with. The Turkic corpses had been dragged to one spot and piled at the east end of the field, where a few militiamen were stripping off their sheepskin coats and boots. The Tang dead lay apart, covered with straw mats. From under the mats stuck out pair after pair of feet, some in hemp sandals, some bare.
+"What's a mule driver want to know that for?" Deputy Commandant Liang said—but his eyes had gone to Chu One's feet, set exactly as wide apart as those of the squad leaders under him who'd been fighting for ten years. He pointed northeast with his good left hand. "Came down off that tableland there. Two thousand-odd riders, coming on one band at a time—shoot a while, then peel off to both sides. You go after 'em, chase too far, and the two sides fold shut and wrap you up like a dumpling."
 
-The blood had already soaked into the earth, and the earth was black. Flies droned, rising and settling in clouds.
+He spat on the ground.
 
-And there were horses.
+"The general didn't chase. Formed a ring and let 'em shoot, and only when they'd shot themselves out did he hit 'em from the flank. Their horses had run better than a thousand li. The flesh was long gone off 'em."
 
-Dead horses lay all over the field, their bellies swollen high. Some weren't quite dead yet. They lay on their sides, all four legs kicking, one kick at a time, a snort of breath with every kick.
+Chu One bowed his thanks.
 
-Cao One stood at the edge of the field and didn't move.
+Zheng Six had long since gone to crouch by the pile of corpses, sorting through what the militiamen had left behind after stripping them. He picked up a short horn bow with sinew wrapped along its back, drew it halfway, and let it go. "Seven dou. Goes soft halfway through the draw. Inside fifty paces, it'll do. Any farther, it's all bluff." Nine corpses in ten wore no armor.
 
-He looked for a long time. Then he handed the dapple-gray's reins to Feng Three and walked out into the field alone. He went to a Turkic horse that was still kicking, crouched down, and laid his hand on its neck.
+He slung the bow over his own back and walked back to Chu One. "Soft bows, no armor. Stand and trade shots, they can't outshoot us."
 
-The horse's eyes were rolled back, more white than dark. Cao One hummed something low under his breath. No words, only a tune. The horse stopped kicking.
+Chu One drew a line in the dirt with a stick.
 
-He looked up and shook his head at Feng Three.
-
-Feng Three came over, drew a short knife from his belt, found the right spot under the horse's neck, and drove it in. The horse shuddered once, and went still.
-
-Cao One stood and went on to the next one.
+"At night," Zheng Six said, "they've got to get off their horses and sleep."
 
 ***
 
-The pack train handed over the flatbread and parched-grain meal, and another page of Granary Officer Dugu's ledger filled up with ticks.
+Feng Five searched for more than half a double-hour. He walked the camp of Meng the Eldest's garrison and didn't ask anyone; there would be twenty or thirty men in there, at the very least, who were somebody's eldest. Elder Meng had said his eldest stood a head taller than he did, with a mole in his left eyebrow. And Feng Five remembered something else: before Elder Meng said anything, he always wiped the sweat off with his sleeve.
 
-The man who received the flatbread was a Deputy Garrison Commandant from one of the militia garrisons, surnamed Liang. He was in his forties, with one arm in a sling across his chest. The blood on his iron armor had dried in patches, like rust. He watched the twenty mules being unloaded with no particular expression, and only when the last sack of meal had hit the ground did he say, "Right on time."
+At one fire, seven or eight militiamen were gathered, waiting for flatbread to be handed out. When his turn came, a young man with blood seeping through the cloth wrapped around his left arm first wiped his right sleeve across his forehead.
 
-Chu One went over, made a folded-hands bow, and asked him which direction the Turks had come from.
+Feng Five walked over. "Meng the Eldest. You wipe your sweat before you take your bread, same as your father. I'm from the Shen house in Kaiming Ward. He asked me to look in on you."
 
-Deputy Commandant Liang gave him a look. A mule-driving laborer had no business asking that. But this laborer stood with his feet set exactly as far apart as the handful of squad leaders under him who'd been fighting for ten years.
+The young man looked up—a mole in his left eyebrow—and nearly dropped his flatbread into the fire. He pulled Feng Five off to one side and asked the same thing three times over: Is Pa all right, is Ma all right, is Erlang all right. Feng Five answered each in turn, then told him how, the day before yesterday, Elder Meng had checked against the official measure and sold the Shens eight shi of millet, at fifty coins a dou.
 
-He pointed off to the northeast.
+"Fifty coins? Pa, with that temper of his? Won't take a coin more, won't sell for a coin less—and he sold to you?"
 
-"Came down off the tableland over there, two thousand-odd riders. Split into a dozen-some bands, a hundred-odd riders a band. No formation, they charge scattered. At a hundred paces they shoot, and when they've shot, they peel off to both sides and the next band comes up," he said. "If you push forward to chase them, you can't catch them. Chase too far, and the ones on the sides close in around you."
+"Checked the measure first."
 
-"Then how did you win?"
-
-Deputy Commandant Liang gave a laugh, very short.
-
-"The general didn't chase," he said. "He had the infantry form up behind big shields and just stand there and let them shoot. They shot for a whole double-hour, till their horses were blown and most of their arrows were spent. Only then did he take the cavalry out on the flank."
-
-He raised the arm that wasn't in the sling and pointed toward the pile of corpses at the east end of the field.
-
-"Their horses had run more than a thousand li with no fodder. The flesh had come off them long ago. Ours were saddled fresh this morning."
-
-Chu One followed his hand and looked for a long time before he said, "Thank you."
-
-Zheng Six wasn't there.
-
-He was crouched by the pile of Turkic corpses, sorting through the things the militiamen had stripped off and didn't want.
-
-A bow. A horn bow, short, its back wrapped with sinew, the grip worn black. He drew it halfway and let it go.
-
-"Seven dou," he said.
-
-He picked up a few arrows next. The shafts were willow, uneven in thickness. Some heads were iron, some ground from bone, and on one arrow, set just behind the head, was a bone whistle with holes in it.
-
-"A whistling arrow." He turned it over in his hand.
-
-Then he went to look at the corpses. Not at their faces—at their bodies. Sheepskin coats, felt caps, leather boots. Nine in ten had no armor. Only one had a bronze mirror the size of a palm hung on his chest, and an arrow had gone straight through the mirror.
-
-Zheng Six stood up, dusted the dirt off his hands, and walked back to Chu One.
-
-"Soft bows, mixed arrows, no armor," he said. "But fast. Standing and trading shots, they can't outshoot us. Shooting on the move, we can't keep up."
-
-"And at night?" Chu One asked.
-
-Zheng Six thought about it.
-
-"At night," he said, "they've got to get off their horses and sleep."
-
-***
-
-Feng Five spent more than half a double-hour looking for his man.
-
-The militia camped by garrison, one patch of ground to a garrison. Elder Meng had been able to say which garrison his eldest belonged to, so Feng Five walked that garrison's patch of camp. He didn't ask anyone. Asking was no use; in a camp of several hundred men, there'd be twenty or thirty at the very least who were somebody's eldest.
-
-He looked.
-
-Elder Meng had said his eldest stood a head taller than he did, with a mole in his left eyebrow. There were a few men like that in the camp too.
-
-But Elder Meng had one more habit: before he said anything, he'd wipe the sweat off with his sleeve.
-
-Feng Five stopped beside one of the bonfires.
-
-Seven or eight militiamen were gathered around it, waiting for flatbread to be handed out. One of them, a young man, had a cloth wrapped around his left arm, with blood seeping through it. When it was his turn to take a flatbread, he first wiped his right sleeve across his forehead, and only then reached out.
-
-Feng Five walked over.
-
-"Meng the Eldest?"
-
-The young man started and looked up at him. In his left eyebrow, a mole.
-
-"You're..."
-
-"From the Shen house in Kaiming Ward," Feng Five said. "Your father asked us to look in on you."
-
-Meng the Eldest nearly dropped his flatbread.
-
-He pulled Feng Five off to one side, his voice gone rough, and asked the same thing three times over: Is Pa all right, is Ma all right, is Erlang all right. Feng Five answered each one. When he got to how Elder Meng had sold eight shi of millet to the Shen family, at fifty coins a dou, Meng the Eldest's mouth fell open.
-
-"Pa was willing to sell?"
-
-"He checked it against an official dou first," Feng Five said.
-
-Meng the Eldest laughed. Laughing, he wiped his sleeve across his face. It wasn't sweat he was wiping.
-
-"The Shens?" he asked. "That short-haired Little Master Pa talked about?"
-
-"That's right."
-
-Meng the Eldest looked at Feng Five, then at Chu One and the others leading mules in the distance. He seemed about to say something, but in the end he didn't.
-
-He told Feng Five that his mess of ten had been on half rations since the day before yesterday, and that in this morning's fighting one had been killed and three wounded. His arm was where an arrow had grazed him; not deep. As he talked, he took something from the front of his tunic and pressed it into Feng Five's hand.
-
-It was an arrowhead ground from bone, a few splinters of wood still on its point.
-
-"Stuck in my shield," he said. "Give it to Erlang. Tell him his big brother's fine."
-
-Feng Five put the bone arrowhead away safely.
-
-Meng the Eldest dropped his voice. "There's one more thing. I don't know if I ought to say it."
-
-"Say it."
-
-"Around noon the battalion commander was questioning some of the Turks we caught. I was off to one side minding horses," Meng the Eldest said. "There was one who could speak a few words of our talk, and he kept laughing. The battalion commander asked him what he was laughing at. He said, 'You fought our vanguard. The khan is still behind.'"
+Meng the Eldest laughed, and in the middle of laughing he dragged his sleeve across his face. It wasn't sweat he was wiping. "The Shens—that's the short-haired Little Master Pa talked about?"
 
 Feng Five nodded.
 
-"That," he said, "I'll carry back for you."
+Meng the Eldest told him his mess of ten had lost one man today and had three wounded; the arrow had only grazed his arm, not deep. He took an arrowhead ground from bone out of the front of his tunic, splinters of wood still on its point, and pressed it into Feng Five's hand. "Stuck in my shield. Give it to Erlang. Tell him his big brother's fine. And there's one more thing—I don't know if I ought to say it. Around noon the battalion commander was questioning the Turks we caught, and I was off to the side minding horses. One of 'em could talk a little of our tongue, and he kept laughing. The battalion commander asked what was so funny, and he said, 'You fought our vanguard. The khan is still behind.'"
+
+Feng Five tucked the bone arrowhead into the front of his robe. "That, I'll carry back for you."
 
 ***
 
-After the sun went down, mist rose over the river flat.
+The sun went down, and mist rose over the river flat.
 
-Deputy Commandant Liang's men had been in pursuit all afternoon, and men and horses alike were worn out. The Turkic horses scattered through the reeds on the flat and in the ditches and gullies along the fields—they had no time for those, and couldn't catch them anyway. Turkic horses were wary of strangers. With no rider, they bolted at the sight of a Tang soldier and ran into the reed beds, and when a man went in after them, they came out the other end.
+The Turkic horses scattered through the reed beds had lost their riders and shied from strangers. The moment a man went into the reeds, they slipped out the other side.
 
-Cao One didn't go into the reeds.
+Cao One didn't go into the reeds. He led the dapple-gray to the edge of the river flat and stopped. The mist crept up off the water and over his bowed legs. He began to hum—the same wordless tune, so low it could barely be heard—and the dapple-gray snorted twice along with it.
 
-He led the dapple-gray to the edge of the river flat and stopped.
+A big gray head pushed out of the reeds, nostrils flaring and closing. It took one step forward, then another, came up to the dapple-gray, and touched noses with it. Then a second horse came out. A third. A fourth.
 
-He stood there a long time.
+Deputy Commandant Liang had been talking with Granary Officer Dugu. He stopped in the middle of a sentence. One after another, the horses were coming out of the reeds—lame ones, ones trailing half a rein, ones with their saddles slipped round under their bellies—not running, not whinnying, heads low, walking up to the short man and standing in a ring around him. Beside Deputy Commandant Liang, an old soldier who'd tended horses for twenty years began murmuring the Buddha's name.
 
-The mist crept in off the water, over his bowed legs, over the dapple-gray's hooves. The daylight dimmed bit by bit, until all that was left on the river flat was the sound of the water.
+"That fellow," Deputy Commandant Liang said, "must be a horse that turned into a man."
 
-Then he began to hum.
-
-The same wordless tune as before, very low, so low it could hardly be heard. Beside him, the dapple-gray snorted along with it, and snorted again.
-
-Something stirred in the reeds.
-
-A horse's head pushed out of the reeds. Gray, big-headed, with a short, thick neck. It stood at the edge of the reeds, ears swiveling, nostrils flaring, sniffing for a long time.
-
-Cao One didn't move. He kept humming.
-
-The horse took one step forward, then another, and came up to the dapple-gray, and the two of them touched noses.
-
-Then a second one came out. A third. A fourth.
-
-Deputy Commandant Liang had been standing at the edge of the field, talking with Granary Officer Dugu. Halfway through a sentence, he stopped.
-
-The horses in the reed beds were coming out one after another. Some limping, some with half a rein still dangling from them, some with their saddles slipped round under their bellies. They didn't run, and they didn't whinny. Heads low, one following another, they walked up to the short man and stood in a ring around him.
-
-Seen through the mist, it looked as if a dark grove of trees had sprung up on the river flat.
-
-An old soldier beside Deputy Commandant Liang, a man who'd tended horses in the army for twenty years, watched this and murmured something under his breath. It was the Buddha's name.
-
-"That man," Deputy Commandant Liang said slowly, "must be a horse that turned into a man."
-
-Granary Officer Dugu tucked his ledger under his arm and said nothing. He was thinking of how, between Kaiyuan Gate and the north bank of the Wei bridge, he'd asked their leader twice: *Your employer—just what line of work is he in?*
+Granary Officer Dugu made another tick in his ledger. Twice now he had asked what the Shens' employer did for a living. He didn't ask again.
 
 ***
 
-The horses came to seventy-one in all.
+The horses came to seventy-one in all. Spoils went to the state, so the good ones, forty-seven head, were led away. The remaining twenty-four—lame, wounded, or so starved down they could barely stand—would by rights have been butchered for meat that night. Deputy Commandant Liang looked them over and waved a hand. "These, if you want 'em, take the whole lot. Call it your carting fee."
 
-Deputy Commandant Liang had them counted off one by one. Spoils went to the state; that was the rule, and he didn't stand on ceremony with the Shen people. Every good one went, forty-seven head. The remaining twenty-four—the lame, the wounded, the ones so starved down they could barely stand—he looked over once, and waved his hand.
+A camp scribe wrote out a chit: *After the battle at Jingyang: twenty-four wounded Turkic horses, given to the Shen house's hired laborers as carting fee.* Deputy Commandant Liang put his mark on it, and Granary Officer Dugu put his own mark beside it. Chu One tucked the chit away flat against his chest.
 
-"These, if you want them, take them," he said. "Call it your carting fee."
+Feng Three went down the line, prying open mouths, running his hands down legs, lifting hooves. When he was done, he told Chu One, "Nineteen can be ridden in half a month. Three need a month. Two I'll go over again once we're home."
 
-By rights, these horses would have been butchered for meat that night.
+Cao One was crouched in front of a gray mare, cradling her left forefoot in his hands. She was the lamest of them all; Deputy Commandant Liang's men had thrown her into the "don't want" pile at a glance.
 
-Feng Three went down the line one by one, prying open mouths, feeling legs, lifting hooves. When he'd finished, he told Chu One, "Nineteen can be ridden after half a month's care. Three will need a month. Two..."
+Cao One spoke into the mare's ear. "Stone bruise. Bit of blood pooled under the sole. Ten days and you're fine. Aren't you? You were the first one out. If you hadn't come out, the rest wouldn't have dared to move."
 
-He didn't finish. Chu One understood.
+Feng Three leaned in. "If it heals in ten days, what are you squatting there all this time for?"
 
-Deputy Commandant Liang had a scribe write out a chit: *After the battle at Jingyang: twenty-four wounded Turkic horses, given to the Shen house's hired laborers as carting fee.* He put his mark on it, and Granary Officer Dugu put his own mark beside it.
-
-Chu One tucked the chit into the front of his tunic and settled it flat against his chest.
-
-Cao One paid none of this any mind. He was leading a gray mare, crouched on the ground examining her left forefoot. She was badly lame; Deputy Commandant Liang's men had put her in the "don't want" pile at a single glance.
-
-"Stone bruise," Cao One told Feng Three. "There's blood pooled under the sole, but it's nothing serious. Ten days and she'll be fine."
-
-Feng Three took a look and nodded.
-
-"Then why the face, like..."
-
-"She's the lead mare," Cao One said.
-
-He didn't look up as he said it. His hand kept moving over the mare's hoof.
-
-"Just now, coming out of the reeds, she was the first one. Once she came out, the rest dared to follow," he said. "A Turkic herd follows its lead mare. Wherever the lead mare runs, the whole herd runs."
-
-Feng Three looked at him.
-
-"This one," Cao One said, "knows her own herd."
+Cao One didn't look up. "She's the lead mare. A Turkic herd follows its lead mare. She knows her own herd."
 
 ***
 
-The second watch.
+At the second watch, the pack train bedded down in an empty village south of the millet field. The twenty-four horses were tethered on the threshing floor at the mouth of the village. The dapple-gray wasn't tied; it stood at the edge like a sentry at the door. Feng Five took first watch, sitting on the millstone with his *hengdao* across his knees and the bone arrowhead clutched in his hand.
 
-The pack train was resting in an empty village south of the millet field. The villagers had all fled. Gourds no one had picked still hung on the earthen walls, and in one courtyard there was a well with its rope still there.
+Zheng Six couldn't sleep and climbed the earthen slope behind the village, and Chu One came up after him. The two of them waited until their eyes got used to the dark, then looked south first. The Wei was out there; they couldn't see it. Then they turned around. To the northeast, there were fires.
 
-The twenty-four horses were tethered on the threshing floor at the mouth of the village. The dapple-gray wasn't tied. It stood at the edge of the herd like a sentry at the door.
+At first only a few points, like the lamps of some household. The longer they looked, the more there were—point beside point, patch joined to patch—spreading a dozen-some li across the far side of the tableland.
 
-Feng Five took the first watch, sitting on the millstone at the village entrance with a *hengdao* across his knees and the bone arrowhead clutched in his hand.
+Zheng Six counted them patch by patch, pressing a thumbnail into a knuckle every time he reached a hundred. At thirty-some knuckles, he stopped. "Three thousand-some fires. That's the ones we can see. Farther east they all run together. No counting those."
 
-Zheng Six couldn't sleep. He climbed the earthen slope behind the village.
+"Tomorrow we take the gullies to the south," Chu One said. "Wrap the horses' muzzles in cloth."
 
-Chu One followed him up.
+Down the slope, every horse on the threshing floor suddenly turned its head, ears pricked toward the northeast. The gray mare stood at the front, holding up her lame leg, neck stretched straight out, and neighed at that sea of fire, long and shrill. Cao One rose from among the horses, laid a hand on her neck, and hummed a couple of low phrases. She went quiet, but her ears stayed up. Feng Five climbed down from the millstone and asked him what was wrong.
 
-The wind was strong on the slope, strong enough that they could hardly keep their eyes open. The two of them stood there a while, until their eyes slowly got used to the dark, and looked south.
+Cao One kept his eyes on the fires to the northeast. "They say," he said, "there are more horses over there than there are stars in the sky."
 
-To the south was the Wei. They couldn't see it; they only knew it lay in that direction.
-
-Behind them, to the northeast, there were fires.
-
-At first only a few points, like the lamps of some household. The longer they looked, the more there were—one point beside the next, one patch joining the next—spreading out beyond the far side of the tableland to the northeast, a dozen-some li across, with no end in sight.
-
-Chu One looked for a long time without saying a word.
-
-Zheng Six began to count. He counted patch by patch, and every time he reached a hundred he made a mark, then went on counting. When he'd counted past three thousand, he stopped.
-
-"Three thousand-some fires that we can see," he said. "The ones we can't, no telling."
-
-"How many men to a fire?"
-
-"No telling," Zheng Six said. "How the Turks make camp—nobody in our house has ever seen it."
-
-The two of them stood in the wind, and neither said anything more.
-
-Down the slope, on the threshing floor, the horses suddenly grew restless. All twenty-four of them turned their heads toward the northeast, ears pricked, nostrils flaring. The gray mare stood at the front, holding one leg off the ground, her neck stretched out straight toward that sea of firelight, and let out a cry.
-
-It was long and shrill, and it carried far into the night.
-
-Cao One got up from among the horses, went to her side, laid a hand on her neck, and hummed a couple of low phrases. She stopped crying out, but her ears stayed pricked.
-
-Feng Five climbed down from the millstone, walked over, and asked him what was wrong.
-
-Cao One gazed at that field of fires to the northeast for a long time.
-
-"They say," he said, "there are more horses over there than there are stars in the sky."
-
-Tomorrow they would have to take twenty-four wounded horses past the edge of those fires and back across to the south side of the Wei.
+Tomorrow they would have to take twenty-four wounded horses along the edge of those fires and back to the south side of the Wei.
