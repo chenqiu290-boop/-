@@ -106,7 +106,7 @@ At the Hour of the Goat, the victory dispatch reached the Palace City, and the n
 
 "You folks never saw that lance-thrust, and your warden here didn't either, but the patrolman who brought word swore up and down: Yuchi Jingde drives his lance in, and there's three Turks on it at once, strung up like cured pork over the stove!"
 
-He was on his second telling when someone in the crowd asked, "So they caught one big general—are the Turks still coming or not? The khan's got a hundred thousand-some men. What if they really get to the walls?"
+He was on his second telling when someone in the crowd asked, "So they caught one big general—are the Turks still coming or not? The khan's got a hundred-some thousand men. What if they really get to the walls?"
 
 Old Man Wang rapped his tongs on the rim of his oven. "What if? This oven of mine's sat in the same spot twenty years. Turks show up, they'll have to buy a couple of my flatbreads first."
 
@@ -198,7 +198,7 @@ Zhou One dipped his brush again and waited.
 
 *Full logging, open access, anyone who wants to audit is welcome to read*—that was how it ran in his head.
 
-Zhou One blew the copy dry, folded the original, and handed both to Zheng Three, who was waiting by the gate. "I shall have Chen Six keep an eye on him for a couple of days, all the same."
+Zhou One blew the copy dry, folded the original, and handed both to Zheng Three, who was waiting by the gate. "I shall have Chen Six keep an eye on him for a couple of days."
 
 "Go ahead. He knows you will."
 
@@ -248,11 +248,11 @@ Chu One stepped up, made a folded-hands bow, and asked which way the Turks had c
 
 He spat on the ground.
 
-"The general didn't chase. Formed a ring and let 'em shoot, and only when they'd shot themselves out did he hit 'em from the flank. Their horses had run better than a thousand li. The flesh was long gone off 'em."
+"Yuchi didn't chase. Formed a ring and let 'em shoot, and only when they'd shot themselves out did he hit 'em from the flank. Their horses had run better than a thousand li. The flesh was long gone off 'em."
 
 Chu One bowed his thanks.
 
-Zheng Six had long since gone to crouch by the pile of corpses, sorting through what the militiamen had left behind after stripping them. He picked up a short horn bow with sinew wrapped along its back, drew it halfway, and let it go. "Seven dou. Goes soft halfway through the draw. Inside fifty paces, it'll do. Any farther, it's all bluff." Nine corpses in ten wore no armor.
+Zheng Six had long since gone to crouch by the pile of corpses, sorting through what the militiamen had left behind after stripping them. He picked up a short horn bow with sinew wrapped along its back, drew it halfway, and let it go. "A seven-dou bow. It goes soft halfway through the draw. Inside fifty paces, it'll do. Any farther, it's all bluff." Nine corpses in ten wore no armor.
 
 He slung the bow over his own back and walked back to Chu One. "Soft bows, no armor. Stand and trade shots, they can't outshoot us."
 
